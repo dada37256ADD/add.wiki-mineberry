@@ -51,10 +51,14 @@ Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 
 ### <mark style="color:orange;">Article D : Les Alliances d'îles</mark>
 
-* Toute forme d'alliance entre îles est interdite si elle a pour but de vous faire progresser dans le classement d'île ou dans les avants-post (cela comprend les items de niveau d'ile du mois, l'argent, ainsi que tout autre item permettant de propulser une ile dans le classement). Tout abus sur ceci sera sanctionné.
-* Il est interdit d'utiliser une île tierce à but de contourner des limites (Hoppers, joueurs etc) sur votre île secondaire (avec l’utilisation d’un double compte par exemple)
+Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour but d’obtenir un avantage dans le **classement des îles** ou dans les **Avants-Postes**.\
+Cela inclut notamment le partage d’items de niveau du mois, d’argent, ou de toute autre ressource susceptible d’influencer le classement d’une île.
 
-Toute alliance en pvp ou pour les Avants Postes sont **interdites** !
+Il est également interdit d’utiliser une île tierce dans le but de **contourner les limites techniques** de votre propre île (ex : nombre de hoppers, limite de joueurs, etc.), y compris via l’usage de double comptes.
+
+Les alliances en **PvP** ou dans les **zones d’Avants-Postes** sont également interdites, quelle que soit leur forme.
+
+Tout abus ou contournement de ces règles entraînera une sanction adaptée à la gravité de la situation.
 
 ## <mark style="color:orange;">Partie II : Le Gameplay</mark>
 
@@ -63,8 +67,15 @@ Toute alliance en pvp ou pour les Avants Postes sont **interdites** !
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
-* Il est interdit de récupérer du stuff ou des schématiques sur une île avant de la quitter sans accord préalable avec son chef.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
+
+#### **Action sur une île :**&#x20;
+
+En cas de départ volontaire d’une île, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
+
+Si un joueur est banni de son île par le chef, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement après le bannissement.
+
+Toute copies de farms/constructions présentes sur l’île est strictement interdite sans l’accord explicite du chef de l’île, et ce même si vous prévoyez de quitter l’île.
 
 {% hint style="info" %}
 Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
@@ -78,9 +89,7 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 * Vente d'items contre de l'argent réel ou contre des gemmes.
 * Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
 * La construction obscène, raciste et discriminante.
-* Les jeux de hasard :&#x20;
-  * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le pourcentage d’obtention des lots.
-  * En cas de doute sur la fiabilité d'un casino, il est possible de demander à un Modérateur de le vérifier.
+* Il est interdit de créer des jeux de hasard/casino.
 * Le tp-kill est interdit ainsi que tout kill en dehors de zone pvp. Il est interdit de usebug bloc à MarineFord, zone AP ou zone duels.
 * Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
 * La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
@@ -160,6 +169,8 @@ Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à u
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
 * Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci est prohibé sur Mineberry.
+
+
 
 ## <mark style="color:orange;">Partie III : Le Chat</mark>
 

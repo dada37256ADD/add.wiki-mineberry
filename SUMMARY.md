@@ -5,7 +5,7 @@
 ## 🧷 Informations générales
 
 * [🧷 Règlement In-Game](informations-generales/reglement-in-game.md)
-* [⁉️ Contribuer](CONTRIBUTING.Md)
+* [Contribuer](CONTRIBUTING.Md)
 * [🤚 Règlement Discord](informations-generales/reglement-discord.md)
 * [⁉️ Tutoriels](informations-generales/tutoriels/README.md)
   * [➡️ Comment rejoindre MineBerry ?](informations-generales/tutoriels/comment-rejoindre-mineberry.md)
