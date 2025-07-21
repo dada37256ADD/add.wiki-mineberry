@@ -9,7 +9,7 @@
 * [🤚 Règlement Discord](informations-generales/reglement-discord.md)
 * [⁉️ Tutoriels](informations-generales/tutoriels/README.md)
   * [➡️ Comment rejoindre MinePiece ?](informations-generales/tutoriels/comment-rejoindre-mineberry.md)
-  * [📓 Comment voter pour MineBerry ?](informations-generales/tutoriels/comment-voter-pour-mineberry.md)
+  * [📓 Comment voter pour MinePiece ?](informations-generales/tutoriels/comment-voter-pour-mineberry.md)
   * [⚖️ Retrouver le règlement](informations-generales/tutoriels/retrouver-le-reglement.md)
 * [❔ Questions Récurrentes](informations-generales/questions-recurrentes.md)
 
