@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🪙 Bienvenue sur Mineberry !](README.md)
+* [🪙 Bienvenue sur MinePiece !](README.md)
 
 ## 🧷 Informations générales
 
@@ -8,7 +8,7 @@
 * [Contribuer](CONTRIBUTING.Md)
 * [🤚 Règlement Discord](informations-generales/reglement-discord.md)
 * [⁉️ Tutoriels](informations-generales/tutoriels/README.md)
-  * [➡️ Comment rejoindre MineBerry ?](informations-generales/tutoriels/comment-rejoindre-mineberry.md)
+  * [➡️ Comment rejoindre MinePiece ?](informations-generales/tutoriels/comment-rejoindre-mineberry.md)
   * [📓 Comment voter pour MineBerry ?](informations-generales/tutoriels/comment-voter-pour-mineberry.md)
   * [⚖️ Retrouver le règlement](informations-generales/tutoriels/retrouver-le-reglement.md)
 * [❔ Questions Récurrentes](informations-generales/questions-recurrentes.md)

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici le règlement à respecter lorsque vous jouez sur MineBerry. Ce
+  Retrouvez ici le règlement à respecter lorsque vous jouez sur MinePiece. Ce
   règlement sera considéré comme lu et approuvé une fois connecté sur le
   serveur.
 ---

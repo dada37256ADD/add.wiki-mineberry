@@ -1,10 +1,10 @@
 ---
-description: Retrouvez ici le sommaire du Wiki de MineBerry
+description: Retrouvez ici le sommaire du Wiki de MinePiece
 ---
 
-# 🪙 Bienvenue sur Mineberry !
+# 🪙 Bienvenue sur MinePiece !
 
-Bienvenue sur le <mark style="color:yellow;">**wiki officiel du serveur Mineberry**</mark> ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
+Bienvenue sur le <mark style="color:yellow;">**wiki officiel du serveur MinePiece**</mark> ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
 
 Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du serveur**</mark>, ainsi que <mark style="color:yellow;">**les informations utiles**</mark> liées à Mineberry.
 
@@ -13,8 +13,8 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
 * [<mark style="color:orange;">**Règlement In-Game**</mark>](informations-generales/reglement-in-game.md)
 * [<mark style="color:orange;">**Règlement Discord**</mark>](informations-generales/reglement-discord.md)
 * [<mark style="color:orange;">**Tutoriels**</mark>](informations-generales/tutoriels/)
-  * [**Comment rejoindre MineBerry ?**](informations-generales/tutoriels/comment-rejoindre-mineberry.md)
-  * [**Comment voter pour MineBerry ?**](informations-generales/tutoriels/comment-voter-pour-mineberry.md)
+  * **Comment rejoindre MinePiece ?**
+  * **Comment voter pour MinePiece ?**
   * [**Retrouver le règlement**](informations-generales/tutoriels/retrouver-le-reglement.md)
 * [<mark style="color:orange;">**Questions Récurrentes**</mark>](informations-generales/questions-recurrentes.md)
 
@@ -45,13 +45,23 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
 * [<mark style="color:orange;">**Les Factions**</mark>](gameplay-partie-aventure/les-factions.md)
 * [<mark style="color:orange;">**Les Îles Aventure**</mark>](gameplay-partie-aventure/les-iles-aventure/)
   * [**Fuchsia**](gameplay-partie-aventure/les-iles-aventure/fuchsia.md)
-  * [**Ville Orange**](gameplay-partie-aventure/les-iles-aventure/ville-orange.md)
+  * [**Orange Town**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.be7xsyy8ru58)
   * [**Baratie**](gameplay-partie-aventure/les-iles-aventure/baratie.md)
+  * [**Arlong Park**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.pw0u0rno62yu)
+  * [**Logue Town**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.3b05uqke2wpv)
+  * [**Reverse Mountain**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.u2cz5lrioicx)
   * [**Alabasta**](gameplay-partie-aventure/les-iles-aventure/alabasta.md)
+  * [**Thriller Bark**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.tcg8r7f2xc2v)
+  * [**Amazon Lily**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.qo760m49eqn7)
+  * [**Jaya**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.ywi6mtqy4j52)
   * [**Skypiea**](gameplay-partie-aventure/les-iles-aventure/skypiea.md)
   * [**Water Seven**](gameplay-partie-aventure/les-iles-aventure/water-seven.md)
-  * [**Thriller Bark**](gameplay-partie-aventure/les-iles-aventure/thriller-bark.md)
+  * [**Enies Lobby**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.3fxwsd260jzy)
   * [**Sabaody**](gameplay-partie-aventure/les-iles-aventure/sabaody.md)
-  * [**Marine Ford**](gameplay-partie-aventure/les-iles-aventure/marine-ford.md)
-  * [**Impel Down**](gameplay-partie-aventure/les-iles-aventure/impel-down.md)
+  * **Île des Hommes Poissons**
+  * [**Punk Hazard**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.3du6th9o0zjw)
+  * [**Dressrosa**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.xkjdoyozfkgb)
+  * [**Zou**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.frcmezvsafqy)
+  * [**Whole Cake Island**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.4hsb86a2my01)
+  * [**Wano**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.xdcgzsbu4z2t)
 * [<mark style="color:orange;">**Les Amiraux**</mark>](gameplay-partie-aventure/les-amiraux.md)
