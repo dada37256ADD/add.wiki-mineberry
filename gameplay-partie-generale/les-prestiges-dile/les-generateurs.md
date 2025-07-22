@@ -22,19 +22,71 @@ Voici les détails de chacun des <mark style="color:yellow;">**8 niveaux**</mark
 
 ### <mark style="color:orange;">Niveau 1</mark>
 
-<table><thead><tr><th width="364">Ressource</th><th>Pourcentage</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Cobblestone</strong></mark></td><td><mark style="color:green;"><strong>70%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Pierre</strong></mark></td><td><mark style="color:green;"><strong>2O%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Charbon</strong></mark></td><td><mark style="color:green;"><strong>5%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Fer</strong></mark></td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Cuivre</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai d'Or</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Lapis-Lazuli</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Redstone</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Diamant</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr></tbody></table>
+| Ressource                                                 | Pourcentage                                  |
+| --------------------------------------------------------- | -------------------------------------------- |
+| <mark style="color:green;">**Roche**</mark>               | <mark style="color:green;">**20.00%**</mark> |
+| <mark style="color:green;">**Andésite**</mark>            | <mark style="color:green;">**1.00%**</mark>  |
+| <mark style="color:green;">**Granite**</mark>             | <mark style="color:green;">**1.00%**</mark>  |
+| <mark style="color:green;">**Diorite**</mark>             | <mark style="color:green;">**1.00%**</mark>  |
+| <mark style="color:green;">**Pierre**</mark>              | <mark style="color:green;">**70.00%**</mark> |
+| <mark style="color:green;">**Minerais de Charbon**</mark> | <mark style="color:green;">**5.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Fer**</mark>     | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:red;">**Minerais de Cuivre**</mark>    | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais d'Or**</mark>         | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais de Lapis**</mark>     | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais de Redstone**</mark>  | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais de Diamant**</mark>   | <mark style="color:red;">**–**</mark>        |
 
 ### <mark style="color:orange;">Niveau 2</mark>
 
-<table><thead><tr><th width="364">Ressource</th><th>Pourcentage</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Cobblestone</strong></mark></td><td><mark style="color:green;"><strong>70%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Pierre</strong></mark></td><td><mark style="color:green;"><strong>23%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Charbon</strong></mark></td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Fer</strong></mark></td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Cuivre</strong></mark></td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai d'Or</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Lapis-Lazuli</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Redstone</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Diamant</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr></tbody></table>
+| Ressource                                                 | Pourcentage                                  |
+| --------------------------------------------------------- | -------------------------------------------- |
+| <mark style="color:green;">**Roche**</mark>               | <mark style="color:green;">**17.00%**</mark> |
+| <mark style="color:green;">**Andésite**</mark>            | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:green;">**Granite**</mark>             | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:green;">**Diorite**</mark>             | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:green;">**Pierre**</mark>              | <mark style="color:green;">**67.50%**</mark> |
+| <mark style="color:green;">**Minerais de Charbon**</mark> | <mark style="color:green;">**5.50%**</mark>  |
+| <mark style="color:green;">**Minerais de Fer**</mark>     | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Cuivre**</mark>  | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:red;">**Minerais d'Or**</mark>         | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais de Lapis**</mark>     | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais de Redstone**</mark>  | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais de Diamant**</mark>   | <mark style="color:red;">**–**</mark>        |
 
 ### <mark style="color:orange;">Niveau 3</mark>
 
-<table><thead><tr><th width="364">Ressource</th><th>Pourcentage</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Cobblestone</strong></mark></td><td><mark style="color:green;"><strong>68%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Pierre</strong></mark></td><td><mark style="color:green;"><strong>18%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Charbon</strong></mark></td><td><mark style="color:green;"><strong>5%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Fer</strong></mark></td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Cuivre</strong></mark></td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai d'Or</strong></mark></td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Lapis-Lazuli</strong></mark></td><td><mark style="color:green;"><strong>1%</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Redstone</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Diamant</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr></tbody></table>
+| Ressource                                                 | Pourcentage                                  |
+| --------------------------------------------------------- | -------------------------------------------- |
+| <mark style="color:green;">**Roche**</mark>               | <mark style="color:green;">**16.00%**</mark> |
+| <mark style="color:green;">**Andésite**</mark>            | <mark style="color:green;">**2.50%**</mark>  |
+| <mark style="color:green;">**Granite**</mark>             | <mark style="color:green;">**2.50%**</mark>  |
+| <mark style="color:green;">**Diorite**</mark>             | <mark style="color:green;">**2.50%**</mark>  |
+| <mark style="color:green;">**Pierre**</mark>              | <mark style="color:green;">**62.50%**</mark> |
+| <mark style="color:green;">**Minerais de Charbon**</mark> | <mark style="color:green;">**6.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Fer**</mark>     | <mark style="color:green;">**3.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Cuivre**</mark>  | <mark style="color:green;">**3.00%**</mark>  |
+| <mark style="color:green;">**Minerais d'Or**</mark>       | <mark style="color:green;">**1.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Lapis**</mark>   | <mark style="color:green;">**1.00%**</mark>  |
+| <mark style="color:red;">**Minerais de Redstone**</mark>  | <mark style="color:red;">**–**</mark>        |
+| <mark style="color:red;">**Minerais de Diamant**</mark>   | <mark style="color:red;">**–**</mark>        |
 
 ### <mark style="color:orange;">Niveau 4</mark>
 
-<table><thead><tr><th width="364">Ressource</th><th>Pourcentage</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Cobblestone</strong></mark></td><td><mark style="color:green;"><strong>58%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Pierre</strong></mark></td><td><mark style="color:green;"><strong>24%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Charbon</strong></mark></td><td><mark style="color:green;"><strong>8%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Fer</strong></mark></td><td><mark style="color:green;"><strong>4%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Cuivre</strong></mark></td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai d'Or</strong></mark></td><td><mark style="color:green;"><strong>1%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Minerai de Lapis-Lazuli</strong></mark></td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Redstone</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Minerai de Diamant</strong></mark></td><td><mark style="color:red;"><strong>/</strong></mark></td></tr></tbody></table>
+| Ressource                                                  | Pourcentage                                  |
+| ---------------------------------------------------------- | -------------------------------------------- |
+| <mark style="color:green;">**Roche**</mark>                | <mark style="color:green;">**15.00%**</mark> |
+| <mark style="color:green;">**Andésite**</mark>             | <mark style="color:green;">**3.00%**</mark>  |
+| <mark style="color:green;">**Granite**</mark>              | <mark style="color:green;">**3.00%**</mark>  |
+| <mark style="color:green;">**Diorite**</mark>              | <mark style="color:green;">**3.00%**</mark>  |
+| <mark style="color:green;">**Pierre**</mark>               | <mark style="color:green;">**58.50%**</mark> |
+| <mark style="color:green;">**Minerais de Charbon**</mark>  | <mark style="color:green;">**6.50%**</mark>  |
+| <mark style="color:green;">**Minerais de Fer**</mark>      | <mark style="color:green;">**3.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Cuivre**</mark>   | <mark style="color:green;">**4.00%**</mark>  |
+| <mark style="color:green;">**Minerais d'Or**</mark>        | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Lapis**</mark>    | <mark style="color:green;">**2.00%**</mark>  |
+| <mark style="color:green;">**Minerais de Redstone**</mark> | <mark style="color:green;">**1.00%**</mark>  |
+| <mark style="color:red;">**Minerais de Diamant**</mark>    | <mark style="color:red;">–</mark>            |
 
 ### <mark style="color:orange;">Niveau 5</mark>
 
