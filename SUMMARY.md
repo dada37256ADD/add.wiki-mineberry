@@ -22,7 +22,7 @@
 * [⚙️ Les Prestiges d'île](gameplay-partie-generale/les-prestiges-dile/README.md)
   * [🔄 Les Générateurs](gameplay-partie-generale/les-prestiges-dile/les-generateurs.md)
 * [👷 Les Métiers](gameplay-partie-generale/les-metiers.md)
-* [🗒️ Les Quêtes](gameplay-partie-generale/les-quetes.md)
+* [🗒️ Les Parchemins](gameplay-partie-generale/les-quetes.md)
 * [🗡️ Le Pass de Combat](gameplay-partie-generale/le-pass-de-combat.md)
 * [🏅 Les Rangs](gameplay-partie-generale/les-rangs.md)
 * [👑 Les Grades](gameplay-partie-generale/les-grades.md)

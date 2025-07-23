@@ -1,50 +1,153 @@
 ---
-description: Retrouvez ici toutes les informations concernant les quêtes
+description: Retrouvez ici toutes les informations concernant les parchemins
 ---
 
-# 🗒️ Les Quêtes
+# 🗒️ Les Parchemins
 
-Au cours de votre aventure sur <mark style="color:yellow;">**MineBerry**</mark>, vous rencontrerez une variété de <mark style="color:yellow;">**quêtes**</mark> vous permettant de <mark style="color:yellow;">**collecter des récompenses**</mark> et de <mark style="color:yellow;">**progresser**</mark> à travers les différentes [<mark style="color:orange;">**Îles Aventure**</mark>](../gameplay-partie-aventure/les-iles-aventure/) proposées.&#x20;
+Les <mark style="color:yellow;">**parchemins**</mark> sont des objets spéciaux que vous pouvez obtenir tout au long de votre aventure sur <mark style="color:yellow;">**MinePiece**</mark>. Ils représentent des <mark style="color:yellow;">**quêtes temporaires**</mark> à accomplir dans un temps limité, en échange de <mark style="color:yellow;">**récompenses exclusives**</mark>.
 
-## <mark style="color:orange;">Quête Histoire</mark>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-23 à 15.53.41.png" alt=""><figcaption></figcaption></figure>
 
-Le menu <mark style="color:yellow;">**/quetes**</mark> offre plusieurs parcours, commençant par la <mark style="color:yellow;">**Quête Histoire**</mark>. Elle est conçue pour vous <mark style="color:yellow;">**accompagner**</mark> dès vos <mark style="color:yellow;">**débuts**</mark> sur le serveur, facilitant ainsi votre familiarisation avec la première [<mark style="color:orange;">**Île Aventure**</mark>](../gameplay-partie-aventure/les-iles-aventure/).
+## <mark style="color:orange;">Où obtenir des parchemins ?</mark>
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Menu <mark style="color:yellow;"><strong><code>/quete</code></strong></mark></p></figcaption></figure>
+Les parchemins peuvent être obtenus à travers plusieurs sources, parmi lesquelles :
 
-## <mark style="color:orange;">Succès</mark>
+* Les <mark style="color:yellow;">**métiers**</mark>&#x20;
+* Les <mark style="color:yellow;">**paliers de votes**</mark>
+* Les <mark style="color:yellow;">**caisses votes**</mark>
+* Les <mark style="color:yellow;">**rewards**</mark>
+* Les <mark style="color:yellow;">**caisses aventures**</mark>
 
-Une fois que vous avez accompli les <mark style="color:yellow;">**quêtes**</mark> de la section "<mark style="color:yellow;">**Quête Histoire**</mark>", les quêtes des <mark style="color:yellow;">**Îles Aventure**</mark> deviennent <mark style="color:yellow;">**disponibles**</mark> dans l'onglet "<mark style="color:yellow;">**Succès**</mark>".
+{% hint style="info" %}
+💡 Plus vous progressez dans le serveur et ses fonctionnalités, plus vous aurez de chances d'en récupérer régulièrement.
+{% endhint %}
 
-<mark style="color:yellow;">**Chaque île**</mark> présente <mark style="color:yellow;">**ses propres quêtes**</mark> à accomplir pour <mark style="color:yellow;">**débloquer le rang**</mark> suivant et ainsi accéder à la prochaine île.
+## <mark style="color:orange;">Niveaux de difficulté</mark>
 
-Le nombre de <mark style="color:yellow;">**succès**</mark> à débloquer <mark style="color:yellow;">**varie**</mark> d'une île à l'autre, et <mark style="color:yellow;">**chaque succès débloqué**</mark> vous rapporte <mark style="color:yellow;">**une ou plusieurs récompenses**</mark> spécifiques à la quête.&#x20;
+Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour les parchemins. Chacun propose des objectifs de plus en plus complexes, mais aussi des récompenses plus intéressantes :
 
-Ces <mark style="color:yellow;">**récompenses**</mark> comprennent des <mark style="color:yellow;">**Berry's**</mark>, auxquels peut s'ajouter <mark style="color:yellow;">**la monnaie propre à l'île**</mark>, et pour les quêtes les plus rares, l'<mark style="color:yellow;">**accès à la vente de certains objets**</mark>.
+<table><thead><tr><th width="137.4921875">Difficulté</th><th>Description rapide</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Facile</strong></mark></td><td>Parfait pour les débutants. Objectifs simples, durée courte.</td></tr><tr><td><mark style="color:blue;"><strong>Avancé</strong></mark></td><td>Requiert un peu plus d’implication.</td></tr><tr><td><mark style="color:purple;"><strong>Difficile</strong></mark></td><td>Commence à demander une bonne organisation.</td></tr><tr><td><mark style="color:yellow;"><strong>Expert</strong></mark></td><td>Pour les joueurs expérimentés. Missions longues ou techniques.</td></tr><tr><td><mark style="color:red;"><strong>Impossible</strong></mark></td><td>Extrêmement rares, très exigeants, mais les récompenses sont à la hauteur.</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Menu des Succès</p></figcaption></figure>
+## <mark style="color:orange;">Fonctionnement</mark>
 
-## <mark style="color:orange;">Contrats</mark>
+* Lorsqu’un parchemin est utilisé, une <mark style="color:yellow;">**quête temporaire**</mark> s’active.
+* Vous avez alors un <mark style="color:yellow;">**temps limité**</mark> pour remplir les objectifs définis (ex : tuer des monstres, récolter des ressources, cuire des objets, etc.).
+* En cas de réussite <mark style="color:yellow;">**avant l’expiration du temps imparti**</mark>, vous recevrez automatiquement une <mark style="color:yellow;">**récompense**</mark>, allant de simples Berrys à des objets uniques ou consommables puissants.
 
-Vous pourrez également remporter des <mark style="color:yellow;">**récompenses**</mark> grâce aux <mark style="color:yellow;">**contrats**</mark> disponibles dans :
+{% hint style="danger" %}
+❗ Si vous échouez ou laissez expirer un parchemin, il est perdu.
+{% endhint %}
 
-* Les <mark style="color:yellow;">**Caisses**</mark>
-* Les <mark style="color:yellow;">**Récompenses des votes**</mark>
-* Les <mark style="color:yellow;">**Récompenses des Jobs**</mark>
-* Les <mark style="color:yellow;">**Rewards**</mark>
+## <mark style="color:orange;">Récompenses</mark>
 
-Ces contrats sont des <mark style="color:yellow;">**missions spéciales**</mark> qui peuvent se <mark style="color:yellow;">**dérouler**</mark> soit sur <mark style="color:yellow;">**votre île**</mark>, soit sur <mark style="color:yellow;">**les îles aventure**</mark>. La <mark style="color:yellow;">**réussite**</mark> de ces missions dans le <mark style="color:yellow;">**délai imparti**</mark> vous permettra d'obtenir des <mark style="color:yellow;">**récompenses uniques**</mark>.
+### <mark style="color:green;">Parchemin Facile – Récompenses possibles :</mark>
 
-Il existe <mark style="color:yellow;">**différentes raretés**</mark> de contrats :
+* <mark style="color:green;background-color:green;">Parchemin Avancé</mark>
+* <mark style="color:green;background-color:green;">Bloc de fer x8</mark>
+* <mark style="color:green;background-color:green;">Bloc de lapis-lazuli x4</mark>
+* <mark style="color:green;background-color:green;">Bloc de diamant x1</mark>
+* <mark style="color:green;background-color:green;">1.500 Berrys</mark>
+* <mark style="color:green;background-color:green;">2.000 Berrys</mark>
+* <mark style="color:green;background-color:green;">3.000 Berrys</mark>
+* <mark style="color:green;background-color:green;">3.500 Berrys</mark>
+* <mark style="color:green;background-color:green;">4.000 Berrys</mark>
+* <mark style="color:green;background-color:green;">5.000 Berrys</mark>
+* <mark style="color:green;background-color:green;">Bonbon à la pomme x1</mark>
+* <mark style="color:green;background-color:green;">Livre de poche x1</mark>
+* <mark style="color:green;background-color:green;">Petit cristal x3</mark>
+* <mark style="color:green;background-color:green;">Familier aléatoire Commun x1</mark>
+* <mark style="color:green;background-color:green;">Berry de Bronze</mark>
 
-* <mark style="color:green;">**Contrat Facile**</mark>
-* <mark style="color:yellow;">**Contrat Avancé**</mark>
-* <mark style="color:blue;">**Contrat Difficile**</mark>
-* <mark style="color:purple;">**Contrat Expert**</mark>
-* <mark style="color:red;">**Contrat Impossible**</mark>
+***
 
-La <mark style="color:yellow;">**difficulté des contrats**</mark> est ajustée en fonction de leur <mark style="color:yellow;">**rareté**</mark> respective.
+### <mark style="color:blue;">Parchemin Avancé – Récompenses possibles :</mark>&#x20;
 
-{% hint style="warning" %}
-Les quêtes présentes dans cette section ne sont pas liées aux quêtes du Pass de Combat !
+* <mark style="color:blue;background-color:blue;">Parchemin Difficile</mark>
+* <mark style="color:blue;background-color:blue;">Bloc de diamant x4</mark>
+* <mark style="color:blue;background-color:blue;">5 Gemmes</mark>
+* <mark style="color:blue;background-color:blue;">2.000 Berrys</mark>
+* <mark style="color:blue;background-color:blue;">4.500 Berrys</mark>
+* <mark style="color:blue;background-color:blue;">4.750 Berrys</mark>
+* <mark style="color:blue;background-color:blue;">8.250 Berrys</mark>
+* <mark style="color:blue;background-color:blue;">9.500 Berrys</mark>
+* <mark style="color:blue;background-color:blue;">10.000 Berrys</mark>
+* <mark style="color:blue;background-color:blue;">Bonbon à la myrtille x1</mark>
+* <mark style="color:blue;background-color:blue;">Livre de poche x6</mark>
+* <mark style="color:blue;background-color:blue;">Petit cristal x2</mark>
+* <mark style="color:blue;background-color:blue;">Tête de Wither squelette x2</mark>
+* <mark style="color:blue;background-color:blue;">Carapace de shulker x2</mark>
+* <mark style="color:blue;background-color:blue;">Essence aléatoire Rare x1</mark>
+* <mark style="color:blue;background-color:blue;">Familier aléatoire Rare x1</mark>
+* <mark style="color:blue;background-color:blue;">Berry d’Argent</mark>
+
+***
+
+### <mark style="color:purple;">Parchemin Difficile – Récompenses possibles :</mark>
+
+* <mark style="color:purple;background-color:purple;">Parchemin Expert</mark>
+* <mark style="color:purple;background-color:purple;">Bloc de diamant x8</mark>
+* <mark style="color:purple;background-color:purple;">Lingot de netherite x1</mark>
+* <mark style="color:purple;background-color:purple;">10 Gemmes</mark>
+* <mark style="color:purple;background-color:purple;">Fragment de clé aléatoire x2</mark>
+* <mark style="color:purple;background-color:purple;">35 000 Berrys</mark>
+* <mark style="color:purple;background-color:purple;">50 000 Berrys</mark>
+* <mark style="color:purple;background-color:purple;">60 000 Berrys</mark>
+* <mark style="color:purple;background-color:purple;">75 000 Berrys</mark>
+* <mark style="color:purple;background-color:purple;">80 000 Berrys</mark>
+* <mark style="color:purple;background-color:purple;">90 000 Berrys</mark>
+* <mark style="color:purple;background-color:purple;">Bonbon au raisin x1</mark>
+* <mark style="color:purple;background-color:purple;">Livre de poche x4</mark>
+* <mark style="color:purple;background-color:purple;">Petit cristal x8</mark>
+* <mark style="color:purple;background-color:purple;">Étoile du nether x1</mark>
+* <mark style="color:purple;background-color:purple;">Essence aléatoire Épique x1</mark>
+* <mark style="color:purple;background-color:purple;">Familier aléatoire Épique x1</mark>
+* <mark style="color:purple;background-color:purple;">Berry d’Or</mark>
+
+***
+
+### <mark style="color:yellow;">Parchemin Expert – Récompenses possibles :</mark>
+
+* <mark style="color:yellow;background-color:yellow;">Parchemin Impossible</mark>
+* <mark style="color:yellow;background-color:yellow;">Lingot de netherite x4</mark>
+* <mark style="color:yellow;background-color:yellow;">10 Gemmes</mark>
+* <mark style="color:yellow;background-color:yellow;">20 Gemmes</mark>
+* <mark style="color:yellow;background-color:yellow;">Fragment de clé aléatoire x8</mark>
+* <mark style="color:yellow;background-color:yellow;">50.000 Berrys</mark>
+* <mark style="color:yellow;background-color:yellow;">100.000 Berrys</mark>
+* <mark style="color:yellow;background-color:yellow;">150.000 Berrys</mark>
+* <mark style="color:yellow;background-color:yellow;">175.000 Berrys</mark>
+* <mark style="color:yellow;background-color:yellow;">250.000 Berrys</mark>
+* <mark style="color:yellow;background-color:yellow;">Bonbon à l’orange x2</mark>
+* <mark style="color:yellow;background-color:yellow;">Livre ancien x3</mark>
+* <mark style="color:yellow;background-color:yellow;">Cristal x6</mark>
+* <mark style="color:yellow;background-color:yellow;">Ticket impel down x1</mark>
+* <mark style="color:yellow;background-color:yellow;">Essence aléatoire Légendaire x1</mark>
+* <mark style="color:yellow;background-color:yellow;">Familier aléatoire Légendaire x1</mark>
+* <mark style="color:yellow;background-color:yellow;">Berry de Platine</mark>
+
+***
+
+### <mark style="color:red;">Parchemin Impossible – Récompenses possibles :</mark>
+
+* <mark style="color:red;background-color:red;">Bloc de netherite x1</mark>
+* <mark style="color:red;background-color:red;">20 Gemmes</mark>
+* <mark style="color:red;background-color:red;">50 Gemmes</mark>
+* <mark style="color:red;background-color:red;">Clé aléatoire x1</mark>
+* <mark style="color:red;background-color:red;">100.000 Berrys</mark>
+* <mark style="color:red;background-color:red;">200.000 Berrys</mark>
+* <mark style="color:red;background-color:red;">300.000 Berrys</mark>
+* <mark style="color:red;background-color:red;">350.000 Berrys</mark>
+* <mark style="color:red;background-color:red;">500.000 Berrys</mark>
+* <mark style="color:red;background-color:red;">Bonbon à la fraise x2</mark>
+* <mark style="color:red;background-color:red;">Livre enchanté x2</mark>
+* <mark style="color:red;background-color:red;">Cristal enchanté x4</mark>
+* <mark style="color:red;background-color:red;">Ticket impel down x2</mark>
+* <mark style="color:red;background-color:red;">Essence aléatoire Mythique x1</mark>
+* <mark style="color:red;background-color:red;">Familier aléatoire Mythique x1</mark>
+* <mark style="color:red;background-color:red;">Berry Démoniaque</mark>
+
+{% hint style="success" %}
+N'oubliez pas : plus la difficulté est grande, plus les récompenses sont précieuses…&#x20;
+
+Êtes-vous prêt à relever le défi ?
 {% endhint %}
