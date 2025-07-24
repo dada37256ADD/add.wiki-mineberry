@@ -4,154 +4,196 @@ description: Retrouvez ici toutes les informations concernant le pass de combat
 
 # 🏅 Les Rangs
 
-## <mark style="color:orange;">Généralités</mark>
+Le système de <mark style="color:yellow;">**rangs**</mark> sur <mark style="color:yellow;">**MinePiece**</mark> récompense votre progression à travers l’aventure et vous ouvre l’accès à de <mark style="color:yellow;">**nouvelles zones**</mark>, fonctionnalités et privilèges.
 
-Afin d'encourager l'<mark style="color:yellow;">**avancement dans le jeu**</mark> et l'<mark style="color:yellow;">**accès aux îles aventure**</mark>, des <mark style="color:yellow;">**rangs**</mark> sont disponibles sur <mark style="color:yellow;">**MineBerry**</mark>. Il y en existe un <mark style="color:yellow;">**total de 9**</mark>.
-
-Pour passer de <mark style="color:yellow;">**rang en rang**</mark>, vous devrez <mark style="color:yellow;">**rassembler des ressources**</mark>, de l'<mark style="color:yellow;">**argent**</mark>, des <mark style="color:yellow;">**niveaux de métier**</mark> et de l'<mark style="color:yellow;">**expérience**</mark>.
+Chaque montée en rang nécessite de remplir <mark style="color:yellow;">**des prérequis précis**</mark> : niveau, argent et points de dangerosité.
 
 Toutes les <mark style="color:yellow;">**conditions nécessaires**</mark> au <mark style="color:yellow;">**passage d'un rang**</mark> sont disponibles dans le menu <mark style="color:yellow;">**`/rang`**</mark>.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Menu <mark style="color:yellow;"><strong><code>/rang</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-24 à 15.44.24.png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">Rangs</mark>
+## <mark style="color:orange;">Fonctionnement</mark>
 
-### <mark style="color:yellow;">Esclave</mark>
+Il existe <mark style="color:yellow;">**9 rangs**</mark> progressifs.
 
-C'est le rang de départ que chaque joueur a à son arrivée sur MineBerry.
+Pour chaque passage de rang, vous devrez :
 
-Voici les avantages du rang Esclave :&#x20;
+* Atteindre un <mark style="color:yellow;">**niveau minimum**</mark>
+* Accumuler une certaine <mark style="color:yellow;">**somme de Berries**</mark>
+* Obtenir un <mark style="color:yellow;">**nombre défini de points de dangerosité**</mark>
 
-* Accès à <mark style="color:yellow;">**l'île Fuchsia**</mark>
-* Accès à <mark style="color:yellow;">**2 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**5 Coffres de Vente**</mark>
-* Accès à <mark style="color:yellow;">**1 home**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/sethome [Nom]`**</mark>
+## <mark style="color:orange;">Liste des Rangs</mark>
 
-### <mark style="color:yellow;">Recrue</mark>
+### <mark style="color:orange;">E</mark><mark style="color:orange;">**sclave**</mark>
 
-C'est le deuxième rang disponible sur MineBerry.
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**&#x20;
 
-Voici les avantages du rang Recrue :&#x20;
+* Fin du tutoriel
 
-* Accès à <mark style="color:yellow;">**la Ville d'Orange**</mark>&#x20;
-* Accès au <mark style="color:yellow;">**`/kit recrue`**</mark>
-* Accès à <mark style="color:yellow;">**3 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**5 Coffres de Vente**</mark>
-* [<mark style="color:red;">❤</mark>](https://emojipedia.org/fr/c%C5%93ur-rouge) <mark style="color:red;">**Vie**</mark> <mark style="color:red;">**+10**</mark>
-* 🗡 <mark style="color:red;">**Force**</mark> <mark style="color:red;">**+5**</mark>
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
 
-### <mark style="color:yellow;">Pirate</mark>
+* Accès au <mark style="color:yellow;">**`/kit Esclave`**</mark>
 
-C'est le troisième rang disponible sur MineBerry.
+***
 
-Voici les avantages du rang Apprenti :&#x20;
+### <mark style="color:orange;">Recrue</mark>
 
-* Accès à <mark style="color:yellow;">**Baratie**</mark>
-* Accès au <mark style="color:yellow;">**`/kit pirate`**</mark>
-* Accès à <mark style="color:yellow;">**4 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**7 Coffres de Vente**</mark>
-* Accès au <mark style="color:yellow;">**`/craft`**</mark>
-* Accès au <mark style="color:yellow;">**`/fire`**</mark>
-* 🔥<mark style="color:orange;">**Puissance**</mark> <mark style="color:orange;">**+5**</mark>
-* [☠️](https://emojiterra.com/fr/tete-de-mort/) <mark style="color:orange;">**Dégâts critiques**</mark> <mark style="color:orange;">**+5**</mark>
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
 
-### <mark style="color:yellow;">Second</mark>
+* Niveau 5
+* 10 000 Berries
 
-C'est le quatrième rang disponible sur MineBerry.
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
 
-Voici les avantages du rang Second :&#x20;
+* Accès au <mark style="color:yellow;">**`/kit Recrue`**</mark>
+* Accès à <mark style="color:yellow;">**1 home**</mark>
+* Accès à <mark style="color:yellow;">**3 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**5 coffres de vente**</mark>
+* <mark style="color:yellow;">**1 ticket Impel Down**</mark>
 
-* Accès à <mark style="color:yellow;">**Alabasta**</mark>
-* Accès au <mark style="color:yellow;">**`/kit second`**</mark>
-* Accès à <mark style="color:yellow;">**5 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**10 Coffres de Vente**</mark>
-* Accès au <mark style="color:yellow;">**`/ptime`**</mark>
-* Accès au <mark style="color:yellow;">**`/pweather`**</mark>
-* Accès au <mark style="color:yellow;">**\[i]**</mark>
-* 🗡 <mark style="color:red;">**Force**</mark> <mark style="color:red;">**+5**</mark>&#x20;
-* 🛡️<mark style="color:blue;">**Défense**</mark> <mark style="color:blue;">**+5**</mark>
+***
 
-### <mark style="color:yellow;">Capitaine</mark>
+### <mark style="color:orange;">P</mark><mark style="color:orange;">**irate**</mark>
 
-C'est le cinquième rang disponible sur MineBerry.
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
 
-Voici les avantages du rang Capitaine :&#x20;
+* Niveau 15
+* 25 000 Berries
+* 110 points de dangerosité
 
-* Accès à <mark style="color:yellow;">**Skypiea**</mark>
-* Accès au <mark style="color:yellow;">**`/kit capitaine`**</mark>
-* Accès au <mark style="color:yellow;">**`/furnace`**</mark>
-* Accès à <mark style="color:yellow;">**6 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**12 Coffres de Vente**</mark>
-* Accès au <mark style="color:yellow;">**`/sell hand`**</mark>
-* Accès au <mark style="color:yellow;">**\[i]**</mark>
-* [<mark style="color:red;">❤</mark>](https://emojipedia.org/fr/c%C5%93ur-rouge) <mark style="color:red;">**Vie**</mark> <mark style="color:red;">**+5**</mark>
-* 🔥<mark style="color:orange;">**Puissance**</mark> <mark style="color:orange;">**+5**</mark>
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
 
-### <mark style="color:yellow;">SuperNovae</mark>
+* Accès au <mark style="color:yellow;">**`/kit Pirate`**</mark>
+* Accès à <mark style="color:yellow;">**2 homes**</mark>
+* Accès à <mark style="color:yellow;">**4 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**7 coffres de vente**</mark>
+* Accès à <mark style="color:yellow;">**Grand Line**</mark>
+* Déblocage d’un <mark style="color:yellow;">**2ᵉ familier**</mark>
 
-C'est le sixième rang disponible sur MineBerry.
+***
 
-Voici les avantages du rang SuperNovae :&#x20;
+### <mark style="color:orange;">S</mark><mark style="color:orange;">**econd**</mark>
 
-* Accès à <mark style="color:yellow;">**Water Seven**</mark>
-* Accès au <mark style="color:yellow;">**`/kit supernovae`**</mark>
-* Accès à <mark style="color:yellow;">**7 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**14 Coffres de Vente**</mark>
-* Accès à <mark style="color:yellow;">**4 slot de Pets**</mark>
-* Accès au <mark style="color:yellow;">**`/condense`**</mark>
-* Accès au <mark style="color:yellow;">**`/ec`**</mark>
-* 🔥<mark style="color:orange;">**Puissance**</mark> <mark style="color:orange;">**+5**</mark>
-* 🛡️<mark style="color:blue;">**Défense**</mark> <mark style="color:blue;">**+5**</mark>
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
 
-### <mark style="color:yellow;">Corsaire</mark>
+* Niveau 25
+* 100 000 Berries
+* 290 points de dangerosité
 
-C'est le septième rang disponible sur MineBerry.
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
 
-Voici les avantages du rang Corsaire :&#x20;
+* Accès au <mark style="color:yellow;">**`/kit Second`**</mark>
+* Accès à <mark style="color:yellow;">**3 homes**</mark>
+* Accès à <mark style="color:yellow;">**5 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**10 coffres de vente**</mark>
+* Accès aux commandes <mark style="color:yellow;">**`/ptime`**</mark> et <mark style="color:yellow;">**`/craft`**</mark>
 
-* Accès à <mark style="color:yellow;">**Thriller Bark**</mark>
-* Accès au <mark style="color:yellow;">**`/kit corsaire`**</mark>
-* Accès à <mark style="color:yellow;">**8 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**16 Coffres de Vente**</mark>
-* Accès au <mark style="color:yellow;">**`/xpbottle`**</mark>
-* Accès au <mark style="color:yellow;">**`/sell all`**</mark>
+***
+
+### <mark style="color:orange;">C</mark><mark style="color:orange;">**apitaine**</mark>
+
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
+
+* Niveau 35
+* 500 000 Berries
+* 520 points de dangerosité
+
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+
+* Accès au <mark style="color:yellow;">**`/kit Capitaine`**</mark>
+* Accès à <mark style="color:yellow;">**4 homes**</mark>
+* Accès à <mark style="color:yellow;">**6 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**12 coffres de vente**</mark>
 * Accès au <mark style="color:yellow;">**Haki de l'observation**</mark>
-* [<mark style="color:red;">❤</mark>](https://emojipedia.org/fr/c%C5%93ur-rouge) <mark style="color:red;">**Vie**</mark> <mark style="color:red;">**+10**</mark>
-* [<mark style="color:red;">**🗡️**</mark>](https://emojigraph.org/fr/dagger/) <mark style="color:red;">**Force +5**</mark>
+* Accès aux commandes <mark style="color:yellow;">**`/furnace`**</mark> et <mark style="color:yellow;">**`/condense`**</mark>
+* <mark style="color:yellow;">**2 tickets Impel Down**</mark>
 
-### <mark style="color:yellow;">Empereur</mark>
+***
 
-C'est le huitième rang disponible sur MineBerry.
+### <mark style="color:orange;">S</mark><mark style="color:orange;">**upernovae**</mark>
 
-Voici les avantages du rang Empereur :&#x20;
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
 
-* Accès à <mark style="color:yellow;">**Sabaody**</mark>
-* Accès au <mark style="color:yellow;">**/kit empereur**</mark>
-* Accès à <mark style="color:yellow;">**12 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**20 Coffres de Vente**</mark>
-* Accès au <mark style="color:yellow;">**`/back`**</mark>
-* Accès au <mark style="color:yellow;">**`/repair all`**</mark>
-* Accès au <mark style="color:yellow;">**`/furnace all`**</mark>
+* Niveau 45
+* 2 500 000 Berries
+* 800 points de dangerosité
+
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+
+* Accès au <mark style="color:yellow;">**`/kit Supernovae`**</mark>
+* Accès à <mark style="color:yellow;">**5 homes**</mark>
+* Accès à <mark style="color:yellow;">**7 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**14 coffres de vente**</mark>
+* Accès à l’interface <mark style="color:yellow;">**\[i]**</mark>
+* Déblocage d’un <mark style="color:yellow;">**3ᵉ familier**</mark>
+
+***
+
+### <mark style="color:orange;">C</mark><mark style="color:orange;">**ommandant**</mark>
+
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
+
+* Niveau 55
+* 15 000 000 Berries
+* 1 320 points de dangerosité
+
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+
+* Accès au <mark style="color:yellow;">**`/kit Commandant`**</mark>
+* Accès à <mark style="color:yellow;">**6 homes**</mark>
+* Accès à <mark style="color:yellow;">**8 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**16 coffres de vente**</mark>
 * Accès au <mark style="color:yellow;">**Haki de l'armement**</mark>
-* 🔥<mark style="color:orange;">**Puissance**</mark> <mark style="color:orange;">**+10**</mark>
-* [<mark style="color:red;">❤</mark>](https://emojipedia.org/fr/c%C5%93ur-rouge) <mark style="color:red;">**Vie**</mark> <mark style="color:red;">**+10**</mark>
+* Accès à la commande <mark style="color:yellow;">**`/ec`**</mark>
+* Accès au <mark style="color:yellow;">**Nouveau Monde**</mark>
 
-### <mark style="color:yellow;">Roi des Pirates</mark>
+***
 
-C'est le dernier disponible sur MineBerry.
+### <mark style="color:orange;">C</mark><mark style="color:orange;">**orsaire**</mark>
 
-Voici les avantages du rang Roi des Pirates :&#x20;
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
 
-* Accès au <mark style="color:yellow;">**`/kit roidespirates`**</mark>
-* Accès à <mark style="color:yellow;">**15 ventes dans l'Hôtel des Ventes**</mark>
-* Accès à <mark style="color:yellow;">**25 Coffres de Vente**</mark>
-* Accès au <mark style="color:yellow;">**`/fly`**</mark>
-* Accès au <mark style="color:yellow;">**`/near`**</mark>
+* Niveau 65
+* 50 000 000 Berries
+* 2 010 points de dangerosité
+
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+
+* Accès au <mark style="color:yellow;">**`/kit Corsaire`**</mark>
 * Accès au <mark style="color:yellow;">**Haki des rois**</mark>
-* [<mark style="color:red;">❤</mark>](https://emojipedia.org/fr/c%C5%93ur-rouge) <mark style="color:red;">**Vie**</mark> <mark style="color:red;">**+10**</mark>
-* [<mark style="color:red;">**🗡️**</mark>](https://emojigraph.org/fr/dagger/) <mark style="color:red;">**Force +10**</mark>
-* 🔥<mark style="color:orange;">**Puissance**</mark> <mark style="color:orange;">**+10**</mark>
+* Accès à <mark style="color:yellow;">**8 homes**</mark>
+* Accès à <mark style="color:yellow;">**12 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**20 coffres de vente**</mark>
+* Accès aux commandes <mark style="color:yellow;">**`/back`**</mark> et <mark style="color:yellow;">**`/furnace all`**</mark>
+* <mark style="color:yellow;">**3 tickets Impel Down**</mark>
+
+***
+
+### <mark style="color:orange;">E</mark><mark style="color:orange;">**mpereur**</mark>
+
+<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
+
+* Niveau 75
+* 250 000 000 Berries
+* 2 760 points de dangerosité
+
+<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+
+* Accès au <mark style="color:yellow;">**`/kit Empereur`**</mark>
+* Accès à <mark style="color:yellow;">**10 homes**</mark>
+* Accès à <mark style="color:yellow;">**15 ventes**</mark> dans l’Hôtel des Ventes
+* Accès à <mark style="color:yellow;">**25 coffres de vente**</mark>
+* Accès au <mark style="color:yellow;">**`/fly`**</mark> dans sa base
+* Déblocage d’un <mark style="color:yellow;">**4ᵉ familier**</mark>
+
+***
+
+### <mark style="color:red;">Roi des Pirates</mark>&#x20;
+
+{% hint style="warning" %}
+Bientôt disponible !
+{% endhint %}
 
 {% hint style="success" %}
-Ne tardez pas, augmentez l'intensité de votre aventure en <mark style="color:yellow;">**progressant**</mark> dans les <mark style="color:yellow;">**rangs**</mark> sur <mark style="color:yellow;">**MineBerry**</mark> !
+Ne tardez pas, augmentez l'intensité de votre aventure en <mark style="color:yellow;">**progressant**</mark> dans les <mark style="color:yellow;">**rangs**</mark> sur <mark style="color:yellow;">**MinePiece**</mark> !
 {% endhint %}
