@@ -38,6 +38,7 @@
 ## 🔮 Gameplay - Partie aventure
 
 * [🔗 Les Factions](gameplay-partie-aventure/les-factions.md)
+* [🚢 Les Bateaux](gameplay-partie-aventure/les-bateaux.md)
 * [🏝️ Les Îles Aventure](gameplay-partie-aventure/les-iles-aventure/README.md)
   * [🌺 Fuchsia](gameplay-partie-aventure/les-iles-aventure/fuchsia.md)
   * [🍊 Ville Orange](gameplay-partie-aventure/les-iles-aventure/ville-orange.md)
