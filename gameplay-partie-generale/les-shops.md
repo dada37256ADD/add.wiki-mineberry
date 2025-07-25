@@ -4,58 +4,86 @@ description: Retrouvez ici toutes les informations concernant les différents sh
 
 # 💰 Les Shops
 
-## <mark style="color:orange;">Shop Général</mark>&#x20;
+Sur <mark style="color:yellow;">**MinePiece**</mark>, vous disposez de plusieurs moyens pour acheter, vendre et gérer vos objets. Que ce soit via le <mark style="color:yellow;">**`/shop`**</mark>, le <mark style="color:yellow;">**`/ah`**</mark> (Hôtel des ventes) ou les <mark style="color:yellow;">**coffres de vente sur votre île**</mark>, vous avez tout à disposition pour faire prospérer votre aventure.
 
-Le <mark style="color:yellow;">**`/shop`**</mark> de <mark style="color:yellow;">**MineBerry**</mark> répertorie une variété d'<mark style="color:yellow;">**articles**</mark> dans <mark style="color:yellow;">**différentes catégories**</mark>, vous permettant d'<mark style="color:yellow;">**acheter**</mark> et de <mark style="color:yellow;">**vendre**</mark> des <mark style="color:yellow;">**ressources**</mark> sans avoir à les obtenir manuellement.
+## <mark style="color:orange;">Le /shop</mark>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Menu du <mark style="color:yellow;"><strong><code>/shop</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-25 à 17.10.12.png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">Les Catégories</mark>&#x20;
+Le <mark style="color:yellow;">**`/shop`**</mark> est un menu central pour acheter ou vendre des ressources directement depuis le serveur, sans passer par d'autres joueurs.
 
-* <mark style="color:yellow;">**Agriculture**</mark>**&#x20;:** Articles liés à l'agriculture, tels que les graines, les plantes et les produits agricoles.
-* <mark style="color:yellow;">**Loots des Mobs**</mark>**&#x20;:** Objets obtenus en tuant des créatures.
-* <mark style="color:yellow;">**Blocs**</mark>**&#x20;:** Différents types de blocs pour la construction et la décoration.
-* <mark style="color:yellow;">**Objets Divers**</mark>**&#x20;:** Articles variés, souvent utiles dans le gameplay.
-* <mark style="color:yellow;">**Nourriture**</mark>**&#x20;:** Aliments pour restaurer la santé et la saturation du joueur.
-* <mark style="color:yellow;">**Minerais**</mark>**&#x20;:** Ressources minérales comme le fer, l'or, le diamant, etc.
-* <mark style="color:yellow;">**Éléments de Redstone**</mark>**&#x20;:** Composants Redstone pour créer des mécanismes.
-* <mark style="color:yellow;">**Spawners**</mark>**&#x20;:** Blocs de génération de créatures.
+Il est accessible à tout moment via la commande : <mark style="color:yellow;">**`/shop`**</mark>
 
-{% hint style="warning" %}
-Certains éléments disponibles dans le <mark style="color:yellow;">**`/shop`**</mark> ne sont pas directement vendables. Ils nécessitent d'abord de <mark style="color:yellow;">**progresser**</mark> dans les différentes <mark style="color:yellow;">**îles aventure**</mark> pour obtenir l'<mark style="color:yellow;">**accès à leur vente**</mark>.
-{% endhint %}
+### <mark style="color:orange;">Catégories disponibles :</mark>&#x20;
 
-## <mark style="color:orange;">Coffre de Vente</mark>
+* <mark style="color:yellow;">**Cultures**</mark> : graines, plantes, récoltes agricoles.
+* <mark style="color:yellow;">**Loots**</mark> : objets issus de monstres (viande, os, poudre, etc.).
+* <mark style="color:yellow;">**Blocs**</mark> : blocs de construction, décoration, fonctionnels.
+* <mark style="color:yellow;">**Divers**</mark> : objets spéciaux, utilitaires ou liés à d'autres métiers.
+* <mark style="color:yellow;">**Minerais**</mark> : fer, or, charbon, redstone, diamant, etc.
+* <mark style="color:yellow;">**Redstone**</mark> : composants techniques pour les mécanismes (leviers, pistons, etc.).
 
-### <mark style="color:orange;">**Créer un Coffre de Vente sur votre Île**</mark>**&#x20;:**
+## <mark style="color:orange;">Hôtel des Ventes –</mark> <mark style="color:yellow;">`/ah`</mark>
 
-Si vous souhaitez <mark style="color:yellow;">**vendre des items**</mark> sur votre <mark style="color:yellow;">**île**</mark>, suivez ces étapes simples pour créer un <mark style="color:yellow;">**coffre de vente**</mark> :
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-25 à 17.10.32.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:yellow;">**Placez un Coffre**</mark>**&#x20;:** Posez un coffre sur votre île à l'emplacement souhaité.
+L’<mark style="color:yellow;">**Hôtel des Ventes**</mark> est le marché entre joueurs. Vous pouvez y <mark style="color:yellow;">**acheter ou vendre**</mark> des objets customs, ressources rares, équipements puissants, et bien plus.
 
-<mark style="color:yellow;">**Sélectionnez l'Item à Vendre**</mark> **:** Tenez l'item que vous souhaitez vendre dans votre main.
+Accédez-y avec : <mark style="color:yellow;">**`/ah`**</mark>
 
-<mark style="color:yellow;">**Clic Gauche sur le Coffre**</mark>**&#x20;:** Cliquez gauche sur le coffre que vous avez placé.
+### <mark style="color:orange;">Filtres pour naviguer :</mark>
 
-<mark style="color:yellow;">**Choisissez le Prix**</mark>**&#x20;:** Dans le chat, on vous demandera de spécifier le prix en Berrys pour l'item que vous souhaitez vendre.
+* <mark style="color:yellow;">**Global**</mark> : affichage de tous les objets en vente, triés par date.
+* <mark style="color:yellow;">**Blocs**</mark> : uniquement les blocs mis en vente.
+* <mark style="color:yellow;">**Combats**</mark> : armes, armures, équipements de combat.
+* <mark style="color:yellow;">**Outils**</mark> : pioches, haches, outils divers.
+* <mark style="color:yellow;">**Familiers**</mark> : pets à acheter/échanger.
+* <mark style="color:yellow;">**Fruits du démon**</mark> : tous les fruits disponibles à l’achat.
+* <mark style="color:yellow;">**Bateaux**</mark> : navires et composants associés.
 
-<mark style="color:yellow;">**Coffre de Vente Créé**</mark>**&#x20;:** Une fois que vous avez défini le prix, le coffre de vente sera créé. Maintenant, vous pouvez stocker l'item que vous souhaitez vendre dans ce coffre.
+### <mark style="color:orange;">Boutons Essentiels en haut du menu :</mark>&#x20;
 
-En suivant ces étapes, vous pouvez établir un <mark style="color:yellow;">**système de vente**</mark> sur votre <mark style="color:yellow;">**île**</mark>, offrant aux autres joueurs la possibilité d'<mark style="color:yellow;">**acheter les items**</mark> que vous <mark style="color:yellow;">**proposez**</mark>.
+1. <mark style="color:yellow;">**Historique des ventes**</mark> : consultez vos anciennes ventes ou achats.\
+   → Accessible aussi via la commande : <mark style="color:yellow;">**`/ah history`**</mark>
+2. <mark style="color:yellow;">**Mes ventes**</mark> : retrouvez tous les objets que vous avez mis en vente actuellement.
+3. <mark style="color:yellow;">**Mailbox**</mark> : si votre inventaire est plein au moment d’un achat, les objets seront automatiquement stockés ici.\
+   → Accès rapide : <mark style="color:yellow;">**`/mailbox`**</mark>
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Aperçu d'un Clic Droit sur le Coffre de Vente</p></figcaption></figure>
+## <mark style="color:orange;">Coffres de Vente sur votre île</mark>
 
-## <mark style="color:orange;">Hôtel des Ventes</mark>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-25 à 17.14.00.png" alt=""><figcaption></figcaption></figure>
 
-Pour ce qui est des <mark style="color:yellow;">**Objets Customs**</mark> du serveur, ils peuvent être <mark style="color:yellow;">**achetés**</mark> et <mark style="color:yellow;">**vendus**</mark> via l'interface de l'<mark style="color:yellow;">**Hôtel des Ventes**</mark>. Cette interface est divisée en <mark style="color:yellow;">**plusieurs sections**</mark> :
+Vous avez aussi la possibilité de <mark style="color:yellow;">**créer des systèmes de vente personnels**</mark> sur votre île. Très pratique pour les échanges de proximité !
 
-* <mark style="color:yellow;">**Global**</mark>**&#x20;:** Liste tous les objets mis en vente dans le <mark style="color:yellow;">**`/ah`**</mark>, triés par date d'ajout.
-* <mark style="color:yellow;">**Blocs**</mark>**&#x20;:** Section dédiée aux blocs mis en vente.
-* <mark style="color:yellow;">**Armes et Outils**</mark>**&#x20;:** Regroupe les armes et outils disponibles à l'achat.
-* <mark style="color:yellow;">**Spawners**</mark>**&#x20;:** Présente les spawners disponibles à la vente.
-* <mark style="color:yellow;">**Pets**</mark>**&#x20;:** Section dédiée aux enchères de pets.
-* <mark style="color:yellow;">**Fruits du Démon**</mark>**&#x20;:** Liste les fruits du démon disponibles.
+### <mark style="color:orange;">Créer un Coffre de Vente :</mark>
 
-Les <mark style="color:yellow;">**deux boutons**</mark> sur les <mark style="color:yellow;">**côtés de l'interface**</mark> permettent aux joueurs de <mark style="color:yellow;">**gérer leurs ventes**</mark> en premier lieu, puis de r<mark style="color:yellow;">**écupérer les objets**</mark> qu'ils ont <mark style="color:yellow;">**achetés**</mark>.
+1. <mark style="color:yellow;">**Placez un coffre**</mark> sur votre île.
+2. <mark style="color:yellow;">**Tenez l’objet**</mark> que vous voulez vendre dans votre main.
+3. <mark style="color:yellow;">**Faites un shift + clic gauche**</mark> sur le coffre avec l’objet en main.
+4. <mark style="color:yellow;">**Indiquez un prix**</mark> dans le chat (en Berrys).
+5. Votre coffre est prêt à l’usage !
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption><p>Menu <mark style="color:yellow;"><strong><code>/ah</code></strong></mark></p></figcaption></figure>
+Les joueurs pourront alors cliquer sur ce coffre pour acheter les objets au prix que vous avez défini.
+
+### <mark style="color:orange;">Interface de Gestion du Shop</mark>
+
+Une fois votre shop créé, <mark style="color:yellow;">**clic gauche sur le coffre**</mark> pour accéder à <mark style="color:yellow;">**l’interface de gestion**</mark>.&#x20;
+
+Vous verrez <mark style="color:yellow;">**5 boutons**</mark> :
+
+1. <mark style="color:yellow;">**Mode (Achat / Vente)**</mark>\
+   Permet de choisir si le coffre sert à <mark style="color:yellow;">**vendre**</mark> ou <mark style="color:yellow;">**acheter**</mark> des objets auprès des joueurs.
+2. <mark style="color:yellow;">**Modifier le Prix**</mark>\
+   Vous pouvez ici changer le prix actuel de l’objet sans devoir recréer le shop.
+3. <mark style="color:yellow;">**Gérer les Accès**</mark>\
+   Liste les joueurs autorisés à <mark style="color:yellow;">**ouvrir et interagir**</mark> avec le coffre.
+4. <mark style="color:yellow;">**Historique des Transactions**</mark>\
+   Permet de consulter les <mark style="color:yellow;">**ventes réalisées ou achats effectués**</mark>, très utile pour suivre votre activité.
+5. <mark style="color:yellow;">**Supprimer le Shop**</mark>\
+   Supprime le shop et transforme le coffre en simple coffre normal (son contenu n’est pas supprimé).
+
+***
+
+Grâce à ces trois systèmes, <mark style="color:yellow;">**`/shop`**</mark>, <mark style="color:yellow;">**`/ah`**</mark> et <mark style="color:yellow;">**coffres de vente,**</mark> vous avez <mark style="color:yellow;">**un contrôle total sur votre économie**</mark> dans MinePiece.
+
+Faites du profit, spécialisez-vous dans le commerce, ou partez à la chasse aux bonnes affaires !
