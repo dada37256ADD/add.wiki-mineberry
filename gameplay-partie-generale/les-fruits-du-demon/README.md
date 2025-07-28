@@ -86,6 +86,8 @@ Une <mark style="color:yellow;">**barre rouge**</mark> apparaît sur votre mana 
 
 ## <mark style="color:orange;">Interface avec la commande</mark> <mark style="color:yellow;">`/fruit`</mark>
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-28 à 13.58.32.png" alt=""><figcaption></figcaption></figure>
+
 Faites <mark style="color:yellow;">**`/fruit`**</mark> pour ouvrir l'interface de gestion de votre fruit :
 
 * <mark style="color:yellow;">**Survol du fruit**</mark> : Affiche le <mark style="color:yellow;">**niveau**</mark>, <mark style="color:yellow;">**l’XP**</mark>, les <mark style="color:yellow;">**attaques**</mark>, et la possibilité de le <mark style="color:yellow;">**déséquiper**</mark>**.**
@@ -96,11 +98,15 @@ Faites <mark style="color:yellow;">**`/fruit`**</mark> pour ouvrir l'interface d
 * <mark style="color:yellow;">**Bouton de conversion**</mark> : Convertissez <mark style="color:yellow;">**vos fruits inutilisés**</mark> et <mark style="color:yellow;">**livres anciens**</mark> en <mark style="color:yellow;">**expérience**</mark> pour le fruit actif.
 * <mark style="color:yellow;">**Étoiles à droite**</mark> : Indiquent votre <mark style="color:yellow;">**niveau d’ascension**</mark>.
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-28 à 13.59.42.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 Quand la barre d’XP est vide et qu’un message “<mark style="color:yellow;">**Prêt pour l’ascension**</mark>” apparaît, vous pouvez évoluer le fruit.
 {% endhint %}
 
 ## <mark style="color:orange;">Ascensions</mark>
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-28 à 14.00.14.png" alt=""><figcaption></figcaption></figure>
 
 Lorsque votre fruit atteint son palier d’XP maximal :
 
