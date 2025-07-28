@@ -8,6 +8,145 @@ Dans MinePiece, les <mark style="color:yellow;">**Familiers**</mark> sont vos co
 
 Vous pouvez gérer tous vos familiers via la commande : <mark style="color:yellow;">**`/pets`**</mark>
 
+## <mark style="color:orange;">Où trouver les Pets ?</mark>
+
+Les pets sont principalement récupérables dans :
+
+* Les <mark style="color:yellow;">**caisses**</mark> des îles aventures
+* L’<mark style="color:yellow;">**Hôtel des ventes**</mark>
+* Le <mark style="color:yellow;">**Loot**</mark> de certains <mark style="color:yellow;">**Boss**</mark>
+* Certaines <mark style="color:yellow;">**quêtes**</mark> ou <mark style="color:yellow;">**événements**</mark>
+
+## <mark style="color:orange;">Raretés disponible</mark>
+
+Les familiers sont répartis en <mark style="color:yellow;">**5 raretés**</mark> :
+
+* <mark style="color:green;">**Commun**</mark>
+* <mark style="color:blue;">**Rare**</mark>
+* <mark style="color:purple;">**Épique**</mark>
+* <mark style="color:yellow;">**Légendaire**</mark>
+* <mark style="color:red;">**Mythique**</mark>
+
+Vous pouvez voir la <mark style="color:yellow;">**liste complète**</mark> des familiers du serveur via le <mark style="color:yellow;">**bouton vert en bas à gauche**</mark> du menu <mark style="color:yellow;">**`/pets`**</mark>.
+
+## <mark style="color:orange;">Fonctionnement du menu</mark> <mark style="color:yellow;">`/pets`</mark>
+
+Le menu vous permet de :
+
+* Consulter <mark style="color:yellow;">**vos familiers disponibles**</mark>
+* Activer jusqu’à <mark style="color:yellow;">**5 familiers en même temps**</mark>
+* Accéder à <mark style="color:yellow;">**des presets de configuration**</mark> via les engrenages en bas de menu
+* Visualiser leur <mark style="color:yellow;">**statut**</mark> :
+  * <mark style="color:green;">**Actif**</mark> : le pet est visible et ses effets sont appliqués
+  * <mark style="color:yellow;">**Passif**</mark> : le pet est invisible mais ses effets sont actifs
+  * <mark style="color:red;">**Inactif**</mark> : aucun effet
+
+{% hint style="info" %}
+Plus vous montez en <mark style="color:yellow;">**rang**</mark>, plus vous débloquez de <mark style="color:yellow;">**slots actifs**</mark> !
+{% endhint %}
+
+## <mark style="color:orange;">Double utilité des familiers</mark>
+
+Chaque familier agit <mark style="color:yellow;">**uniquement sur le joueur**</mark>, mais peut être <mark style="color:yellow;">**activé de deux manières différentes**</mark> :
+
+**1.&#x20;**<mark style="color:yellow;">**Via le menu**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/pets`**</mark>
+
+Vous pouvez équiper jusqu’à <mark style="color:yellow;">**5 familiers**</mark> en même temps. Ceux-ci seront alors <mark style="color:yellow;">**directement liés à votre personnage**</mark> et vous bénéficieriez de <mark style="color:yellow;">**leurs effets actifs en jeu**</mark>.
+
+**2.&#x20;**<mark style="color:yellow;">**En les plaçant dans votre IS**</mark>
+
+Les familiers peuvent également être <mark style="color:yellow;">**placés dans l’interface de votre île**</mark>.&#x20;
+
+Dans ce cas :
+
+* Ils <mark style="color:yellow;">**n’apparaîtront pas à vos côtés**</mark>,
+* Mais leurs <mark style="color:yellow;">**effets sont toujours appliqués à votre personnage**</mark>.
+
+{% hint style="warning" %}
+Un seul exemplaire de chaque pet peut être équipé dans votre île.
+{% endhint %}
+
+Ainsi, vous pouvez <mark style="color:yellow;">**répartir vos familiers intelligemment**</mark> entre votre configuration personnelle et votre île, tout en continuant de profiter <mark style="color:yellow;">**pleinement de leurs bonus**</mark> !
+
+## <mark style="color:orange;">Bonbons & Évolution</mark>
+
+Pour faire <mark style="color:yellow;">**monter de niveau**</mark> vos familiers, vous devez les <mark style="color:yellow;">**nourrir avec des bonbons**</mark><mark style="color:yellow;">,</mark> récupérables dans :
+
+* Les <mark style="color:yellow;">**caisses**</mark>
+* Les <mark style="color:yellow;">**métiers**</mark>
+* Les <mark style="color:yellow;">**quêtes**</mark>
+* L’<mark style="color:yellow;">**Hôtel des Ventes**</mark>
+
+Voici les bonbons disponibles :
+
+<table><thead><tr><th width="316.3828125">Bonbon</th><th>XP Gagnée</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Bonbon à la Pomme</strong></mark></td><td><mark style="color:green;"><strong>+6 XP</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Bonbon à la Myrtille</strong></mark></td><td><mark style="color:blue;"><strong>+12 XP</strong></mark></td></tr><tr><td><mark style="color:purple;"><strong>Bonbon aux Raisins</strong></mark></td><td><mark style="color:purple;"><strong>+24 XP</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Bonbon à l'orange</strong></mark></td><td><mark style="color:yellow;"><strong>+32 XP</strong></mark></td></tr><tr><td><mark style="color:red;"><strong>Bonbon à la Fraise</strong></mark></td><td><mark style="color:red;"><strong>+50 XP</strong></mark></td></tr></tbody></table>
+
+{% hint style="info" %}
+Utilisez les petits bonbons pour les premiers niveaux, et gardez les bonbons puissants pour les niveaux élevés.
+{% endhint %}
+
+## <mark style="color:orange;">Système de Prestige</mark>
+
+Une fois votre familier débloqué, vous pouvez **débloquer son prestige** pour renforcer ses effets.
+
+Cela nécessite de **récolter une ressource spécifique**, indiquée dans la fiche du pet via le champ **“Ressource du Minion”**.
+
+***
+
+#### 🧠 Aperçu des Pets disponibles
+
+**🟢 Pets Communs (exemples) :**
+
+Gan Forr, Karoo, Smack, Don Chinjao, Icebarg, Kurozumi Tama, Higuma...
+
+**🔵 Pets Rares :**
+
+Vivi, Raizo, Tashigi, Cabaji, Cavendish, Don Krieg, Zeff, Opera...
+
+**🟣 Pets Épiques :**
+
+Robin, Caesar Clown, Doflamingo, Rob Lucci, Perona, Baggy, Smoker...
+
+**🟡 Pets Légendaires :**
+
+Ener, Ace, Trafalgar Law, Crocodile, Boa Hancock, Marco, Aokiji...
+
+**🔴 Pets Mythiques :**
+
+Kaido, Magellan, Akainu, Big Mom, Barbe Blanche
+
+> 🧭 Chaque pet est lié à une **île d’aventure ou un personnage emblématique** de l’univers One Piece !
+
+***
+
+#### 🧪 Expérience par Niveau et Rareté
+
+Voici un aperçu du **coût XP** selon la **rareté et le niveau** :
+
+| Niveau | Commun | Rare | Épique | Légendaire | Mythique |
+| ------ | ------ | ---- | ------ | ---------- | -------- |
+| 2      | 32     | 34   | 36     | 38         | 40       |
+| 5      | 41     | 43   | 45     | 47         | 49       |
+| 10     | 96     | 98   | 100    | 102        | 104      |
+| 15     | 201    | 203  | 205    | 207        | 209      |
+| 20     | 356    | 358  | 360    | 362        | 364      |
+
+***
+
+#### 📌 Rappels Importants
+
+* Vous pouvez **collectionner tous les pets**, mais seuls **5** peuvent être actifs en même temps.
+* Un **seul exemplaire** d’un pet peut être actif sur l'île.
+* Chaque pet a des effets **uniques** qui peuvent booster vos ventes, dégâts, drops ou métiers.
+
+***
+
+Les familiers sont un élément **essentiel** de votre progression sur MinePiece. Choisissez bien vos compagnons, **montez-les en puissance**, et utilisez-les intelligemment entre **effets en combat** et **optimisation d'île** 🐶🐉⚔️
+
+
+
+
+
 
 
 
