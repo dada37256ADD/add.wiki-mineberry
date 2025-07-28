@@ -4,6 +4,14 @@ description: Retrouvez ici toutes les informations concernant les pets
 
 # 🥚 Les Pets
 
+Dans MinePiece, les <mark style="color:yellow;">**Familiers**</mark> sont vos compagnons d’aventure. Ils vous confèrent des <mark style="color:yellow;">**avantages puissants**</mark>, que ce soit <mark style="color:yellow;">**directement sur votre personnage**</mark> ou à travers leur présence sur votre <mark style="color:yellow;">**Île**</mark>.
+
+Vous pouvez gérer tous vos familiers via la commande : <mark style="color:yellow;">**`/pets`**</mark>
+
+
+
+
+
 Le serveur <mark style="color:yellow;">**MineBerry**</mark> propose un <mark style="color:yellow;">**système de Pets**</mark> pour vous <mark style="color:yellow;">**accompagner**</mark> lors de votre <mark style="color:yellow;">**aventure**</mark>. Grâce à ce système, vous avez la <mark style="color:yellow;">**possibilité d'acquérir plusieurs compagnons**</mark> en jeu et de les <mark style="color:yellow;">**cumuler**</mark>.&#x20;
 
 Chaque <mark style="color:yellow;">**Pet possède**</mark> des <mark style="color:yellow;">**effets spécifiques**</mark> pour vous aider dans <mark style="color:yellow;">**votre progression**</mark>.
