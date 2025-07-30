@@ -46,6 +46,7 @@
   * [🏝️ Arlong Park](gameplay-partie-aventure/les-iles-aventure/arlong-park.md)
   * [🏙️ Logue Town](gameplay-partie-aventure/les-iles-aventure/logue-town.md)
   * [🏜️ Alabasta](gameplay-partie-aventure/les-iles-aventure/alabasta.md)
+  * [Jaya](gameplay-partie-aventure/les-iles-aventure/jaya.md)
   * [☁️ Skypiea](gameplay-partie-aventure/les-iles-aventure/skypiea.md)
   * [🌊 Water Seven](gameplay-partie-aventure/les-iles-aventure/water-seven.md)
   * [👹 Thriller Bark](gameplay-partie-aventure/les-iles-aventure/thriller-bark.md)
