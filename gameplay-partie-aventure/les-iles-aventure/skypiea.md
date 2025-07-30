@@ -6,6 +6,44 @@ description: Retrouvez ici toutes les informations concernant l'Île Aventure Sk
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.41.36.png" alt=""><figcaption><p>Aperçu de l'île Skypiea</p></figcaption></figure>
 
+#### Informations générales
+
+L’île céleste de **Skypiea** devient accessible dès le rang de **Capitaine**. Une fois ce rang atteint, hissez la voile et envolez-vous vers les cieux en prenant la barre de votre navire depuis une autre île aventure.\
+Skypiea vous plonge dans un monde aérien où vous affronterez les serviteurs du dieu autoproclamé **Ener**, tout en accumulant une nouvelle monnaie : **les Extols**.\
+Ces Extols sont essentiels pour progresser, notamment pour obtenir la **Caisse Skypiea**, qui contient de précieuses récompenses. Cette caisse est également achetable via des Gemmes.
+
+Mais ce n’est pas tout : Skypiea propose une activité unique et palpitante — **les courses de Waver**, où vitesse et maîtrise seront vos meilleurs alliés !
+
+#### Ennemis
+
+Dans les nuages de Skypiea, vous affronterez de nombreux **Bilcans**, des **soldats divins** et plusieurs mini boss redoutables.\
+Tous les ennemis, sauf le boss, dropperont des **Berrys**, des **bijoux dorés** (essentiels aux quêtes), ainsi que des **Extols**, selon votre niveau.
+
+🗡️ **Liste des ennemis :**
+
+* **Soldat Divin** : Berrys, Bijou doré
+* **Satori** : Berrys, Chapeau de Satori
+* **Shura** : Berrys, Casque de Shura
+* **Gedatsu** : Berrys, Gant de Gedatsu
+
+***
+
+#### Boss : Ener
+
+**Ener**, dieu de la foudre et maître incontesté de Skypiea, vous attend pour un affrontement électrisant. Redoutable et agile, il mettra vos compétences à rude épreuve.
+
+⚡ **Ressources obtenables sur Ener** :
+
+* Berrys
+* Familier **Ener**
+* Essence du **Fulguro-Fruit**
+
+🔑 **Conditions d’invocation d’Ener** :
+
+* **9 Bijoux dorés**
+* **1 750 Extols**
+* **75 000 Berrys**
+
 ## <mark style="color:orange;">Informations générales</mark>
 
 L'<mark style="color:yellow;">**île Aventure Skypiea**</mark> devient accessible au rang de "<mark style="color:yellow;">**Capitaine**</mark>". Pour vous y rendre, prenez la barre de votre <mark style="color:yellow;">**navire**</mark> depuis toute autre <mark style="color:yellow;">**île aventure**</mark> et partez à la recherche de <mark style="color:yellow;">**nouveaux défis**</mark> dignes d'un véritable <mark style="color:yellow;">**pirate**</mark>.
@@ -73,25 +111,3 @@ La <mark style="color:yellow;">**Caisse Skypiea**</mark> s'obtient en l'achetant
 | <mark style="color:yellow;">**Somme d'argent aléatoire**</mark> |      **10%**     |
 |        <mark style="color:yellow;">**Pet Bellamy**</mark>       |      **5%**      |
 |    <mark style="color:yellow;">**Fruit de la Foudre**</mark>    |      **5%**      |
-
-## <mark style="color:orange;">Caisse Premium Skypiea</mark>
-
-La <mark style="color:yellow;">**Caisse Premium Skypiea**</mark> s'obtient en l'achetant au prix de <mark style="color:green;">**290 Gemmes**</mark>.
-
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Aperçu de la Caisse Premium Skypiea</p></figcaption></figure>
-
-|                         **Récompenses**                        | **Taux de Drop** |
-| :------------------------------------------------------------: | :--------------: |
-|  <mark style="color:blue;">**1x Dials de Vente (1.4)**</mark>  |      **20%**     |
-|         <mark style="color:green;">**Pet Wiper**</mark>        |      **15%**     |
-|       <mark style="color:green;">**Houe de Shura**</mark>      |      **10%**     |
-|       <mark style="color:blue;">**Bâton de Ener**</mark>       |      **10%**     |
-|         <mark style="color:blue;">**Flash Gun**</mark>         |      **10%**     |
-|     <mark style="color:yellow;">**Booster Métiers**</mark>     |      **10%**     |
-| <mark style="color:green;">**Somme d'argent aléatoire**</mark> |      **10%**     |
-|         <mark style="color:yellow;">**Pet Ener**</mark>        |      **5%**      |
-|   <mark style="color:blue;">**Fruit de la Végétation**</mark>  |      **5%**      |
-
-{% hint style="warning" %}
-L'ouverture simultanée de trois coffres est réservée aux détenteurs de l'abonnement premium.
-{% endhint %}
