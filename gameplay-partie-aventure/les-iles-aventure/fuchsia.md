@@ -16,49 +16,45 @@ Vous y trouverez :
 * Une <mark style="color:yellow;">**caisse locale**</mark> à débloquer avec la monnaie de l’île : <mark style="color:yellow;">**la Féraille**</mark>
 * Un <mark style="color:yellow;">**ponéglyphe**</mark> pour débloquer la <mark style="color:yellow;">**téléportation rapide via**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/aventure`**</mark>
 
-## <mark style="color:orange;">Ennemis</mark>&#x20;
+## <mark style="color:orange;">Ennemis</mark> &#x20;
 
-Fuchsia est le territoire des <mark style="color:yellow;">**sbires d’Higuma**</mark>. Chaque ennemi vous offrira des récompenses spécifiques selon votre progression :
+L'île Aventure de <mark style="color:yellow;">**Fuchsia**</mark> est votre <mark style="color:yellow;">**première épreuve**</mark>, où les <mark style="color:yellow;">**bandits**</mark> sont les <mark style="color:yellow;">**ennemis**</mark> que vous rencontrerez.&#x20;
 
-<mark style="color:orange;">**Bandits de Fuchsia**</mark>
+Affrontez ces <mark style="color:yellow;">**bandits**</mark>, sbires d'<mark style="color:yellow;">**Higuma**</mark>, pour gagner des <mark style="color:yellow;">**niveaux de joueur**</mark> et de la <mark style="color:yellow;">**ferraille**</mark>, <mark style="color:yellow;">**monnaie**</mark> nécessaire pour votre <mark style="color:yellow;">**avancée**</mark>. Collectez des <mark style="color:yellow;">**bouteilles de saké**</mark> précieuses pour faire apparaître <mark style="color:yellow;">**Higuma**</mark> et améliorer vos <mark style="color:yellow;">**armes**</mark>, ainsi que des <mark style="color:yellow;">**fragments d'armures de bandit**</mark>.&#x20;
 
-* Donnent de la <mark style="color:yellow;">**Féraille**</mark>
-* Drop de <mark style="color:yellow;">**Bouteilles de Saké**</mark>
-* Récompensent également en <mark style="color:yellow;">**Berrys**</mark>
+Ces fragments peuvent être façonnés en <mark style="color:yellow;">**armures améliorant**</mark> vos <mark style="color:yellow;">**statistiques**</mark> via la commande <mark style="color:yellow;">**`/armurerie`**</mark>.&#x20;
 
-<mark style="color:orange;">**Johnny**</mark>
+Le terrible <mark style="color:yellow;">**Higuma**</mark>, accompagné par les <mark style="color:yellow;">**bandits**</mark>, est le <mark style="color:yellow;">**boss**</mark> redoutable de cette <mark style="color:yellow;">**île aventure**</mark>. Dans la zone aventure, sa <mark style="color:yellow;">**statue**</mark> vous attend.&#x20;
 
-* Donne de la <mark style="color:yellow;">**Féraille**</mark>
-* Drop de <mark style="color:yellow;">**Berrys**</mark>
-* Possibilité de loot les <mark style="color:yellow;">**Lunettes de Johnny**</mark>
+En <mark style="color:yellow;">**échange**</mark> de <mark style="color:yellow;">**bouteilles de saké**</mark>, de <mark style="color:yellow;">**ferraille**</mark> et d'<mark style="color:yellow;">**argent**</mark>, vous pouvez <mark style="color:yellow;">**invoquer le boss**</mark> pour un combat épique.
 
-<mark style="color:orange;">**Luffy**</mark>
+L'île est occupée par les <mark style="color:yellow;">**sbires d’Higuma**</mark>. Chaque ennemi possède ses propres récompenses, en fonction de votre niveau actuel.
 
-* Donne de la <mark style="color:yellow;">**Féraille**</mark>
-* Drop de <mark style="color:yellow;">**Berrys**</mark>
-* Chance d’obtenir le <mark style="color:yellow;">**Familier Luffy**</mark>
-* Possibilité de loot <mark style="color:yellow;">**l’Essence du Gum-Gum**</mark>
+<table><thead><tr><th width="224.41015625">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><strong>Bandit de Fuchsia</strong></td><td>Féraille, Berrys, <strong>Bouteille de Saké</strong></td></tr><tr><td><strong>Johnny</strong></td><td>Féraille, Berrys, <strong>Lunettes de Johnny</strong></td></tr><tr><td><strong>Luffy</strong></td><td>Féraille, Berrys, <strong>Familier Luffy</strong>, <strong>Essence du Gum-Gum</strong></td></tr><tr><td><strong>Yosaku</strong></td><td>Féraille, Berrys, <strong>Casque de Yosaku</strong></td></tr></tbody></table>
 
-<mark style="color:orange;">**Yosaku**</mark>
+## <mark style="color:orange;">Boss de l'île : Higuma</mark>
 
-* Donne de la <mark style="color:yellow;">**Féraille**</mark>
-* Drop de <mark style="color:yellow;">**Berrys**</mark>
-* Peut faire tomber le <mark style="color:yellow;">**Casque de Yosaku**</mark>
+<mark style="color:yellow;">**Higuma**</mark>, le premier véritable défi de votre aventure, est le <mark style="color:yellow;">**boss principal**</mark> de cette île. Vous pouvez l’invoquer à sa <mark style="color:yellow;">**statue**</mark> dans la zone aventure.
 
-### <mark style="color:orange;">Boss : Higuma</mark>
+### <mark style="color:orange;">Conditions d'invocation</mark>
 
-Higuma est le premier <mark style="color:yellow;">**boss d'île aventure**</mark> que vous pouvez invoquer via sa statue.\
-Pour l’affronter, vous devrez rassembler :
+| Ressource requise | Quantité |
+| ----------------- | -------- |
+| Bouteille de Saké | x1       |
+| Féraille          | x100     |
+| Berrys            | 5 000    |
 
-* <mark style="color:yellow;">**Bouteilles de Saké x1**</mark>
-* <mark style="color:yellow;">**Féraille x100**</mark>
-* <mark style="color:yellow;">**Berrys x5000**</mark>
+### <mark style="color:orange;">Récompenses possibles</mark>
 
-En le battant, vous aurez une chance d'obtenir le <mark style="color:yellow;">**familier Higuma**</mark>.
+| Récompense      | Détail / Effet             |
+| --------------- | -------------------------- |
+| Berrys          | Dépend du niveau du joueur |
+| Prime           | Prime 100 💀               |
+| Familier Higuma | 10%                        |
 
 ## <mark style="color:orange;">Caisse Fuchsia</mark>
 
-La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1'000 Férailles**</mark>.
+La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.000 Férailles**</mark>.
 
 |                                      **Récompenses**                                      | **Taux de Drop** |
 | :---------------------------------------------------------------------------------------: | :--------------: |
