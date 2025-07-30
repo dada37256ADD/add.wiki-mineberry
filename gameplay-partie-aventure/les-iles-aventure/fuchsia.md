@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant l'Île Aventure Fuchsia
+description: Votre première étape dans le vaste monde de MinePiece
 ---
 
 # 🌺 Fuchsia

@@ -1,98 +1,94 @@
 ---
-description: Retrouvez ici toutes les informations concernant l'Île Aventure Ville Orange
+description: Une ville colorée… infestée de clowns dangereux
 ---
 
 # 🍊 Ville Orange
 
-## <mark style="color:orange;">Informations générales</mark>
+## <mark style="color:orange;">Informations Générales</mark>
 
-L'<mark style="color:yellow;">**île Aventure Ville Orange**</mark> devient accessible après avoir atteint le rang de <mark style="color:yellow;">**Recrue**</mark>. Pour y <mark style="color:yellow;">**accéder**</mark>, prenez la barre de votre <mark style="color:yellow;">**navire**</mark> depuis Fuchsia et <mark style="color:yellow;">**partez à la recherche de nouveaux défis**</mark> dignes d'un véritable pirate.
+Bienvenue à <mark style="color:yellow;">**Orange Town**</mark>, votre deuxième étape dans le monde de MinePiece. Cette île vous plonge dans une atmosphère urbaine envahie par les pirates de Baggy, chacun prêt à défendre son territoire.
 
-En explorant cette <mark style="color:yellow;">**île**</mark>, vous allez affrontez <mark style="color:yellow;">**les sbires de Baggy**</mark> qui récompenseront vos exploits en <mark style="color:yellow;">**oranges**</mark>, la <mark style="color:yellow;">**monnaie locale**</mark>.&#x20;
+Sur cette île, vous trouverez :
 
-Ces <mark style="color:yellow;">**oranges**</mark> vous permettront d'ouvrir la <mark style="color:yellow;">**caisse présente sur l'île**</mark>, débloquant ainsi des <mark style="color:yellow;">**récompenses**</mark> essentielles pour votre <mark style="color:yellow;">**progression**</mark>. La caisse est également disponible à l'achat avec des <mark style="color:green;">**gemmes**</mark>.
+* Des <mark style="color:yellow;">**zones agricoles riches**</mark> en cultures à récolter librement
+* De <mark style="color:yellow;">**nouveaux ennemis**</mark> et mini-boss à affronter selon votre niveau
+* Une <mark style="color:yellow;">**nouvelle monnaie locale**</mark> : les <mark style="color:yellow;">**Nez de Clown**</mark>
+* Une <mark style="color:yellow;">**Caisse Orange Town**</mark> (détaillée à venir)
+* Un <mark style="color:yellow;">**ponéglyphe**</mark> à débloquer pour vous téléporter rapidement via <mark style="color:yellow;">**`/aventure`**</mark>
+* Un <mark style="color:yellow;">**boss redoutable**</mark> à invoquer, <mark style="color:yellow;">**Baggy le Clown**</mark>
+
+## <mark style="color:orange;">Ressources & Zones de Farm</mark>
+
+L’île vous propose plusieurs zones agricoles pour progresser dans le métier de <mark style="color:yellow;">**Fermier**</mark> :
+
+* <mark style="color:yellow;">**Blé**</mark>
+* <mark style="color:yellow;">**Carottes**</mark>
+* <mark style="color:yellow;">**Betteraves**</mark>
+
+Récoltez à volonté pour améliorer vos stats, accomplir vos quêtes et gagner vos premières berrys !
 
 ## <mark style="color:orange;">Ennemis</mark>
 
-Sur l'<mark style="color:yellow;">**île Ville Orange**</mark>, retrouvez plusieurs <mark style="color:yellow;">**ennemis**</mark> tels que les <mark style="color:yellow;">**matelots**</mark>, <mark style="color:yellow;">**Cabaji**</mark>, et le célèbre <mark style="color:yellow;">**boss**</mark> tant réputé <mark style="color:yellow;">**Baggy**</mark>.&#x20;
+<mark style="color:orange;">**Pirates de Baggy**</mark>
 
-Combattez ces <mark style="color:yellow;">**sbires**</mark> pour accumuler de l'<mark style="color:yellow;">**expérience de métier**</mark> et des <mark style="color:yellow;">**oranges**</mark> nécessaires à votre avancée, et collectez les <mark style="color:yellow;">**boulets de Baggy**</mark>, objets cruciaux pour les <mark style="color:yellow;">**quêtes**</mark> ainsi que des <mark style="color:yellow;">**fragments d'armures de clown**</mark>.&#x20;
+* Drop de <mark style="color:yellow;">**Berrys**</mark>
+* Drop de <mark style="color:yellow;">**Balles de Baggy**</mark>
+* Drop de <mark style="color:yellow;">**Nez de Clown**</mark> (monnaie locale de l’île)
 
-Ces <mark style="color:yellow;">**fragments**</mark> peuvent être façonnés en <mark style="color:yellow;">**armures**</mark> améliorant vos <mark style="color:yellow;">**statistiques**</mark> via la commande <mark style="color:yellow;">**`/marchand`**</mark>.&#x20;
+<mark style="color:orange;">**Cabaji**</mark>
 
-Le redoutable <mark style="color:yellow;">**Baggy**</mark>, accompagné de ses <mark style="color:yellow;">**matelots**</mark> et de <mark style="color:yellow;">**Cabaji**</mark>, trône en tant que <mark style="color:yellow;">**boss**</mark> suprême de cette <mark style="color:yellow;">**île aventure**</mark>.&#x20;
+* Drop de <mark style="color:yellow;">**Berrys**</mark>
+* Drop du <mark style="color:yellow;">**Monocycle de Cabaji**</mark>
 
-Dans la <mark style="color:yellow;">**zone aventure**</mark>, la <mark style="color:yellow;">**statue**</mark> de <mark style="color:yellow;">**Baggy**</mark> attend. En échange de <mark style="color:yellow;">**boulets de Baggy**</mark>, d'<mark style="color:yellow;">**oranges**</mark> et d'<mark style="color:yellow;">**argent**</mark>, invoquez le <mark style="color:yellow;">**boss**</mark> pour un combat épique et récoltez les <mark style="color:yellow;">**récompenses**</mark> qui en découlent.&#x20;
+<mark style="color:orange;">**Morge & Richy**</mark>
 
-{% hint style="success" %}
-Profitez de cette île pour renforcer votre personnage et progresser dans votre quête vers le statut de Roi des Pirates !
-{% endhint %}
+* Drop de <mark style="color:yellow;">**Berrys**</mark>
+* Drop de la <mark style="color:yellow;">**Crinière de Richy**</mark>
 
-### <mark style="color:orange;">Taux de Drops</mark>
+<mark style="color:orange;">**Alvida**</mark>
 
-**Orange** [🍊](https://emojiterra.com/fr/mandarine/) **:** \
-&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+2'800**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
-&#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+400**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
-&#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+10**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
-&#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>
+* Drop de <mark style="color:yellow;">**Berrys**</mark>
+* Drop du <mark style="color:yellow;">**Chapeau d’Alvida**</mark>
 
-**Boulet de Baggy** **:** \
-&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x2**</mark>\
-&#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
-&#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Matelot**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
-&#x20;                               Chance -> <mark style="color:yellow;">**3%**</mark>
+Chacun de ces ennemis vous aidera à farmer des <mark style="color:yellow;">**ressources de craft**</mark>, des <mark style="color:yellow;">**objets de quête**</mark> et des <mark style="color:yellow;">**objets à échanger**</mark> pour progresser vers le boss.
 
-**Prime** **:** \
-&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+4'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
-&#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>
+## <mark style="color:orange;">Boss : Baggy le Clown</mark>
 
-**Berry de Bronze** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Baggy**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x2**</mark>\
-&#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>
+Un adversaire explosif et imprévisible, à invoquer via sa statue dans la zone boss.
+
+<mark style="color:orange;">**Conditions d’invocation**</mark>**&#x20;:**
+
+* 1x <mark style="color:yellow;">**Balle de Baggy**</mark>
+* 200x <mark style="color:yellow;">**Nez de Clown**</mark>
+* 10 000 <mark style="color:yellow;">**Berrys**</mark>
+
+<mark style="color:orange;">**Récompenses potentielles**</mark>**&#x20;:**
+
+* <mark style="color:yellow;">**Berrys**</mark>
+* <mark style="color:yellow;">**Familier Baggy**</mark>
+* <mark style="color:yellow;">**Essence de la Fragmentation**</mark>
+
+Préparez-vous à un <mark style="color:yellow;">**combat chaotique mais lucratif**</mark>, surtout si vous jouez un fruit du démon de type Fragmentation !
+
+## <mark style="color:orange;">Ponéglyphe & Téléportation</mark>
+
+Comme pour Fuchsia, vous pourrez découvrir le <mark style="color:yellow;">**ponéglyphe d’Orange Town**</mark>, vous permettant de débloquer <mark style="color:yellow;">**la téléportation rapide**</mark> via le menu <mark style="color:yellow;">**`/aventure`**</mark>.
 
 ## <mark style="color:orange;">Caisse Ville Orange</mark>
 
-La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant au prix de **1'500**[🍊](https://emojiterra.com/fr/mandarine/).
+La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant au prix de <mark style="color:red;">**1'000 Nez de Clown**</mark>.
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p>Aperçu de la Caisse Ville Orange</p></figcaption></figure>
-
-|                           **Récompenses**                          | **Taux de Drop** |
-| :----------------------------------------------------------------: | :--------------: |
-|    <mark style="color:green;">**1x Dials de Vente (1.0)**</mark>   |      **32%**     |
-|           <mark style="color:green;">**Pet Zoro**</mark>           |      **30%**     |
-|      <mark style="color:yellow;">**1x Booster Métier**</mark>      |      **12%**     |
-|      <mark style="color:yellow;">**Couteaux de Baggy**</mark>      |      **6%**      |
-|        <mark style="color:yellow;">**Fouet de Morge**</mark>       |      **6%**      |
-|       <mark style="color:yellow;">**Houe de matelot**</mark>       |      **5%**      |
-| <mark style="color:blue;">**x2 Fragment d'armure de Clown**</mark> |      **3%**      |
-|          <mark style="color:yellow;">**Pet Baggy**</mark>          |      **5%**      |
-|  <mark style="color:yellow;">**Fruit de la Fragmentation**</mark>  |      **1%**      |
-
-## <mark style="color:orange;">Caisse Premium Ville Orange</mark>
-
-La <mark style="color:yellow;">**Caisse Premium Fuchsia**</mark> s'obtient en l'achetant au prix de <mark style="color:green;">**290 Gemmes**</mark>.
-
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Aperçu de la Caisse Premiu Ville Orange</p></figcaption></figure>
-
-|                           **Récompenses**                          | **Taux de Drop** |
-| :----------------------------------------------------------------: | :--------------: |
-|   <mark style="color:yellow;">**1x Dials de Vente (1.2)**</mark>   |      **30%**     |
-|           <mark style="color:green;">**Pet Nami**</mark>           |      **25%**     |
-|     <mark style="color:yellow;">**Houe l'homme Poisson**</mark>    |      **8%**      |
-|          <mark style="color:yellow;">**Kiribachi**</mark>          |      **6%**      |
-|       <mark style="color:yellow;">**Sceptre de Nami**</mark>       |      **6%**      |
-|         <mark style="color:yellow;">**Booster Shop**</mark>        |      **12%**     |
-| <mark style="color:blue;">**x3 Fragment d'armure de Clown**</mark> |      **1%**      |
-|          <mark style="color:yellow;">**Pet Arlong**</mark>         |      **6%**      |
-|  <mark style="color:yellow;">**Fruit de la Fragmentation**</mark>  |      **2%**      |
-
-{% hint style="warning" %}
-L'ouverture simultanée de trois coffres est réservée aux détenteurs de l'abonnement premium.
-{% endhint %}
+|                             **Récompenses**                             | **Taux de Drop** |
+| :---------------------------------------------------------------------: | :--------------: |
+|     <mark style="color:green;">**Fruit du Lion**</mark> _(Niveau 1)_    |      **4%**      |
+|           <mark style="color:blue;">**Fouet de Morge**</mark>           |      **7%**      |
+|            <mark style="color:blue;">**Houe de Morge**</mark>           |      **13%**     |
+|           <mark style="color:blue;">**Familier Cabaji**</mark>          |      **2%**      |
+|           <mark style="color:green;">**Familier Richy**</mark>          |      **5%**      |
+| <mark style="color:green;">**Fragment d'Armure de Clown**</mark> _(x2)_ |      **10%**     |
+|           <mark style="color:green;">**Dial de Vente**</mark>           |      **22%**     |
+|          <mark style="color:orange;">**Berry de Bronze**</mark>         |      **28%**     |
+|      <mark style="color:green;">**Booster d'argent Métier**</mark>      |      **9%**      |
 
 ## <mark style="color:orange;">Activités</mark>
 
