@@ -6,6 +6,45 @@ description: Retrouvez ici toutes les informations concernant l'Île Aventure Sa
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-05 à 09.59.12.png" alt=""><figcaption></figcaption></figure>
 
+#### Informations générales
+
+L’archipel mythique de **Sabaody** devient accessible une fois le **rang d’Empereur** atteint. Depuis n’importe quelle autre île aventure, prenez la barre de votre navire et dirigez-vous vers cette zone vibrante, entre bulles mystérieuses et technologie avancée.\
+Ici, vos exploits seront récompensés en **Bulles**, la monnaie locale exclusive à cette île. Ces bulles vous permettront d’acheter la **Caisse de Sabaody**, contenant de puissantes récompenses, également disponible contre des gemmes.
+
+En plus des combats, l’île propose une **activité unique** :
+
+> 🎯 **Enchères** : Participez aux célèbres enchères humaines et tentez de repartir avec des objets inédits et rares. Préparez vos berrys !
+
+#### Ennemis
+
+Sabaody est sous l’occupation militaire de la **Marine**, mais les choses se corsent rapidement : **Pacifistas**, **Sentomaru** et même **Eustass Kid** vous barreront la route.\
+Chaque ennemi (sauf le boss final) vous permettra de gagner des **Berrys**, des **Boulons** et bien sûr, des **Bulles**, selon votre niveau.
+
+🗡️ **Liste des ennemis :**
+
+* **Soldat de la Marine** : Berrys, _Coussinet de Kuma_
+* **Sentomaru** : Berrys, _Ceinture de Sentomaru_
+* **Pacifista** : Berrys, _Boulon_
+* **Eustass Kid** : Berrys, _Familier Eustass Kid_, _Essence du Magnéto-Fruit_
+
+***
+
+#### Boss : Kuma
+
+Le colosse silencieux, **Bartholomew Kuma**, l’un des 7 Grands Corsaires, vous attend comme boss suprême de cette île. Ce combattant impitoyable fera appel à toute votre puissance pour être vaincu.
+
+⚔️ **Ressources obtenables sur Kuma** :
+
+* Berrys
+* **Familier Kuma**
+* **Essence des Coussinets**
+
+🔑 **Conditions pour invoquer Kuma** :
+
+* **16 Coussinets de Kuma**
+* **3 500 Bulles**
+* **150 000 Berrys**
+
 ## <mark style="color:orange;">Informations générales</mark>
 
 L'<mark style="color:yellow;">**île Aventure Sabaody**</mark> devient accessible au rang d'"<mark style="color:yellow;">**Empereur**</mark>". Pour vous y rendre, prenez la barre de votre <mark style="color:yellow;">**navire**</mark> depuis toute autre <mark style="color:yellow;">**île aventure**</mark> et partez à la recherche de <mark style="color:yellow;">**nouveaux défis**</mark> dignes d'un véritable <mark style="color:yellow;">**pirate**</mark>.
