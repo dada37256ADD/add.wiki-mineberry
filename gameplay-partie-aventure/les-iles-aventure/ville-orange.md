@@ -37,7 +37,7 @@ Orange Town est envahie par les troupes de Baggy. En les affrontant, vous gagner
 
 * Des <mark style="color:yellow;">**Berrys**</mark>
 * Des <mark style="color:yellow;">**Nez de Clown**</mark> (monnaie locale)
-* Des <mark style="color:yellow;">**objets uniques**</mark>
+* Des <mark style="color:yellow;">**objets uniques**</mark> nécessaires pour améliorer vos armes via le <mark style="color:yellow;">**`/weapon`**</mark>
 * Et parfois des <mark style="color:yellow;">**fragments d’armure de clown**</mark>, à transformer en équipement via la commande <mark style="color:yellow;">**`/armurerie`**</mark>
 
 <table><thead><tr><th width="207.21484375">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Pirates de Baggy</strong></mark></td><td>Nez de Clown, Berrys, Balle de Baggy</td></tr><tr><td><mark style="color:yellow;"><strong>Cabaji</strong></mark></td><td>Nez de Clown, Berrys, Monocycle de Cabaji</td></tr><tr><td><mark style="color:yellow;"><strong>Morge &#x26; Richy</strong></mark></td><td>Nez de Clown, Berrys, Crinière de Richy</td></tr><tr><td><mark style="color:yellow;"><strong>Alvida</strong></mark></td><td>Nez de Clown, Berrys, Chapeau d’Alvida</td></tr></tbody></table>
