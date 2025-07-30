@@ -1,32 +1,68 @@
 ---
-description: Retrouvez ici toutes les informations concernant l'Île Aventure Baratie
+description: Le navire-restaurant où la gastronomie devient une arme !
 ---
 
 # 🎣 Baratie
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.39.43.png" alt=""><figcaption><p>Aperçu de l'Île Baratie</p></figcaption></figure>
 
-## <mark style="color:orange;">Informations générales</mark>
+## <mark style="color:orange;">Informations Générales</mark>
 
-L'<mark style="color:yellow;">**île Aventure de Baratie**</mark> devient <mark style="color:yellow;">**accessible**</mark> après avoir atteint le rang de "<mark style="color:yellow;">**Pirate**</mark>". Pour y accéder, prenez la barre de votre <mark style="color:yellow;">**navire**</mark> depuis <mark style="color:yellow;">**Fuchsia**</mark> ou <mark style="color:yellow;">**Ville Orange**</mark> et partez à la recherche de <mark style="color:yellow;">**nouveaux défis**</mark> dignes d'un véritable <mark style="color:yellow;">**pirate**</mark>.
+Bienvenue sur l’île aventure <mark style="color:yellow;">**Baratie**</mark>, une île flottante spécialisée dans la <mark style="color:yellow;">**pêche**</mark> et la <mark style="color:yellow;">**cuisine**</mark>. Pour y accéder, prenez la barre de votre <mark style="color:yellow;">**navire**</mark> et partez à la recherche de <mark style="color:yellow;">**nouveaux défis**</mark> dignes d'un véritable <mark style="color:yellow;">**pirate**</mark>.
 
-Sur cette <mark style="color:yellow;">**île**</mark>, de nouveaux défis vous attendent, car les combats ne sont pas à l'ordre du jour. Au lieu de cela, votre <mark style="color:yellow;">**talent culinaire**</mark> sera mis à l'épreuve, et vous devrez <mark style="color:yellow;">**pêcher**</mark> les <mark style="color:yellow;">**énormes poissons de Baratie**</mark> pour ensuite les <mark style="color:yellow;">**cuisiner**</mark> à la manière du véritable chef <mark style="color:yellow;">**Sanji**</mark>. Si les clients sont satisfaits, vous serez <mark style="color:yellow;">**récompensé en poêles**</mark>, la <mark style="color:yellow;">**monnaie**</mark> propre à l'île.
+Sur cette <mark style="color:yellow;">**île**</mark>, de nouveaux défis vous attendent, car les combats ne sont pas à l'ordre du jour. Au lieu de cela, votre <mark style="color:yellow;">**talent culinaire**</mark> sera mis à l'épreuve, et vous devrez <mark style="color:yellow;">**pêcher**</mark> les <mark style="color:yellow;">**énormes poissons de Baratie**</mark> pour ensuite les <mark style="color:yellow;">**cuisiner**</mark> à la manière du véritable chef <mark style="color:yellow;">**Zeff**</mark>. Si les clients sont satisfaits, vous serez <mark style="color:yellow;">**récompensé en poêles**</mark>, la <mark style="color:yellow;">**monnaie**</mark> propre à l'île.
 
-Ces <mark style="color:yellow;">**poêles**</mark> vous permettront d'<mark style="color:yellow;">**ouvrir la caisse présente sur l'île**</mark>, débloquant ainsi des <mark style="color:yellow;">**récompenses**</mark> essentielles pour votre <mark style="color:yellow;">**progression**</mark>. La <mark style="color:yellow;">**caisse premium**</mark> est également disponible à l'achat avec des <mark style="color:green;">**gemmes**</mark>.
+Ces <mark style="color:yellow;">**poêles**</mark> vous permettront d'<mark style="color:yellow;">**ouvrir la caisse présente sur l'île**</mark>, débloquant ainsi des <mark style="color:yellow;">**récompenses**</mark> essentielles pour votre <mark style="color:yellow;">**progression**</mark>.
 
-## <mark style="color:orange;">Activité</mark>
+Vous pourrez :
+
+* Explorer les eaux du Baratie pour capturer des <mark style="color:yellow;">**poissons rares**</mark>
+* Accéder aux cuisines de renom du navire et <mark style="color:yellow;">**préparer des plats sophistiqués**</mark>
+* Vendre vos recettes à des clients dans des délais limités
+* Gagner des ressources précieuses pour améliorer vos métiers
+
+## <mark style="color:orange;">Pêche</mark>
+
+Dans les eaux de Baratie, vous aurez l'occasion de pêcher des poissons spécifiques à cette île. Chaque poisson appartient à une rareté qui détermine sa valeur et son utilité.
+
+### <mark style="color:orange;">T</mark><mark style="color:orange;">**aux d’apparition**</mark>
+
+* <mark style="color:green;">**Poissons Communs**</mark> : 65%
+* <mark style="color:blue;">**Poissons Rares**</mark> : 25%
+* <mark style="color:purple;">**Poissons Épiques**</mark> : 7.5%
+* <mark style="color:yellow;">**Poissons Légendaires**</mark> : 2.5%
+
+### <mark style="color:orange;">L</mark><mark style="color:orange;">**iste des poissons disponibles**</mark>
+
+* <mark style="color:green;">**Commun**</mark> : Crabe
+* <mark style="color:blue;">**Rare**</mark> : Poulpe, Poisson-lion
+* <mark style="color:purple;">**Épique**</mark> : Poisson-papillon, Poisson-combattant
+* <mark style="color:yellow;">**Légendaire**</mark> : Homard
+
+Pêchez dans les zones prévues autour du navire et améliorez votre rendement en augmentant votre niveau de métier.
+
+## <mark style="color:orange;">Cuisine</mark>
 
 En ce qui concerne les <mark style="color:yellow;">**activités**</mark> sur cette <mark style="color:yellow;">**île**</mark>, pas besoin de vous battre. Pour poursuivre votre aventure, <mark style="color:yellow;">**développez vos talents culinaires**</mark> ! Au <mark style="color:yellow;">**sous-sol**</mark> du restaurant de <mark style="color:yellow;">**Baratie**</mark>, <mark style="color:yellow;">**cuisinez**</mark> les <mark style="color:yellow;">**poissons**</mark> nécessaires aux <mark style="color:yellow;">**recettes spéciales de l'île**</mark>.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-06 à 10.34.09.png" alt=""><figcaption></figcaption></figure>
 
-Une fois le <mark style="color:yellow;">**poisson cuit**</mark>, préparez les <mark style="color:yellow;">**plats**</mark> avec les <mark style="color:yellow;">**ingrédients requis**</mark>, et le tour est joué !
+Devenez un véritable chef dans les <mark style="color:yellow;">**cuisines du Baratie**</mark> ! En interagissant avec <mark style="color:yellow;">**Zeff**</mark>, vous accéderez à un menu complet pour créer des plats :
 
-### <mark style="color:orange;">Assemblage</mark>
+### <mark style="color:orange;">Étapes de la préparation</mark>
+
+1. <mark style="color:yellow;">**Ingrédients**</mark> – Choisissez les aliments dans le frigo du Baratie
+2. <mark style="color:yellow;">**Cuisson**</mark> – Faites revenir vos ingrédients à la poêle
+3. <mark style="color:yellow;">**Préparation**</mark> – Assemblez les ingrédients pour créer le plat
+4. <mark style="color:yellow;">**Service**</mark> – Servez vos plats aux clients dans le <mark style="color:yellow;">**temps imparti**</mark>
+
+Cuisiner vous permet de gagner de l’<mark style="color:yellow;">**expérience de métier**</mark>, des <mark style="color:yellow;">**berrys**</mark>, et d’obtenir des <mark style="color:yellow;">**recettes spéciales**</mark> selon votre performance.
+
+### <mark style="color:orange;">Ingrédients</mark>
 
 Pour découvrir les <mark style="color:yellow;">**recettes exclusives**</mark> de l'île, rendez-vous simplement dans la <mark style="color:yellow;">**cuisine**</mark> et <mark style="color:yellow;">**cliquez**</mark> sur l'un des blocs <mark style="color:yellow;">**situés**</mark> à côté des <mark style="color:yellow;">**plaques de cuisson**</mark>. En faisant cela, une <mark style="color:yellow;">**interface**</mark> dédiée s'ouvrira, révélant les <mark style="color:yellow;">**éléments nécessaires**</mark> pour vos création.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption><p>Aperçu de l'Assemblage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-30 à 12.25.10.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Comment Accéder aux Recettes**</mark>
 
@@ -40,86 +76,80 @@ Pour découvrir les <mark style="color:yellow;">**recettes exclusives**</mark> d
 
 <mark style="color:yellow;">**Ingrédients et Étapes**</mark> : Chaque recette listera les ingrédients nécessaires et les étapes à suivre. Les ingrédients s'afficheront clairement, vous permettant de vérifier ce dont vous avez besoin.&#x20;
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-30 à 12.38.23.png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:yellow;">**Vérifiez Votre Inventaire**</mark>**&#x20;:** Avant de commencer à assembler la recette, assurez-vous d'avoir les éléments nécessaires dans votre inventaire. Les objets requis doivent être présents pour pouvoir sélectionner la recette.
 
 <mark style="color:yellow;">**Pré-cuisson des Poissons**</mark>**&#x20;:** Pour les recettes impliquant des poissons, notez que ces derniers doivent d'abord être cuits. Placez le poisson dans l'interface des plaques de cuisson et attendez quelques instants pour qu'il soit cuit et prêt à être utilisé dans vos recettes.
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Aperçu de l'interface de Cuisson</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-30 à 12.27.41.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**Cuisinez avec Facilité**</mark> : Suivez les instructions étape par étape pour créer les délices culinaires de l'île. Vous serez guidé à travers le processus, garantissant une expérience de cuisine sans tracas.
 
-### <mark style="color:orange;">Recettes</mark>
+## <mark style="color:orange;">Liste des Ingrédients disponibles</mark>
 
-<mark style="color:yellow;">**Lionfish Temaki**</mark>**&#x20;:**
+### <mark style="color:orange;">Fruits & Légumes</mark>
 
-* **Poisson-lion cuit**
-* **Rosier**
-* **Carotte**
+| Ingrédient      | Prix (Berrys) |
+| --------------- | ------------- |
+| Laitue          | 9,90          |
+| Haricots Rouges | 33,20         |
+| Brocoli         | 12,90         |
+| Tomate          | 39,90         |
+| Fraise          | 62,90         |
+| Aubergine       | 29,90         |
+| Oignon          | 26,90         |
+| Champignon      | 30,00         |
+| Céleri          | 38,90         |
+| Mangue          | 19,90         |
+| Citron          | 6,90          |
+| Concombre       | 11,90         |
+| Poivron         | 55,90         |
 
-<mark style="color:blue;">**Bette Kabuki**</mark>**&#x20;:**  &#x20;
+### <mark style="color:orange;">Viandes & Poissons</mark>
 
-* **Poisson Combattant cuit**
-* **Blé**
-* **Patate**
+| Ingrédient           | Prix (Berrys) |
+| -------------------- | ------------- |
+| Poulet à la Lave cru | 180,50        |
+| Œuf cru              | 40,80         |
+| Jambou cru           | 55,90         |
+| Lapin cru            | 116,70        |
+| Bœuf cru             | 390,00        |
 
-<mark style="color:purple;">**Capitaine Homard**</mark>**&#x20;:**  &#x20;
+### <mark style="color:orange;">Condiments</mark>
 
-* **Homard rouge cuit**
-* **Fiole d'eau**&#x20;
-* **Betterave**
+| Ingrédient      | Prix (Berrys) |
+| --------------- | ------------- |
+| Pain            | 11,00         |
+| Sauce Barbecue  | 21,90         |
+| Nouilles        | 12,50         |
+| Crème           | 15,90         |
+| Curry           | 19,90         |
+| Sac d'Épices    | 29,90         |
+| Sucre           | 17,90         |
+| Riz             | 25,50         |
+| Bouillon        | 20,20         |
+| Pâte Pâtissière | 16,90         |
+| Canette         | 24,90         |
 
-<mark style="color:yellow;">**Tako Tako Surprise**</mark>**&#x20;:** &#x20;
+## <mark style="color:orange;">Liste des Recettes</mark>
 
-* **Pieuvre cuite**
-* **Champignon marron**
-* **Baies sucrées**
-
-<mark style="color:blue;">**Maki Thousand Sunny**</mark> **:**
-
-* **Poisson-papillon cuit**
-* **Algue séchée**
-* **Pivoine**
-
-## <mark style="color:orange;">Boss</mark>
-
-Dans la <mark style="color:yellow;">**zone aventure**</mark>, la <mark style="color:yellow;">**statue**</mark> du <mark style="color:yellow;">**Monstre des Mers**</mark> attend. En échange de <mark style="color:yellow;">**corne des mers**</mark>, de <mark style="color:yellow;">**Poêles**</mark>, et d'<mark style="color:yellow;">**argent**</mark>, invoquez le <mark style="color:yellow;">**boss**</mark> pour un combat épique et récoltez les <mark style="color:yellow;">**récompenses**</mark> qui en découlent.
+<table data-header-hidden><thead><tr><th>Nom du plat</th><th width="116.7265625">Ingrédients</th><th width="137.43359375"></th><th></th><th>Poêles</th></tr></thead><tbody><tr><td>Sandwich de Franky</td><td>Laitue</td><td>Jambou cru</td><td>Pain</td><td>12</td></tr><tr><td>Curry poisson épicé</td><td>Aubergine</td><td>Fugu cuit</td><td>Curry</td><td>15</td></tr><tr><td>Riz pilaf</td><td>Tomate</td><td>Carpe cuite</td><td>Riz</td><td>17</td></tr><tr><td>Bentô de Sanji</td><td>Brocoli</td><td>Poulet à la Lave cru</td><td>Riz</td><td>35</td></tr><tr><td>Viande sauce Barbecue</td><td>Sauce Barbecue</td><td>Boeuf cru</td><td>Sac d'Épices</td><td>65</td></tr><tr><td>Soupe aux palourdes</td><td>Palourde</td><td>Céleri</td><td>Bouillon</td><td>350</td></tr><tr><td>Oshiruko</td><td>Haricots Rouges</td><td>Sucre</td><td>Pâte Pâtissière</td><td>10</td></tr><tr><td>Ragoût de lapin</td><td>Lapin cru</td><td>Champignon</td><td>Bouillon</td><td>25</td></tr><tr><td>Barbecue céleste</td><td>Poisson Momifié</td><td>Sac d'Épices</td><td>Poivron</td><td>535</td></tr><tr><td>Tako tako surprise</td><td>Nouilles</td><td>Poulpe cuit</td><td>Poivron</td><td>40</td></tr><tr><td>Maki thousand sunny</td><td>Crabe cuit</td><td>Mangue</td><td>Riz</td><td>25</td></tr><tr><td>Gâteau de mariage</td><td>Fraise</td><td>Crème</td><td>Pâte Pâtissière</td><td>15</td></tr><tr><td>Ragoût de fruits de mer</td><td>Oignon</td><td>Shonai cuit</td><td>Bouillon</td><td>22</td></tr><tr><td>Curry de la marine</td><td>Boeuf cru</td><td>Curry</td><td>Riz</td><td>65</td></tr><tr><td>Croquembouche</td><td>Crème</td><td>Sucre</td><td>Pâte Pâtissière</td><td>8</td></tr><tr><td>Bette Kabuki</td><td>Oignon</td><td>Boeuf cru</td><td>Riz</td><td>66</td></tr><tr><td>Tarte au citron</td><td>Citron</td><td>Crème</td><td>Pâte Pâtissière</td><td>6</td></tr><tr><td>Lionfish temaki</td><td>Concombre</td><td>Poisson Lion cuit</td><td>Riz</td><td>43</td></tr><tr><td>Riz au poulpe</td><td>Concombre</td><td>Poulpe cuit</td><td>Riz</td><td>36</td></tr><tr><td>Omelette fruits de mer</td><td>Oeuf cru</td><td>Poivron</td><td>Poisson Papillon cuit</td><td>90</td></tr><tr><td>Soba de Sanji</td><td>Nouilles</td><td>Perche Jaune cuite</td><td>Bouillon</td><td>80</td></tr><tr><td>Takoyaki géant</td><td>Poulpe cuit</td><td>Pâte Pâtissière</td><td>Bouillon</td><td>35</td></tr><tr><td>Bouillon céleste</td><td>Oignon</td><td>Zancle Cornue cuit</td><td>Bouillon</td><td>82</td></tr><tr><td>Bentô trois saveurs</td><td>Champignon</td><td>Neon Tetra cuit</td><td>Riz</td><td>83</td></tr><tr><td>Paella de Dressrosa</td><td>Poivron</td><td>Poisson Combattant cuit</td><td>Riz</td><td>125</td></tr><tr><td>Capitaine homard</td><td>Céleri</td><td>Citron</td><td>Homard cuit</td><td>230</td></tr><tr><td>Mango loco</td><td>Mangue</td><td>Sucre</td><td>Canette</td><td>10</td></tr></tbody></table>
 
 ## <mark style="color:orange;">Caisse Baratie</mark>
 
-La <mark style="color:yellow;">**Caisse Baratie**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**2'000 Poêles**</mark>.
+La <mark style="color:yellow;">**Caisse Baratie**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.000 Poêles**</mark>.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Aperçu de la Caisse Baratie</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-30 à 12.29.47.png" alt=""><figcaption></figcaption></figure>
 
-|                          **Récompenses**                         | **Taux de Drop** |
-| :--------------------------------------------------------------: | :--------------: |
-|  <mark style="color:yellow;">**1x Dials de Vente (1.2)**</mark>  |      **22%**     |
-|         <mark style="color:green;">**Pet Chopper**</mark>        |      **22%**     |
-| <mark style="color:green;">**Canne à pêche du cuisinier**</mark> |      **22%**     |
-|        <mark style="color:green;">**Tonfas de Gin**</mark>       |      **6%**      |
-|      <mark style="color:yellow;">**Épée de Fullbody**</mark>     |      **6%**      |
-|      <mark style="color:yellow;">**Booster métiers**</mark>      |      **10%**     |
-|           <mark style="color:green;">**Éponge**</mark>           |      **4%**      |
-|       <mark style="color:yellow;">**Pet Don Krieg**</mark>       |      **3%**      |
-|        <mark style="color:green;">**Fruit du Kilo**</mark>       |      **1%**      |
-
-## <mark style="color:orange;">Caisse Premium Baratie</mark>
-
-La <mark style="color:yellow;">**Caisse Premium Baratie**</mark> s'obtient en l'achetant au prix de <mark style="color:green;">**290 Gemmes**</mark>.
-
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Aperçu de la Caisse Premium Baratie</p></figcaption></figure>
-
-|                        **Récompenses**                        | **Taux de Drop** |
-| :-----------------------------------------------------------: | :--------------: |
-|  <mark style="color:blue;">**1x Dials de Vente (1.4)**</mark> |      **23%**     |
-|        <mark style="color:green;">**Pet Sanji**</mark>        |      **20%**     |
-| <mark style="color:green;">**Canne à pêche de Crocus**</mark> |      **10%**     |
-|   <mark style="color:yellow;">**Lance de Don Krieg**</mark>   |      **6%**      |
-|         <mark style="color:green;">**Meatball**</mark>        |      **6%**      |
-|     <mark style="color:yellow;">**Booster Métiers**</mark>    |      **10%**     |
-|          <mark style="color:green;">**Éponge**</mark>         |      **10%**     |
-|        <mark style="color:blue;">**Pet Mihawk**</mark>        |      **3%**      |
-|     <mark style="color:green;">**Fruit du Ressort**</mark>    |      **2%**      |
-
-{% hint style="warning" %}
-L'ouverture simultanée de trois coffres est réservée aux détenteurs de l'abonnement premium.
-{% endhint %}
+|                                **Récompenses**                               | **Taux de Drop** |
+| :--------------------------------------------------------------------------: | :--------------: |
+|           <mark style="color:green;">**Fruit du Cuisinier**</mark>           |      **4%**      |
+|             <mark style="color:blue;">**Couteau de Zeff**</mark>             |      **7%**      |
+|          <mark style="color:blue;">**Canne à pêche de Zeff**</mark>          |      **13%**     |
+|              <mark style="color:blue;">**Familier Zeff**</mark>              |      **6%**      |
+|              <mark style="color:green;">**Familier Gin**</mark>              |      **5%**      |
+| <mark style="color:green;">**Fragement d'Armure du Cuisinier**</mark> _(x2)_ |      **10%**     |
+|              <mark style="color:green;">**Dial de Vente**</mark>             |      **22%**     |
+|            <mark style="color:orange;">**Berry de Bronze**</mark>            |      **28%**     |
+|           <mark style="color:green;">**Parchemin aléatoire**</mark>          |      **9%**      |
