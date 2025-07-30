@@ -41,7 +41,7 @@
 * [🚢 Les Bateaux](gameplay-partie-aventure/les-bateaux.md)
 * [🏝️ Les Îles Aventure](gameplay-partie-aventure/les-iles-aventure/README.md)
   * [🌺 Fuchsia](gameplay-partie-aventure/les-iles-aventure/fuchsia.md)
-  * [🍊 Ville Orange](gameplay-partie-aventure/les-iles-aventure/ville-orange.md)
+  * [🍊 Orange Town](gameplay-partie-aventure/les-iles-aventure/ville-orange.md)
   * [🎣 Baratie](gameplay-partie-aventure/les-iles-aventure/baratie.md)
   * [🏝️ Arlong Park](gameplay-partie-aventure/les-iles-aventure/arlong-park.md)
   * [🏙️ Logue Town](gameplay-partie-aventure/les-iles-aventure/logue-town.md)

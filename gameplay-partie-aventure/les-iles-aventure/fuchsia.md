@@ -1,5 +1,7 @@
 ---
-description: Votre première étape dans le vaste monde de MinePiece
+description: >-
+  Une paisible campagne… troublée par les agissements de bandits peu
+  recommandables
 ---
 
 # 🌺 Fuchsia

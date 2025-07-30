@@ -2,22 +2,24 @@
 description: Une ville colorée… infestée de clowns dangereux
 ---
 
-# 🍊 Ville Orange
+# 🍊 Orange Town
 
 ## <mark style="color:orange;">Informations Générales</mark>
 
-Bienvenue à <mark style="color:yellow;">**Orange Town**</mark>, votre deuxième étape dans le monde de MinePiece. Cette île vous plonge dans une atmosphère urbaine envahie par les pirates de Baggy, chacun prêt à défendre son territoire.
+Bienvenue à <mark style="color:yellow;">**Orange Town**</mark>, votre deuxième escale dans le monde de MinePiece. Cette île urbaine sous l’emprise de <mark style="color:yellow;">**Baggy**</mark> vous confrontera à de nouveaux ennemis, tout en enrichissant votre aventure avec des activités agricoles, un boss imprévisible, et des récompenses uniques.
 
 Sur cette île, vous trouverez :
 
-* Des <mark style="color:yellow;">**zones agricoles riches**</mark> en cultures à récolter librement
-* De <mark style="color:yellow;">**nouveaux ennemis**</mark> et mini-boss à affronter selon votre niveau
-* Une <mark style="color:yellow;">**nouvelle monnaie locale**</mark> : les <mark style="color:yellow;">**Nez de Clown**</mark>
-* Une <mark style="color:yellow;">**Caisse Orange Town**</mark> (détaillée à venir)
-* Un <mark style="color:yellow;">**ponéglyphe**</mark> à débloquer pour vous téléporter rapidement via <mark style="color:yellow;">**`/aventure`**</mark>
-* Un <mark style="color:yellow;">**boss redoutable**</mark> à invoquer, <mark style="color:yellow;">**Baggy le Clown**</mark>
+* Des <mark style="color:yellow;">**zones agricoles**</mark> en libre accès (blé, carottes, betteraves)
+* Un <mark style="color:yellow;">**ponéglyphe**</mark> pour débloquer la téléportation rapide via la commande <mark style="color:yellow;">**`/aventure`**</mark>
+* Une nouvelle monnaie locale : les <mark style="color:yellow;">**Nez de Clown**</mark>
+* Une <mark style="color:yellow;">**Caisse Orange Town**</mark> avec des objets exclusifs
+* De nouveaux ennemis et mini-boss adaptés à votre niveau
+* Un boss à invoquer : <mark style="color:yellow;">**Baggy le Clown**</mark>, le capitaine explosif
 
-## <mark style="color:orange;">Ressources & Zones de Farm</mark>
+Explorez, récoltez, combattez et progressez dans votre aventure grâce aux butins uniques de cette ville envahie.
+
+## <mark style="color:orange;">Ressources</mark>
 
 L’île vous propose plusieurs zones agricoles pour progresser dans le métier de <mark style="color:yellow;">**Fermier**</mark> :
 
@@ -25,54 +27,44 @@ L’île vous propose plusieurs zones agricoles pour progresser dans le métier 
 * <mark style="color:yellow;">**Carottes**</mark>
 * <mark style="color:yellow;">**Betteraves**</mark>
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-06 à 10.17.24.png" alt=""><figcaption><p>Aperçu de la Ville Orange</p></figcaption></figure>
+
 Récoltez à volonté pour améliorer vos stats, accomplir vos quêtes et gagner vos premières berrys !
 
 ## <mark style="color:orange;">Ennemis</mark>
 
-<mark style="color:orange;">**Pirates de Baggy**</mark>
+Orange Town est envahie par les troupes de Baggy. En les affrontant, vous gagnerez :
 
-* Drop de <mark style="color:yellow;">**Berrys**</mark>
-* Drop de <mark style="color:yellow;">**Balles de Baggy**</mark>
-* Drop de <mark style="color:yellow;">**Nez de Clown**</mark> (monnaie locale de l’île)
+* Des <mark style="color:yellow;">**Berrys**</mark>
+* Des <mark style="color:yellow;">**Nez de Clown**</mark> (monnaie locale)
+* Des <mark style="color:yellow;">**objets uniques**</mark>
+* Et parfois des <mark style="color:yellow;">**fragments d’armure de clown**</mark>, à transformer en équipement via la commande <mark style="color:yellow;">**`/armurerie`**</mark>
 
-<mark style="color:orange;">**Cabaji**</mark>
+<table><thead><tr><th width="207.21484375">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Pirates de Baggy</strong></mark></td><td>Nez de Clown, Berrys, Balle de Baggy</td></tr><tr><td><mark style="color:yellow;"><strong>Cabaji</strong></mark></td><td>Nez de Clown, Berrys, Monocycle de Cabaji</td></tr><tr><td><mark style="color:yellow;"><strong>Morge &#x26; Richy</strong></mark></td><td>Nez de Clown, Berrys, Crinière de Richy</td></tr><tr><td><mark style="color:yellow;"><strong>Alvida</strong></mark></td><td>Nez de Clown, Berrys, Chapeau d’Alvida</td></tr></tbody></table>
 
-* Drop de <mark style="color:yellow;">**Berrys**</mark>
-* Drop du <mark style="color:yellow;">**Monocycle de Cabaji**</mark>
+Les quantités de butin varient selon votre niveau. N’hésitez pas à traquer tous les ennemis pour récolter les composants nécessaires à l’invocation du boss ou à la fabrication d’équipement.
 
-<mark style="color:orange;">**Morge & Richy**</mark>
+## <mark style="color:orange;">Boss de l'île</mark> <mark style="color:orange;">: Baggy le Clown</mark>
 
-* Drop de <mark style="color:yellow;">**Berrys**</mark>
-* Drop de la <mark style="color:yellow;">**Crinière de Richy**</mark>
+<mark style="color:yellow;">**Baggy**</mark>, clown explosif et imprévisible, est le boss principal de l’île. Il maîtrise un fruit du démon de type <mark style="color:yellow;">**Fragmentation**</mark>.
 
-<mark style="color:orange;">**Alvida**</mark>
+Invoquez-le via sa statue dans la zone boss une fois les ressources réunies :
 
-* Drop de <mark style="color:yellow;">**Berrys**</mark>
-* Drop du <mark style="color:yellow;">**Chapeau d’Alvida**</mark>
+### <mark style="color:orange;">C</mark><mark style="color:orange;">**onditions d’invocation**</mark>
 
-Chacun de ces ennemis vous aidera à farmer des <mark style="color:yellow;">**ressources de craft**</mark>, des <mark style="color:yellow;">**objets de quête**</mark> et des <mark style="color:yellow;">**objets à échanger**</mark> pour progresser vers le boss.
+| Ressources requises                                   | Quantité |
+| ----------------------------------------------------- | -------- |
+| <mark style="color:yellow;">**Balle de Baggy**</mark> | x1       |
+| <mark style="color:yellow;">**Nez de Clown**</mark>   | x200     |
+| <mark style="color:yellow;">**Berrys**</mark>         | 10 000   |
 
-## <mark style="color:orange;">Boss : Baggy le Clown</mark>
+### <mark style="color:orange;">Récompenses possibles</mark>
 
-Un adversaire explosif et imprévisible, à invoquer via sa statue dans la zone boss.
-
-<mark style="color:orange;">**Conditions d’invocation**</mark>**&#x20;:**
-
-* 1x <mark style="color:yellow;">**Balle de Baggy**</mark>
-* 200x <mark style="color:yellow;">**Nez de Clown**</mark>
-* 10 000 <mark style="color:yellow;">**Berrys**</mark>
-
-<mark style="color:orange;">**Récompenses potentielles**</mark>**&#x20;:**
-
-* <mark style="color:yellow;">**Berrys**</mark>
-* <mark style="color:yellow;">**Familier Baggy**</mark>
-* <mark style="color:yellow;">**Essence de la Fragmentation**</mark>
-
-Préparez-vous à un <mark style="color:yellow;">**combat chaotique mais lucratif**</mark>, surtout si vous jouez un fruit du démon de type Fragmentation !
-
-## <mark style="color:orange;">Ponéglyphe & Téléportation</mark>
-
-Comme pour Fuchsia, vous pourrez découvrir le <mark style="color:yellow;">**ponéglyphe d’Orange Town**</mark>, vous permettant de débloquer <mark style="color:yellow;">**la téléportation rapide**</mark> via le menu <mark style="color:yellow;">**`/aventure`**</mark>.
+| Récompenses                                                        | Quantité                   |
+| ------------------------------------------------------------------ | -------------------------- |
+| <mark style="color:yellow;">**Berrys**</mark>                      | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Familier Baggy**</mark>              | 7.5% de chance             |
+| <mark style="color:yellow;">**Essence de la Fragmentation**</mark> | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Caisse Ville Orange</mark>
 
@@ -89,9 +81,3 @@ La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant
 |           <mark style="color:green;">**Dial de Vente**</mark>           |      **22%**     |
 |          <mark style="color:orange;">**Berry de Bronze**</mark>         |      **28%**     |
 |      <mark style="color:green;">**Booster d'argent Métier**</mark>      |      **9%**      |
-
-## <mark style="color:orange;">Activités</mark>
-
-La <mark style="color:yellow;">**Ville Orange**</mark> vous permettra de <mark style="color:yellow;">**réaliser vos premières récoltes**</mark> de <mark style="color:yellow;">**pommes de terre**</mark> ainsi que celles de <mark style="color:yellow;">**betteraves**</mark> grâce aux <mark style="color:yellow;">**champs**</mark> présents.&#x20;
-
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-06 à 10.17.24.png" alt=""><figcaption><p>Aperçu de la Ville Orange</p></figcaption></figure>
