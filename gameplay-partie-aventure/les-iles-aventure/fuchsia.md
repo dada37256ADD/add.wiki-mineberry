@@ -6,31 +6,27 @@ description: Votre première étape dans le vaste monde de MinePiece
 
 ## <mark style="color:orange;">Informations générales</mark>
 
-Bienvenue sur <mark style="color:yellow;">**Fuchsia**</mark>, la toute première île aventure de votre périple. Accessible dès votre arrivée avec le rang <mark style="color:yellow;">**Naufragé**</mark>, cette zone d’introduction vous familiarisera avec les mécaniques clés du serveur : combats, récoltes et boss.
+Fuchsia est l’île d’introduction de votre aventure. Accessible dès votre arrivée avec le rang <mark style="color:yellow;">**Naufragé**</mark>, elle vous familiarise avec les mécaniques essentielles du serveur, à travers :
 
-Vous y trouverez :
+* Des <mark style="color:yellow;">**zones de récolte**</mark> (blé à volonté)
+* Une <mark style="color:yellow;">**mine**</mark> contenant vos premiers <mark style="color:yellow;">**minerais**</mark>
+* Des ennemis progressifs, adaptés à votre niveau
+* Une <mark style="color:yellow;">**caisse locale**</mark> à débloquer avec la <mark style="color:yellow;">**Féraille**</mark>, la monnaie de l’île
+* Un <mark style="color:yellow;">**ponéglyphe**</mark> permettant de débloquer la téléportation via la commande <mark style="color:yellow;">**`/aventure`**</mark>
 
-* Des <mark style="color:yellow;">**zones de farm**</mark> (récolte de blé à volonté)
-* Une <mark style="color:yellow;">**mine**</mark> avec vos <mark style="color:yellow;">**premiers minerais**</mark>
-* Des <mark style="color:yellow;">**ennemis progressifs**</mark>, adaptés à votre niveau
-* Une <mark style="color:yellow;">**caisse locale**</mark> à débloquer avec la monnaie de l’île : <mark style="color:yellow;">**la Féraille**</mark>
-* Un <mark style="color:yellow;">**ponéglyphe**</mark> pour débloquer la <mark style="color:yellow;">**téléportation rapide via**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/aventure`**</mark>
+Explorez, combattez, récoltez et préparez-vous à affronter votre tout premier boss : <mark style="color:yellow;">**Higuma**</mark>, chef redouté des bandits locaux.
 
 ## <mark style="color:orange;">Ennemis</mark> &#x20;
 
-L'île Aventure de <mark style="color:yellow;">**Fuchsia**</mark> est votre <mark style="color:yellow;">**première épreuve**</mark>, où les <mark style="color:yellow;">**bandits**</mark> sont les <mark style="color:yellow;">**ennemis**</mark> que vous rencontrerez.&#x20;
+L’île aventure de Fuchsia est votre toute première zone de combat. Vous y affronterez les <mark style="color:yellow;">**sbires d’Higuma**</mark>, répartis en plusieurs ennemis progressifs selon votre niveau.
 
-Affrontez ces <mark style="color:yellow;">**bandits**</mark>, sbires d'<mark style="color:yellow;">**Higuma**</mark>, pour gagner des <mark style="color:yellow;">**niveaux de joueur**</mark> et de la <mark style="color:yellow;">**ferraille**</mark>, <mark style="color:yellow;">**monnaie**</mark> nécessaire pour votre <mark style="color:yellow;">**avancée**</mark>. Collectez des <mark style="color:yellow;">**bouteilles de saké**</mark> précieuses pour faire apparaître <mark style="color:yellow;">**Higuma**</mark> et améliorer vos <mark style="color:yellow;">**armes**</mark>, ainsi que des <mark style="color:yellow;">**fragments d'armures de bandit**</mark>.&#x20;
+Chaque adversaire vaincu vous permettra de gagner des <mark style="color:yellow;">**Berrys**</mark>, de la <mark style="color:yellow;">**Féraille**</mark>, la monnaie locale, de <mark style="color:yellow;">**l'expérience**</mark> ainsi que divers <mark style="color:yellow;">**objets spéciaux**</mark> selon l’ennemi combattu.
 
-Ces fragments peuvent être façonnés en <mark style="color:yellow;">**armures améliorant**</mark> vos <mark style="color:yellow;">**statistiques**</mark> via la commande <mark style="color:yellow;">**`/armurerie`**</mark>.&#x20;
+Les <mark style="color:yellow;">**bouteilles de saké**</mark>, en plus de permettre l’invocation du boss Higuma, sont également utilisées pour <mark style="color:yellow;">**améliorer vos armes**</mark> via la commande <mark style="color:yellow;">**`/weapon`**</mark>.
 
-Le terrible <mark style="color:yellow;">**Higuma**</mark>, accompagné par les <mark style="color:yellow;">**bandits**</mark>, est le <mark style="color:yellow;">**boss**</mark> redoutable de cette <mark style="color:yellow;">**île aventure**</mark>. Dans la zone aventure, sa <mark style="color:yellow;">**statue**</mark> vous attend.&#x20;
+Vous pourrez aussi récupérer des <mark style="color:yellow;">**fragments d’armure de bandit**</mark>, transformables en équipements via <mark style="color:yellow;">**`/armurerie`**</mark>.
 
-En <mark style="color:yellow;">**échange**</mark> de <mark style="color:yellow;">**bouteilles de saké**</mark>, de <mark style="color:yellow;">**ferraille**</mark> et d'<mark style="color:yellow;">**argent**</mark>, vous pouvez <mark style="color:yellow;">**invoquer le boss**</mark> pour un combat épique.
-
-L'île est occupée par les <mark style="color:yellow;">**sbires d’Higuma**</mark>. Chaque ennemi possède ses propres récompenses, en fonction de votre niveau actuel.
-
-<table><thead><tr><th width="224.41015625">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><strong>Bandit de Fuchsia</strong></td><td>Féraille, Berrys, <strong>Bouteille de Saké</strong></td></tr><tr><td><strong>Johnny</strong></td><td>Féraille, Berrys, <strong>Lunettes de Johnny</strong></td></tr><tr><td><strong>Luffy</strong></td><td>Féraille, Berrys, <strong>Familier Luffy</strong>, <strong>Essence du Gum-Gum</strong></td></tr><tr><td><strong>Yosaku</strong></td><td>Féraille, Berrys, <strong>Casque de Yosaku</strong></td></tr></tbody></table>
+<table><thead><tr><th width="181.90625">Ennemis</th><th>Récompenses principales (quantité en fonction du niveau du joueur)</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Bandit de Fuchsia</strong></mark></td><td>Féraille, Berrys, Bouteille de Saké</td></tr><tr><td><mark style="color:yellow;"><strong>Johnny</strong></mark></td><td>Féraille, Berrys, Lunettes de Johnny</td></tr><tr><td><mark style="color:yellow;"><strong>Luffy</strong></mark></td><td>Féraille, Berrys, Familier Luffy, Essence du Gum-Gum</td></tr><tr><td><mark style="color:yellow;"><strong>Yosaku</strong></mark></td><td>Féraille, Berrys, Casque de Yosaku</td></tr></tbody></table>
 
 ## <mark style="color:orange;">Boss de l'île : Higuma</mark>
 
@@ -38,19 +34,19 @@ L'île est occupée par les <mark style="color:yellow;">**sbires d’Higuma**</m
 
 ### <mark style="color:orange;">Conditions d'invocation</mark>
 
-| Ressource requise | Quantité |
-| ----------------- | -------- |
-| Bouteille de Saké | x1       |
-| Féraille          | x100     |
-| Berrys            | 5 000    |
+| Ressources requises                                      | Quantité |
+| -------------------------------------------------------- | -------- |
+| <mark style="color:yellow;">**Bouteille de Saké**</mark> | x1       |
+| <mark style="color:yellow;">**Féraille**</mark>          | x100     |
+| <mark style="color:yellow;">**Berrys**</mark>            | 5 000    |
 
 ### <mark style="color:orange;">Récompenses possibles</mark>
 
-| Récompense      | Détail / Effet             |
-| --------------- | -------------------------- |
-| Berrys          | Dépend du niveau du joueur |
-| Prime           | Prime 100 💀               |
-| Familier Higuma | 10%                        |
+| Récompenses                                            | Quantité                   |
+| ------------------------------------------------------ | -------------------------- |
+| <mark style="color:yellow;">**Berrys**</mark>          | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Prime**</mark>           | Prime de 100 💀            |
+| <mark style="color:yellow;">**Familier Higuma**</mark> | 10% de chance de l'obtenir |
 
 ## <mark style="color:orange;">Caisse Fuchsia</mark>
 
