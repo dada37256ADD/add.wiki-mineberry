@@ -2,7 +2,7 @@
 description: La ville du départ... ou de la fin !
 ---
 
-# Logue Town
+# 🏙️ Logue Town
 
 ## <mark style="color:orange;">Ennemis</mark>
 

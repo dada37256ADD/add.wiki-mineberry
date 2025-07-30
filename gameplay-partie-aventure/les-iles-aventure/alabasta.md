@@ -1,10 +1,95 @@
 ---
-description: Retrouvez ici toutes les informations concernant l'Île Aventure Alabasta
+description: Le royaume du sable, où secrets antiques et complots s’entremêlent ...
 ---
 
 # 🏜️ Alabasta
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.40.52.png" alt=""><figcaption><p>Aperçu de l'Île Aventure Alabasta</p></figcaption></figure>
+
+#### Ressources : Archéologie
+
+Munissez-vous de votre **Pinceau** et partez à la recherche de **sable suspect** disséminé dans le désert d’Alabasta pour obtenir des récompenses **uniques et précieuses**.
+
+> 🛠️ Le **Pinceau** doit être **crafté** avant de pouvoir commencer vos fouilles.
+
+Parcourez les dunes brûlantes et déterrez des trésors mystérieux.
+
+**Objets archéologiques :**
+
+| Objet                         | Chance |
+| ----------------------------- | ------ |
+| Morceau de Pot                | 6,5 %  |
+| Tissu Ancien                  | 6,5 %  |
+| Fossile Ancien                | 6,5 %  |
+| Ossement de Plante            | 6,5 %  |
+| Bijou Ancien                  | 6,5 %  |
+| Poterie Ancienne              | 6,5 %  |
+| Artéfact Métallique           | 6,5 %  |
+| Os de Dinosaure               | 6,5 %  |
+| 💎 Gemmes                     | 0,6 %  |
+| 📘 Livre de poche             | 0,6 %  |
+| 🔮 Essence aléatoire          | 0,1 %  |
+| 🔧 Ressource aléatoire        | 0,9 %  |
+| 🐟 Poisson momifié            | 3 %    |
+| 💵 1,500 Berrys               | 17,5 % |
+| 🧠 100 d’expérience           | 17,5 % |
+| 💀 100 Primes                 | 5 %    |
+| 🍏 Bonbon à la pomme          | 0,6 %  |
+| 🗝️ Clé vote                  | 1 %    |
+| 🗝️ Fragment de clé aléatoire | 0,1 %  |
+
+***
+
+#### 🏴‍☠️ Ennemis : Baroque Works
+
+Dans les ruines d’Alabasta, affrontez les agents du Baroque Works pour récupérer **cigares, équipements spéciaux et ressources précieuses**.
+
+* **Baroque Works** : Berrys, **Cigare de Crocodile**
+* **Daz Bonez** : Berrys, **Lame de Daz Bonez**
+* **Miss Double Finger** : Berrys, **Pique de Miss Double Finger**
+* **Ace** : Berrys, 🐾 **Familier Ace**, 🔥 **Essence du Feu**
+* **Nico Robin** : Berrys, 🐾 **Familier Robin**, 🌱 **Essence des Éclosions**
+
+***
+
+#### 🦂 Boss : **Crocodile**
+
+Chef du Baroque Works et maître du désert, **Crocodile** est l’un des 7 Corsaires, redoutable adversaire et source de puissantes récompenses.
+
+* 🎯 Drops :
+  * Berrys
+  * 🐾 **Familier Crocodile**
+  * 🏜️ **Essence des Sables**
+* 🔓 Conditions d’invocation :
+  * x6 **Cigares de Crocodile**
+  * x1 000 **Albâtres**
+  * x45 000 **Berrys**
+
+***
+
+#### 📦 Caisse Alabasta
+
+💰 Prix : **1 250 Albâtres**
+
+**Récompenses possibles :**
+
+* 🦴 Fruit des Os (niv 1)
+* ⚔️ Épée de Koza
+* ⚔️ Épée d’Alabasta
+* 🐾 Familier Vivi
+* 🐾 Familier Karoo
+* 🛡️ Fragment d’armure Baroque Works x2
+* 💰 Dial de Vente
+* 🪙 Berry d’Argent
+* 📈 Booster Métier (argent)
+
+***
+
+#### 📍 Autres infos
+
+* 🔁 **Ponéglyphe** disponible pour téléportation rapide
+* 🛒 **Magasin spécial** pour vendre ou échanger vos découvertes archéologiques
+* ♻️ **Recycleur** pour convertir les objets en Albâtres
 
 ## <mark style="color:orange;">Informations générales</mark>
 
