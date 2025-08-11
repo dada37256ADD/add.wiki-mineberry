@@ -68,7 +68,7 @@ Invoquez-le via sa statue dans la zone boss une fois les ressources réunies :
 
 ## <mark style="color:orange;">Caisse Ville Orange</mark>
 
-La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant au prix de <mark style="color:red;">**1'000 Nez de Clown**</mark>.
+La <mark style="color:yellow;">**Caisse Ville Orange**</mark> s'obtient en l'achetant au prix de <mark style="color:red;">**1'000 Nez de Clown**</mark>.
 
 |                             **Récompenses**                             | **Taux de Drop** |
 | :---------------------------------------------------------------------: | :--------------: |
