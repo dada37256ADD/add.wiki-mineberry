@@ -28,7 +28,7 @@ Les <mark style="color:yellow;">**bouteilles de saké**</mark>, en plus de perme
 
 Vous pourrez aussi récupérer des <mark style="color:yellow;">**fragments d’armure de bandit**</mark>, transformables en équipements via <mark style="color:yellow;">**`/armurerie`**</mark>.
 
-<table><thead><tr><th width="181.90625">Ennemis</th><th>Récompenses principales (quantité en fonction du niveau du joueur)</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Bandit de Fuchsia</strong></mark></td><td>Féraille, Berrys, Bouteille de Saké</td></tr><tr><td><mark style="color:yellow;"><strong>Johnny</strong></mark></td><td>Féraille, Berrys, Lunettes de Johnny</td></tr><tr><td><mark style="color:yellow;"><strong>Luffy</strong></mark></td><td>Féraille, Berrys, Familier Luffy, Essence du Gum-Gum</td></tr><tr><td><mark style="color:yellow;"><strong>Yosaku</strong></mark></td><td>Féraille, Berrys, Casque de Yosaku</td></tr></tbody></table>
+<table><thead><tr><th width="181.90625">Ennemis</th><th>Récompenses principales (quantité en fonction du niveau du joueur)</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Bandit de Fuchsia</strong></mark></td><td>Féraille, Berrys, Bouteille de Saké, fragments d’Armure de Bandit</td></tr><tr><td><mark style="color:yellow;"><strong>Johnny</strong></mark></td><td>Féraille, Berrys, Lunettes de Johnny, Essence du Bandit</td></tr><tr><td><mark style="color:yellow;"><strong>Luffy</strong></mark></td><td>Féraille, Berrys, Familier Luffy, Essence du Gum-Gum</td></tr><tr><td><mark style="color:yellow;"><strong>Yosaku</strong></mark></td><td>Féraille, Berrys, Casque de Yosaku, Essence du Bandit</td></tr></tbody></table>
 
 ## <mark style="color:orange;">Boss de l'île : Higuma</mark>
 
@@ -44,11 +44,12 @@ Vous pourrez aussi récupérer des <mark style="color:yellow;">**fragments d’a
 
 ### <mark style="color:orange;">Récompenses possibles</mark>
 
-| Récompenses                                            | Quantité                   |
-| ------------------------------------------------------ | -------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>          | Dépend du niveau du joueur |
-| <mark style="color:yellow;">**Prime**</mark>           | Prime de 100 💀            |
-| <mark style="color:yellow;">**Familier Higuma**</mark> | 10% de chance de l'obtenir |
+| Récompenses                                              | Quantité                   |
+| -------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Berrys**</mark>            | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Prime**</mark>             | Prime de 100 💀            |
+| <mark style="color:yellow;">**Familier Higuma**</mark>   | 10% de chance de l'obtenir |
+| <mark style="color:yellow;">**Bonbon à la Pomme**</mark> | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Caisse Fuchsia</mark>
 

@@ -38,9 +38,8 @@ Orange Town est envahie par les troupes de Baggy. En les affrontant, vous gagner
 * Des <mark style="color:yellow;">**Berrys**</mark>
 * Des <mark style="color:yellow;">**Nez de Clown**</mark> (monnaie locale)
 * Des <mark style="color:yellow;">**objets uniques**</mark> nécessaires pour améliorer vos armes via le <mark style="color:yellow;">**`/weapon`**</mark>
-* Et parfois des <mark style="color:yellow;">**fragments d’armure de clown**</mark>, à transformer en équipement via la commande <mark style="color:yellow;">**`/armurerie`**</mark>
 
-<table><thead><tr><th width="207.21484375">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Pirates de Baggy</strong></mark></td><td>Nez de Clown, Berrys, Balle de Baggy</td></tr><tr><td><mark style="color:yellow;"><strong>Cabaji</strong></mark></td><td>Nez de Clown, Berrys, Monocycle de Cabaji</td></tr><tr><td><mark style="color:yellow;"><strong>Morge &#x26; Richy</strong></mark></td><td>Nez de Clown, Berrys, Crinière de Richy</td></tr><tr><td><mark style="color:yellow;"><strong>Alvida</strong></mark></td><td>Nez de Clown, Berrys, Chapeau d’Alvida</td></tr></tbody></table>
+<table><thead><tr><th width="207.21484375">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Pirates de Baggy</strong></mark></td><td>Nez de Clown, Berrys, Balle de Baggy</td></tr><tr><td><mark style="color:yellow;"><strong>Cabaji</strong></mark></td><td>Nez de Clown, Berrys, Monocycle de Cabaji, Essence du Lion</td></tr><tr><td><mark style="color:yellow;"><strong>Morge &#x26; Richy</strong></mark></td><td>Nez de Clown, Berrys, Crinière de Richy, Essence du Lion</td></tr><tr><td><mark style="color:yellow;"><strong>Alvida</strong></mark></td><td>Nez de Clown, Berrys, Chapeau d’Alvida, Essence du Lion</td></tr></tbody></table>
 
 Les quantités de butin varient selon votre niveau. N’hésitez pas à traquer tous les ennemis pour récolter les composants nécessaires à l’invocation du boss ou à la fabrication d’équipement.
 
@@ -65,6 +64,7 @@ Invoquez-le via sa statue dans la zone boss une fois les ressources réunies :
 | <mark style="color:yellow;">**Berrys**</mark>                      | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Familier Baggy**</mark>              | 7.5% de chance             |
 | <mark style="color:yellow;">**Essence de la Fragmentation**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon à la Pomme**</mark>           | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Caisse Ville Orange</mark>
 

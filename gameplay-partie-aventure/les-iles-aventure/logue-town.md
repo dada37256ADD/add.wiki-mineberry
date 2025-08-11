@@ -4,50 +4,60 @@ description: La ville du départ... ou de la fin !
 
 # 🏙️ Logue Town
 
+## <mark style="color:orange;">Informations Générales</mark>
+
+Logue Town marque une étape clé de votre progression dans MinePiece. Située à la croisée des mers, cette ville est un repaire stratégique pour la Marine. Entre ses rues animées et ses zones d’ombre, chaque pas vous rapproche d’un affrontement avec Smoker, le redouté chef de la garnison locale.
+
+Sur cette île, vous trouverez :
+
+* Des <mark style="color:yellow;">**ennemis variés**</mark>, de simples soldats aux officiers les plus redoutés
+* La <mark style="color:yellow;">**monnaie locale**</mark> : la Fumée
+* Un <mark style="color:yellow;">**ponéglyphe**</mark> à débloquer pour accéder rapidement à l’île via /aventure
+* Une <mark style="color:yellow;">**caisse Logue Town**</mark> contenant des équipements et objets puissants
+
+Dans les rues de Logue Town, des <mark style="color:yellow;">**soldats de la marine**</mark> ainsi que <mark style="color:yellow;">**Tashigi**</mark> patrouillent sans relâche. Ils représentent un véritable défi pour les aventuriers, mais leurs récompenses en valent la peine.
+
 ## <mark style="color:orange;">Ennemis</mark>
 
-Dans les rues de Logue Town, des **soldats de la marine** ainsi que **Tashigi** patrouillent sans relâche. Ils représentent un véritable défi pour les aventuriers, mais leurs récompenses en valent la peine.
+Les ruelles de Logue Town sont surveillées par les soldats de la Marine et Tashigi. Chaque adversaire vaincu peut vous rapporter des Berrys, de la Fumée, et des objets uniques.&#x20;
 
-**Soldats de la Marine** :
+Les fragments d’armure de soldat de la marine peuvent être transformés en équipements via la commande <mark style="color:yellow;">**/armurerie**</mark>.
 
-Drop : Berrys, **Cigare de Smoker**
+<table><thead><tr><th width="204.5703125">Ennemi</th><th>Récompenses principales (quantité selon votre niveau)</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Soldat de la Marine</strong></mark></td><td>Berrys, Cigare de Smoker, Fumée, Fragment d’armure de soldat de la marine</td></tr><tr><td><mark style="color:yellow;"><strong>Tashigi</strong></mark></td><td>Berrys, Lunettes de Tashigi, Fumée, Essence de soldat</td></tr></tbody></table>
 
-Les ressources varient selon votre niveau.
+## <mark style="color:orange;">Boss de l'île : Smoker</mark>
 
-**Tashigi** :
+Chef de la Marine de Logue Town, Smoker est un adversaire redoutable qui ne tolère aucune intrusion sur son territoire. Vous pouvez l’invoquer à sa statue dans la zone dédiée.
 
-Drop : Berrys, **Lunettes de Tashigi**
+### <mark style="color:orange;">Conditions d'invocation</mark>
 
-***
+| Ressource requise                                       | Quantité |
+| ------------------------------------------------------- | -------- |
+| <mark style="color:yellow;">**Cigare de Smoker**</mark> | x3       |
+| <mark style="color:yellow;">**Fumée**</mark>            | x500     |
+| <mark style="color:yellow;">**Berrys**</mark>           | 25 000   |
 
-#### 💀 Boss : **Smoker**
+### <mark style="color:orange;">Récompenses possibles</mark>
 
-Le **Chef de la Marine** de Logue Town, Smoker, veille sur la ville avec poigne. Il est l’un des premiers véritables défis pour les joueurs ambitieux.
+| Récompense                                                 | Détail / Effet                         |
+| ---------------------------------------------------------- | -------------------------------------- |
+| <mark style="color:yellow;">**Berrys**</mark>              | Dépend du niveau du joueur             |
+| <mark style="color:yellow;">**Essence du Fumigène**</mark> | Utilisable pour le fruit correspondant |
+| <mark style="color:yellow;">**Familier Smoker**</mark>     | 10% de chance d’obtenir                |
+| <mark style="color:yellow;">**Bonbon à la Pomme**</mark>   | Dépend du niveau du joueur             |
 
-* 🎯 Drops :
-  * Berrys
-  * 🧬 **Essence du Fumigène**
-  * 🐾 **Familier Smoker**
-* 🔓 Conditions d’invocation :
-  * x3 **Cigares de Smoker**
-  * x500 **Fumée**
-  * x25 000 **Berrys**
+## <mark style="color:orange;">Caisse Logue Town</mark>&#x20;
 
-***
+La <mark style="color:yellow;">**Caisse Logue Town**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.000 Fumée**</mark>.
 
-#### 📦 Caisse Logue Town
-
-Disponible via les ressources de l’île ou en boutique, cette caisse contient des objets puissants liés à l’univers de la marine.
-
-**Récompenses possibles :**
-
-* 🌪️ Fruit du Soldat (niv 1)
-* ⚔️ **Shigure de Tashigi**
-* ⚔️ **Sabre de la Marine**
-* 🐾 **Familier Tashigi**
-* 👮‍♂️ **Soldat de la Marine**
-* 🛡️ **Fragment d’armure de soldat de la marine**
-* 💰 Dial de Vente
-* 🪙 Berry d’Argent
-* 📜 Parchemin aléatoire
-
+|                                      Récompenses                                     | Taux de Drop |
+| :----------------------------------------------------------------------------------: | :----------: |
+|           <mark style="color:blue;">**Fruit du Soldat**</mark> _(Niveau 1)_          |    **4%**    |
+|                <mark style="color:blue;">**Shigure de Tashigi**</mark>               |    **7%**    |
+|               <mark style="color:green;">**Sabre de la Marine**</mark>               |    **13%**   |
+|                 <mark style="color:blue;">**Familier Tashigi**</mark>                |    **2%**    |
+|          <mark style="color:green;">**Familier soldat de la Marine**</mark>          |    **5%**    |
+| <mark style="color:blue;">**Fragment d'Armure du Soldat de la Marine**</mark> _(x2)_ |    **13%**   |
+|                  <mark style="color:blue;">**Dial de vente**</mark>                  |    **20%**   |
+|                 <mark style="color:yellow;">**Berry d'argent**</mark>                |    **28%**   |
+|               <mark style="color:green;">**Parchemin aléatoire**</mark>              |    **9%**    |
