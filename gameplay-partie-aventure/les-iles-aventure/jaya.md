@@ -4,7 +4,7 @@ description: >-
   éclairs dans une tempête en mer…
 ---
 
-# Jaya
+# 🌱 Jaya
 
 ## <mark style="color:orange;">Informations générales</mark>
 
@@ -30,20 +30,20 @@ Surnommé _la Hyène_, Bellamy est un combattant explosif et imprévisible. Maî
 
 ### <mark style="color:orange;">Conditions d’invocation</mark>
 
-| Ressource requise | Quantité |
-| ----------------- | -------- |
-| Ressort           | x7       |
-| Becs              | 1 250    |
-| Berrys            | 55 000   |
+| Ressource requise                              | Quantité |
+| ---------------------------------------------- | -------- |
+| <mark style="color:yellow;">**Ressort**</mark> | x7       |
+| <mark style="color:yellow;">**Becs**</mark>    | 1 250    |
+| <mark style="color:yellow;">**Berrys**</mark>  | 55 000   |
 
 ### <mark style="color:orange;">Récompenses possibles</mark>
 
-| Récompense            | Détail / Effet                         |
-| --------------------- | -------------------------------------- |
-| Berrys                | Dépend du niveau du joueur             |
-| Familier Bellamy      | 10% de chance de l’obtenir             |
-| Essence du Ressort    | Utilisable pour le fruit correspondant |
-| Bonbon à la Myrtille  | Dépend du niveau du joueur             |
+| Récompense                                                   | Détail / Effet                         |
+| ------------------------------------------------------------ | -------------------------------------- |
+| <mark style="color:yellow;">**Berrys**</mark>                | Dépend du niveau du joueur             |
+| <mark style="color:yellow;">**Familier Bellamy**</mark>      | 10% de chance de l’obtenir             |
+| <mark style="color:yellow;">**Essence du Ressort**</mark>    | Utilisable pour le fruit correspondant |
+| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark>  | Dépend du niveau du joueur             |
 
 ## <mark style="color:orange;">Caisse Jaya</mark>
 
