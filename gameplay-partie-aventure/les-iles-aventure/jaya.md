@@ -1,45 +1,62 @@
+---
+description: >-
+  L’île de toutes les tensions, où les affrontements éclatent aussi vite que les
+  éclairs dans une tempête en mer…
+---
+
 # Jaya
 
-### 🏴‍☠️ Île Aventure : Jaya
+## <mark style="color:orange;">Informations générales</mark>
 
-#### Informations générales
+Située au cœur des routes maritimes, cette île est un véritable champ de bataille, réputée pour ses duels violents et ses récompenses alléchantes.
 
-L'île Aventure de Jaya devient accessible à partir d’un certain rang, marquant une étape clé dans votre progression de pirate. Pour vous y rendre, prenez la barre de votre navire et mettez le cap vers cette île agitée, connue pour ses combats intenses et ses butins explosifs.\
-En explorant Jaya, vous affronterez les troupes de Bellamy, récoltant **des Becs**, la monnaie locale, en fonction de votre niveau.\
-Ces Becs vous permettront d’ouvrir la **Caisse Jaya**, débloquant ainsi des récompenses utiles pour faire évoluer votre personnage. Comme toujours, la caisse est également disponible à l’achat en Gemmes.
+En débarquant ici, vous trouverez :
 
-***
+* Des combats contre les <mark style="color:yellow;">**troupes de Bellamy**</mark>, l’un des capitaines les plus redoutés de la mer
+* Une monnaie locale : <mark style="color:yellow;">**les Becs**</mark>, obtenus en fonction de votre niveau sur la plupart des ennemis
+* Une <mark style="color:yellow;">**Caisse Jaya**</mark> à débloquer grâce aux Becs, contenant des objets rares et exclusifs
+* Un boss rapide et imprévisible : <mark style="color:yellow;">**Bellamy la Hyène**</mark>
+* Un <mark style="color:yellow;">**Ponéglyphe**</mark> permettant de débloquer la téléportation rapide via **/aventure**
 
-#### Ennemis
+## <mark style="color:orange;">Ennemis</mark>
 
-L’île de Jaya est sous le contrôle de **Bellamy** et de ses hommes. Vous croiserez sur votre route :
+Jaya est dominée par Bellamy et ses hommes. En affrontant ces adversaires, vous obtiendrez de l’expérience, des Berrys et des ressources uniques à l’île.
 
-* **Les Soldats de Bellamy**, simples exécutants,
-* **Sarquiss**, bras droit de Bellamy, en mini boss.
+<table><thead><tr><th width="194.0234375">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Soldats de Bellamy</strong></mark></td><td>Berrys, Ressort, Becs</td></tr><tr><td><mark style="color:yellow;"><strong>Sarquiss</strong></mark></td><td>Berrys, Lunettes de Sarquiss, Essence de Plantes Carnivores, Becs</td></tr></tbody></table>
 
-Affrontez ces ennemis pour obtenir de l’expérience, des **Berrys**, des **ressorts**, et bien sûr, des **Becs**, en fonction de votre niveau.
+## <mark style="color:orange;">Boss de l’île : Bellamy</mark>
 
-> 📌 **Seul le boss final, Bellamy, ne droppe pas de Becs.**
+Surnommé _la Hyène_, Bellamy est un combattant explosif et imprévisible. Maître de l’effet ressort, il frappe vite et fort, ne laissant aucune chance à ceux qui sous-estiment sa vitesse.
 
-🦹‍♂️ **Butins obtenables sur les ennemis de Jaya :**
+### <mark style="color:orange;">Conditions d’invocation</mark>
 
-* **Soldats de Bellamy** : Berrys, Ressort
-* **Sarquiss** : Berrys, Lunettes de Sarquiss
+| Ressource requise | Quantité |
+| ----------------- | -------- |
+| Ressort           | x7       |
+| Becs              | 1 250    |
+| Berrys            | 55 000   |
 
-***
+### <mark style="color:orange;">Récompenses possibles</mark>
 
-#### Boss : Bellamy
+| Récompense            | Détail / Effet                         |
+| --------------------- | -------------------------------------- |
+| Berrys                | Dépend du niveau du joueur             |
+| Familier Bellamy      | 10% de chance de l’obtenir             |
+| Essence du Ressort    | Utilisable pour le fruit correspondant |
+| Bonbon à la Myrtille  | Dépend du niveau du joueur             |
 
-Bellamy, le redouté “Hyène”, règne sur Jaya d’une poigne explosive. Ce boss rapide et imprévisible est prêt à vous faire rebondir dans tous les sens si vous n’êtes pas préparé.
+## <mark style="color:orange;">Caisse Jaya</mark>
 
-💥 **Ressources obtenables sur Bellamy** :
+La <mark style="color:yellow;">**Caisse Jaya**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Becs**</mark>.
 
-* Berrys
-* Familier **Bellamy**
-* Essence du **Ressort**
-
-🪙 **Conditions d’invocation de Bellamy** :
-
-* **7 Ressorts**
-* **1 250 Becs**
-* **55 000 Berrys**
+|                                   Récompenses                                   | Taux de Drop |
+| :-----------------------------------------------------------------------------: | :----------: |
+| <mark style="color:green;">**Fruit de la Plante Carnivore**</mark> _(Niveau 1)_ |    **4%**    |
+|               <mark style="color:green;">**Épée de Masira**</mark>              |    **7%**    |
+|         <mark style="color:blue;">**Houe de Mont Blanc Cricket**</mark>         |    **13%**   |
+|         <mark style="color:blue;">**Familier Mont Blanc Norland**</mark>        |    **2%**    |
+|             <mark style="color:green;">**Familier Sarquiss**</mark>             |    **5%**    |
+|     <mark style="color:blue;">**Fragment d'Armure de Pirate**</mark> _(x2)_     |    **15%**   |
+|               <mark style="color:green;">**Dial de vente**</mark>               |    **17%**   |
+|              <mark style="color:yellow;">**Berry de Bronze**</mark>             |    **28%**   |
+|            <mark style="color:green;">**Parchemin aléatoire**</mark>            |    **9%**    |
