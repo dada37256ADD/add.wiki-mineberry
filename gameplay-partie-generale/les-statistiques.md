@@ -4,23 +4,29 @@ description: Retrouvez ici toutes les informations concernant les statistiques
 
 # 📉 Les Statistiques
 
-Le serveur <mark style="color:yellow;">**MineBerry**</mark> propose un système de <mark style="color:yellow;">**statistiques**</mark> visant à améliorer votre <mark style="color:yellow;">**aventure**</mark>.
+Le serveur <mark style="color:yellow;">**MinePiece**</mark> propose un système de <mark style="color:yellow;">**statistiques**</mark> visant à améliorer votre <mark style="color:yellow;">**aventure**</mark>.
 
-## <mark style="color:orange;">Liste des Statistiques</mark>
+<table data-header-hidden><thead><tr><th width="130.7890625">Statistique</th><th>Description</th><th>Formule / Effet</th></tr></thead><tbody><tr><td><strong>Vie</strong></td><td>Points de vie totaux.</td><td>–</td></tr><tr><td><strong>Régénération</strong></td><td>Vitesse de récupération des PV.</td><td><code>((Vie × 0,01) + 1) × (1 + (Régénération Énergie ÷ 100))</code></td></tr><tr><td><strong>Force</strong></td><td>Augmente les dégâts physiques.</td><td>Multiplicateur : <code>1 + (Force ÷ 200)</code></td></tr><tr><td><strong>Dégâts</strong></td><td>Valeur brute des attaques physiques.</td><td>–</td></tr><tr><td><strong>Chance critique</strong></td><td>Probabilité de coup critique.</td><td>%</td></tr><tr><td><strong>Dégâts critiques</strong></td><td>Bonus appliqué lors d’un coup critique.</td><td>Valeur fixe</td></tr><tr><td><strong>Puissance</strong></td><td>Augmente les dégâts des compétences (fruits, attaques spéciales).</td><td>Multiplicateur : <code>1 + (Puissance ÷ 200)</code></td></tr><tr><td><strong>Énergie</strong></td><td>Points d’énergie pour les compétences.</td><td>–</td></tr><tr><td><strong>Régénération Énergie</strong></td><td>Vitesse de récupération d’énergie.</td><td><code>((Énergie × 0,01) + 1) × (1 + (Régénération Énergie ÷ 100))</code></td></tr><tr><td><strong>Vitesse</strong></td><td>Rapidité de déplacement.</td><td><code>0,1 + (Vitesse × 0,001)</code></td></tr><tr><td><strong>Dextérité</strong></td><td>Agilité et précision.</td><td><code>Dextérité × 0,05</code></td></tr><tr><td><strong>Défense</strong></td><td>Réduction des dégâts subis.</td><td><code>Défense ÷ (Défense + 300)</code></td></tr><tr><td><strong>Productivité</strong></td><td>Efficacité de minage (Minecraft).</td><td>–</td></tr><tr><td><strong>Fortune</strong></td><td>Chance supplémentaire au minage (Minecraft).</td><td>–</td></tr></tbody></table>
 
-<mark style="color:purple;">❣</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Régénération**</mark>**&#x20;:** Améliore la <mark style="color:yellow;">**vitesse de régénération**</mark> de votre santé.
+## <mark style="color:orange;">Formules de Combat</mark>&#x20;
 
-🔥<mark style="color:orange;">**Puissance**</mark>**&#x20;:** Augmente la <mark style="color:yellow;">**puissance**</mark> disponible pour effectuer vos <mark style="color:yellow;">**attaques**</mark>.
+<mark style="color:yellow;">**Dégâts physiques infligés**</mark> :
 
-<mark style="color:purple;">₪</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Résistance**</mark>**&#x20;:** Diminue les <mark style="color:yellow;">**dégâts subis**</mark> des attaques ennemies.
+```
+Dégâts × Multiplicateur Force + Dégâts Critiques (si critique)
+```
 
-🗡 <mark style="color:red;">**Force**</mark>**&#x20;:** Augmente votre <mark style="color:yellow;">**force physique**</mark>.
+<mark style="color:yellow;">**Dégâts infligés par un fruit**</mark> :
 
-[<mark style="color:red;">❤</mark>](https://emojipedia.org/fr/c%C5%93ur-rouge) <mark style="color:red;">**Vie**</mark>**&#x20;:** Augmente le <mark style="color:yellow;">**nombre total**</mark> de <mark style="color:yellow;">**points de vie**</mark>.
+```
+Dégâts compétence × Multiplicateur Puissance
+```
 
-[☠️](https://emojiterra.com/fr/tete-de-mort/) <mark style="color:orange;">**Dégâts critiques**</mark>**&#x20;:** Augmente la <mark style="color:yellow;">**probabilité**</mark> d'infliger des <mark style="color:yellow;">**coups critiques**</mark>.
+<mark style="color:yellow;">**Dégâts subis**</mark> :
 
-🛡️<mark style="color:blue;">**Défense**</mark>**&#x20;:** Améliore la <mark style="color:yellow;">**capacité**</mark> de vos armures à <mark style="color:yellow;">**résister aux attaques ennemies**</mark>.
+```
+Dégâts reçus − (Dégâts reçus × Défense)
+```
 
 ## <mark style="color:orange;">Acquisition des Statistiques Permanentes</mark>
 
