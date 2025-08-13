@@ -47,7 +47,7 @@
   * [🏙️ Logue Town](gameplay-partie-aventure/les-iles-aventure/logue-town.md)
   * [🏜️ Alabasta](gameplay-partie-aventure/les-iles-aventure/alabasta.md)
   * [👹 Thriller Bark](gameplay-partie-aventure/les-iles-aventure/thriller-bark.md)
-  * [Amazon Lily](gameplay-partie-aventure/les-iles-aventure/amazon-lily.md)
+  * [♀️ Amazon Lily](gameplay-partie-aventure/les-iles-aventure/amazon-lily.md)
   * [❄️ Royaume de Drum](gameplay-partie-aventure/les-iles-aventure/royaume-de-drum.md)
   * [🌱 Jaya](gameplay-partie-aventure/les-iles-aventure/jaya.md)
   * [☁️ Skypiea](gameplay-partie-aventure/les-iles-aventure/skypiea.md)
