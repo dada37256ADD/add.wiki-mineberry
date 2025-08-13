@@ -38,7 +38,6 @@
 
 ## 🔮 Gameplay - Partie aventure
 
-* [🔗 Les Factions](gameplay-partie-aventure/les-factions.md)
 * [🚢 Les Bateaux](gameplay-partie-aventure/les-bateaux.md)
 * [🏝️ Les Îles Aventure](gameplay-partie-aventure/les-iles-aventure/README.md)
   * [🌺 Fuchsia](gameplay-partie-aventure/les-iles-aventure/fuchsia.md)
@@ -46,15 +45,13 @@
   * [🎣 Baratie](gameplay-partie-aventure/les-iles-aventure/baratie.md)
   * [🏝️ Arlong Park](gameplay-partie-aventure/les-iles-aventure/arlong-park.md)
   * [🏙️ Logue Town](gameplay-partie-aventure/les-iles-aventure/logue-town.md)
+  * [❄️ Royaume de Drum](gameplay-partie-aventure/les-iles-aventure/royaume-de-drum.md)
   * [🏜️ Alabasta](gameplay-partie-aventure/les-iles-aventure/alabasta.md)
+  * [🌱 Jaya](gameplay-partie-aventure/les-iles-aventure/jaya.md)
+  * [🌊 Water Seven](gameplay-partie-aventure/les-iles-aventure/water-seven.md)
+  * [☁️ Skypiea](gameplay-partie-aventure/les-iles-aventure/skypiea.md)
+  * [⚖️ Enies Lobby](gameplay-partie-aventure/les-iles-aventure/enies-lobby.md)
   * [👹 Thriller Bark](gameplay-partie-aventure/les-iles-aventure/thriller-bark.md)
   * [♀️ Amazon Lily](gameplay-partie-aventure/les-iles-aventure/amazon-lily.md)
-  * [❄️ Royaume de Drum](gameplay-partie-aventure/les-iles-aventure/royaume-de-drum.md)
-  * [🌱 Jaya](gameplay-partie-aventure/les-iles-aventure/jaya.md)
-  * [☁️ Skypiea](gameplay-partie-aventure/les-iles-aventure/skypiea.md)
-  * [🌊 Water Seven](gameplay-partie-aventure/les-iles-aventure/water-seven.md)
-  * [⚖️ Enies Lobby](gameplay-partie-aventure/les-iles-aventure/enies-lobby.md)
   * [🌳 Sabaody](gameplay-partie-aventure/les-iles-aventure/sabaody.md)
-  * [💀 Marine Ford](gameplay-partie-aventure/les-iles-aventure/marine-ford.md)
   * [⛓️ Impel Down](gameplay-partie-aventure/les-iles-aventure/impel-down.md)
-* [⚔️ Les Amiraux](gameplay-partie-aventure/les-amiraux.md)

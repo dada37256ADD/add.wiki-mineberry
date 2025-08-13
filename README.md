@@ -42,7 +42,7 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
 
 ## [<mark style="color:orange;">GamePlay - Partie Aventure</mark>](./#gameplay-partie-aventure)
 
-* [<mark style="color:orange;">**Les Factions**</mark>](gameplay-partie-aventure/les-factions.md)
+* [<mark style="color:orange;">**Les Factions**</mark>](broken-reference)
 * [<mark style="color:orange;">**Les Îles Aventure**</mark>](gameplay-partie-aventure/les-iles-aventure/)
   * [**Fuchsia**](gameplay-partie-aventure/les-iles-aventure/fuchsia.md)
   * [**Orange Town**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.be7xsyy8ru58)
@@ -63,4 +63,4 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
   * [**Zou**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.frcmezvsafqy)
   * [**Whole Cake Island**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.4hsb86a2my01)
   * [**Wano**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.xdcgzsbu4z2t)
-* [<mark style="color:orange;">**Les Amiraux**</mark>](gameplay-partie-aventure/les-amiraux.md)
+* [<mark style="color:orange;">**Les Amiraux**</mark>](broken-reference)
