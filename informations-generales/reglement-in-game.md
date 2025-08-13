@@ -244,7 +244,7 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
 * Le screen doit être complet, date, heure, contexte, etc...
 * Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
 
-
+***
 
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
 
