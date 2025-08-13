@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant l'Île Aventure Water Seven
+description: La cité des charpentiers, où l’acier et le bois façonnent l’avenir des mers…
 ---
 
 # 🌊 Water Seven
@@ -8,90 +8,53 @@ description: Retrouvez ici toutes les informations concernant l'Île Aventure Wa
 
 ## <mark style="color:orange;">Informations générales</mark>
 
-L'<mark style="color:yellow;">**île Aventure Water Seven**</mark> devient accessible au rang de "<mark style="color:yellow;">**SuperNova**</mark>". Pour vous y rendre, prenez la barre de votre <mark style="color:yellow;">**navire**</mark> depuis toute autre <mark style="color:yellow;">**île aventure**</mark> et partez à la recherche de nouveaux défis dignes d'un véritable <mark style="color:yellow;">**pirate**</mark>.
+<mark style="color:yellow;">**Water Seven**</mark> est un port industriel unique, réputé pour ses artisans de génie et ses canaux labyrinthiques. Sur cette île, vous croiserez des charpentiers redoutables, membres du <mark style="color:yellow;">**Franky Family**</mark>, prêts à défendre leur territoire avec la même hargne qu’ils mettent dans leurs créations.
 
-En explorant cette <mark style="color:yellow;">**île marine**</mark>, vous ferez face aux <mark style="color:yellow;">**sbires de Lucci**</mark>, récompensant vos exploits en <mark style="color:yellow;">**Bois d'Adam**</mark>, la <mark style="color:yellow;">**monnaie**</mark> locale.&#x20;
+Vous y trouverez :
 
-Ce <mark style="color:yellow;">**Bois d'Adam**</mark> vous permettra d'<mark style="color:yellow;">**ouvrir la caisse présente sur l'île**</mark>, débloquant ainsi des <mark style="color:yellow;">**récompenses**</mark> essentielles pour votre <mark style="color:yellow;">**progression**</mark>. La caisse est également disponible à l'achat avec des <mark style="color:green;">**gemmes**</mark>.
+* <mark style="color:yellow;">**Le Bois d’Adam**</mark>, monnaie locale indispensable pour invoquer le boss de l’île et acheter la <mark style="color:yellow;">**Caisse Water Seven**</mark>
+* <mark style="color:yellow;">**Des Essences du Charpentier**</mark>, permettant de débloquer ou améliorer le Fruit du Charpentier
+* Une <mark style="color:yellow;">**Caisse Water Seven**</mark>&#x20;
+* Un <mark style="color:yellow;">**Ponéglyphe**</mark> pour débloquer la téléportation rapide via <mark style="color:yellow;">**`/aventure`**</mark>
 
 ## <mark style="color:orange;">Ennemis</mark>
 
-<mark style="color:yellow;">**Water Seven**</mark> est peuplée de divers ennemis, des <mark style="color:yellow;">**agents CP9**</mark> à <mark style="color:yellow;">**Kaku**</mark>, suivi du redouté <mark style="color:yellow;">**Lucci**</mark>.
+Chaque recoin de Water Seven est protégé par les membres du Franky Family et leurs alliés. Affrontez-les pour accumuler **Berrys**, **Bois d’Adam** et objets uniques, en fonction de votre niveau.
 
-Combattez ces <mark style="color:yellow;">**sbires**</mark> pour accumuler de l'<mark style="color:yellow;">**expérience de métier**</mark> et du <mark style="color:yellow;">**Bois d'Adam**</mark> nécessaires à votre <mark style="color:yellow;">**progression**</mark>, tout en collectant des <mark style="color:yellow;">**masques de CP9**</mark>, objets cruciaux pour les <mark style="color:yellow;">**quêtes**</mark> ainsi que des <mark style="color:yellow;">**fragments d'armures d'Amiral**</mark>.&#x20;
+<table><thead><tr><th width="210.91015625">Ennemi</th><th>Récompenses principales</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Désosseur de Franky</strong></mark></td><td>Berrys, Ferraille, Bois d’Adam</td></tr><tr><td><mark style="color:yellow;"><strong>Pauly</strong></mark></td><td>Berrys, Corde de Pauly, Essence du Charpentier, Bois d’Adam</td></tr><tr><td><mark style="color:yellow;"><strong>Kairiki Destroyers</strong></mark></td><td>Berrys, Épaulière des Kairiki Destroyers, Essence du Charpentier, Bois d’Adam</td></tr></tbody></table>
 
-Ces <mark style="color:yellow;">**fragments**</mark> peuvent être façonnés en <mark style="color:yellow;">**armures**</mark> améliorant vos <mark style="color:yellow;">**statistiques**</mark> via la commande <mark style="color:yellow;">**`/marchand`**</mark>.&#x20;
+## <mark style="color:orange;">Boss de l’île : Franky</mark>
 
-Le redoutable <mark style="color:yellow;">**Lucci**</mark>, accompagné de <mark style="color:yellow;">**Kaku**</mark>, règne en tant que <mark style="color:yellow;">**boss**</mark> suprême de cette <mark style="color:yellow;">**île aventure**</mark>.
+Maître charpentier et chef du Franky Family, <mark style="color:yellow;">**Franky**</mark> mélange savoir-faire technique et puissance brute. Ses attaques mécaniques peuvent mettre à mal même les plus aguerris.
 
-Dans la <mark style="color:yellow;">**zone aventure**</mark>, la <mark style="color:yellow;">**statue**</mark> de <mark style="color:yellow;">**Lucci**</mark> attend. En échange de <mark style="color:yellow;">**masques de CP9**</mark>, de <mark style="color:yellow;">**Bois d'Adam**</mark>, et d'<mark style="color:yellow;">**argent**</mark>, invoquez le <mark style="color:yellow;">**boss**</mark> pour un combat épique et récoltez les <mark style="color:yellow;">**récompenses**</mark> qui en découlent.
+### <mark style="color:orange;">C</mark><mark style="color:orange;">**onditions d’invocation**</mark>
 
-{% hint style="success" %}
-Profitez de cette île pour renforcer votre personnage et progresser dans votre quête vers le statut de Roi des Pirates !
-{% endhint %}
+| Ressource requise                                  | Quantité |
+| -------------------------------------------------- | -------- |
+| <mark style="color:yellow;">**Ferraille**</mark>   | x8       |
+| <mark style="color:yellow;">**Bois d’Adam**</mark> | 1 500    |
+| <mark style="color:yellow;">**Berrys**</mark>      | 65 000   |
 
-### <mark style="color:orange;">Taux de Drops</mark>
+### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-**Bois d'Adam :** \
-&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+6'500**</mark>\
-&#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Kaku**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+1'150**</mark>\
-&#x20;                         Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Agent CP9**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+20**</mark>\
-&#x20;                                     Chance -> <mark style="color:yellow;">**100%**</mark>
-
-**Masque de CP9** **:** \
-&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x4**</mark>\
-&#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Kaku**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
-&#x20;                         Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **-** <mark style="color:yellow;">**Agent CP9**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
-&#x20;                                     Chance -> <mark style="color:yellow;">**2%**</mark>
-
-**Prime** **:** \
-&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**+10'500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
-&#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>
-
-**Berry d'Or** **:** \
-&#x20;         **-** <mark style="color:yellow;">**Lucci**</mark>**&#x20;:** Quantité -> <mark style="color:yellow;">**x1**</mark>\
-&#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>
+| Récompense                                                  | Détail / Effet             |
+| ----------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Berrys**</mark>               | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Familier Franky**</mark>      | 10% de chance de l’obtenir |
+| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Caisse Water Seven</mark>
 
-La <mark style="color:yellow;">**Caisse Water Seven**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**3'500 Bois d'Adam**</mark>.
+La <mark style="color:yellow;">**Caisse Water Seven**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Féraille**</mark>.
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption><p>Aperçu de la Caisse Water Seven</p></figcaption></figure>
-
-|                        **Récompenses**                       | **Taux de Drop** |
-| :----------------------------------------------------------: | :--------------: |
-| <mark style="color:blue;">**1x Dials de Vente (1.4)**</mark> |      **31%**     |
-|       <mark style="color:green;">**Pet Franky**</mark>       |      **28%**     |
-|     <mark style="color:blue;">**Hache de Cogneur**</mark>    |      **8%**      |
-|         <mark style="color:blue;">**Durandal**</mark>        |      **6%**      |
-|         <mark style="color:blue;">**Khakkara**</mark>        |      **4%**      |
-|    <mark style="color:yellow;">**Booster Métiers**</mark>    |      **14%**     |
-|               **x2 Fragment d'armure d'Amiral**              |      **2%**      |
-|     <mark style="color:yellow;">**Pet Rob Lucci**</mark>     |      **6%**      |
-|     <mark style="color:yellow;">**Fruit du Givre**</mark>    |      **1%**      |
-
-## <mark style="color:orange;">Caisse Premium Water Seven</mark>
-
-La <mark style="color:yellow;">**Caisse Premium Water Seven**</mark> s'obtient en l'achetant au prix de <mark style="color:green;">**290 Gemmes**</mark>.
-
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Aperçu de la Caisse Premium Water Seven</p></figcaption></figure>
-
-|                         **Récompenses**                        | **Taux de Drop** |
-| :------------------------------------------------------------: | :--------------: |
-| <mark style="color:purple;">**1x Dials de Vente (1.6)**</mark> |      **28%**     |
-|       <mark style="color:yellow;">**Pet Hatorri**</mark>       |      **24%**     |
-|        <mark style="color:blue;">**Hache de Tom**</mark>       |      **6%**      |
-|         <mark style="color:blue;">**FunkFreed**</mark>         |      **4%**      |
-|    <mark style="color:blue;">**Climat tact Perfect**</mark>    |      **4%**      |
-|     <mark style="color:yellow;">**Booster Métiers**</mark>     |      **12%**     |
-|                **x4 Fragment d'armure d'Amiral**               |      **3%**      |
-|         <mark style="color:blue;">**Pet Aokiji**</mark>        |      **6%**      |
-|       <mark style="color:blue;">**Fruit du Félin**</mark>      |      **2%**      |
-
-{% hint style="warning" %}
-L'ouverture simultanée de trois coffres est réservée aux détenteurs de l'abonnement premium.
-{% endhint %}
+|                                    Récompenses                                     | Taux de Drop |
+| :--------------------------------------------------------------------------------: | :----------: |
+|       <mark style="color:green;">**Fruit du Charpentier**</mark> _(Niveau 1)_      |    **4%**    |
+|               <mark style="color:green;">**Sabre de Shoruzô**</mark>               |    **7%**    |
+|             <mark style="color:blue;">**Canne à pêche de Pauly**</mark>            |    **13%**   |
+|                 <mark style="color:blue;">**Familier Mozu**</mark>                 |    **2%**    |
+|               <mark style="color:green;">**Familier Icebarg**</mark>               |    **5%**    |
+| <mark style="color:blue;">**Fragment d'Armure de Galley-La Company**</mark> _(x2)_ |    **15%**   |
+|                 <mark style="color:green;">**Dial de vente**</mark>                |    **17%**   |
+|               <mark style="color:yellow;">**Berry de Bronze**</mark>               |    **28%**   |
+|          <mark style="color:blue;">**Booster d'expérience métier**</mark>          |    **9%**    |

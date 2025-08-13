@@ -49,7 +49,6 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
   * [**Baratie**](gameplay-partie-aventure/les-iles-aventure/baratie.md)
   * [**Arlong Park**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.pw0u0rno62yu)
   * [**Logue Town**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.3b05uqke2wpv)
-  * [**Reverse Mountain**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.u2cz5lrioicx)
   * [**Alabasta**](gameplay-partie-aventure/les-iles-aventure/alabasta.md)
   * [**Thriller Bark**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.tcg8r7f2xc2v)
   * [**Amazon Lily**](https://docs.google.com/document/d/1R5EMXXy9YEiDu57RDetyVGLrldtaFgSjeWu_4j2jHLQ/edit?tab=t.0#heading=h.qo760m49eqn7)
