@@ -32,6 +32,7 @@
   * [👿 Les Évolutions](gameplay-partie-generale/les-fruits-du-demon/les-evolutions.md)
 * [🥚 Les Pets](gameplay-partie-generale/les-pets.md)
 * [📉 Les Statistiques](gameplay-partie-generale/les-statistiques.md)
+* [⚔️ Système d’Armes Évolutives](gameplay-partie-generale/systeme-darmes-evolutives.md)
 * [🎣 La Pêche](gameplay-partie-generale/la-peche.md)
 * [💰 Les Shops](gameplay-partie-generale/les-shops.md)
 
