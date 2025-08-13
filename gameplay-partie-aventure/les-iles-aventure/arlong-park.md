@@ -58,7 +58,6 @@ Les <mark style="color:yellow;">**hommes-poissons**</mark> ont envahi cette zone
 
 | Récompenses                                              | Détail / Effet             |
 | -------------------------------------------------------- | -------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>            | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Familier Arlong**</mark>   | 10% de chance              |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark> | Dépend du niveau du joueur |
 

@@ -51,6 +51,7 @@
   * [🌊 Water Seven](gameplay-partie-aventure/les-iles-aventure/water-seven.md)
   * [👹 Thriller Bark](gameplay-partie-aventure/les-iles-aventure/thriller-bark.md)
   * [🌳 Sabaody](gameplay-partie-aventure/les-iles-aventure/sabaody.md)
+  * [⚖️ Enies Lobby](gameplay-partie-aventure/les-iles-aventure/enies-lobby.md)
   * [💀 Marine Ford](gameplay-partie-aventure/les-iles-aventure/marine-ford.md)
   * [⛓️ Impel Down](gameplay-partie-aventure/les-iles-aventure/impel-down.md)
 * [⚔️ Les Amiraux](gameplay-partie-aventure/les-amiraux.md)

@@ -76,7 +76,6 @@ Chef du Baroque Works et maître du désert, Crocodile est l’un des 7 Corsaire
 
 | Récompense                                                  | Détail / Effet                         |
 | ----------------------------------------------------------- | -------------------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>               | Dépend du niveau du joueur             |
 | <mark style="color:yellow;">**Familier Crocodile**</mark>   | 10% de chance d’obtenir                |
 | <mark style="color:yellow;">**Essence des Sables**</mark>   | Utilisable pour le fruit correspondant |
 | <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur             |

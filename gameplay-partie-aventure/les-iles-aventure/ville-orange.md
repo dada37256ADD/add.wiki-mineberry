@@ -61,7 +61,6 @@ Invoquez-le via sa statue dans la zone boss une fois les ressources réunies :
 
 | Récompenses                                                        | Quantité                   |
 | ------------------------------------------------------------------ | -------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>                      | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Familier Baggy**</mark>              | 7.5% de chance             |
 | <mark style="color:yellow;">**Essence de la Fragmentation**</mark> | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark>           | Dépend du niveau du joueur |

@@ -46,7 +46,6 @@ Vous pourrez aussi récupérer des <mark style="color:yellow;">**fragments d’a
 
 | Récompenses                                              | Quantité                   |
 | -------------------------------------------------------- | -------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>            | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Prime**</mark>             | Prime de 100 💀            |
 | <mark style="color:yellow;">**Familier Higuma**</mark>   | 10% de chance de l'obtenir |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark> | Dépend du niveau du joueur |

@@ -40,7 +40,6 @@ Surnommé _la Hyène_, Bellamy est un combattant explosif et imprévisible. Maî
 
 | Récompense                                                   | Détail / Effet                         |
 | ------------------------------------------------------------ | -------------------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>                | Dépend du niveau du joueur             |
 | <mark style="color:yellow;">**Familier Bellamy**</mark>      | 10% de chance de l’obtenir             |
 | <mark style="color:yellow;">**Essence du Ressort**</mark>    | Utilisable pour le fruit correspondant |
 | <mark style="color:yellow;">**Bonbon à la Myrtille**</mark>  | Dépend du niveau du joueur             |

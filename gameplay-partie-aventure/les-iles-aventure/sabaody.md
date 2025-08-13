@@ -41,7 +41,6 @@ L’un des <mark style="color:yellow;">**Sept Grands Corsaires**</mark>, Kuma es
 
 | Récompense                                                    | Détail / Effet                           |
 | ------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>                 | Dépend du niveau du joueur               |
 | <mark style="color:yellow;">**Familier Kuma**</mark>          | 10% de chance de l’obtenir               |
 | <mark style="color:yellow;">**Essence des Coussinets**</mark> | Débloque ou améliore le Fruit des Ombres |
 | <mark style="color:yellow;">**Bonbon au Raisin**</mark>       | Dépend du niveau du joueur               |

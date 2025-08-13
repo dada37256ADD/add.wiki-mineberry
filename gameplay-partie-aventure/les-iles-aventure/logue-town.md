@@ -41,7 +41,6 @@ Chef de la Marine de Logue Town, Smoker est un adversaire redoutable qui ne tol�
 
 | Récompense                                                 | Détail / Effet                         |
 | ---------------------------------------------------------- | -------------------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>              | Dépend du niveau du joueur             |
 | <mark style="color:yellow;">**Essence du Fumigène**</mark> | Utilisable pour le fruit correspondant |
 | <mark style="color:yellow;">**Familier Smoker**</mark>     | 10% de chance d’obtenir                |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark>   | Dépend du niveau du joueur             |

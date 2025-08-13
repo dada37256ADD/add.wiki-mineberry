@@ -39,7 +39,6 @@ Maître charpentier et chef du Franky Family, <mark style="color:yellow;">**Fran
 
 | Récompense                                                  | Détail / Effet             |
 | ----------------------------------------------------------- | -------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>               | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Familier Franky**</mark>      | 10% de chance de l’obtenir |
 | <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur |
 

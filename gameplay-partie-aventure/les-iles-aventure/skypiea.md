@@ -43,7 +43,6 @@ Maître absolu de la foudre et seigneur incontesté des cieux, <mark style="colo
 
 | Récompense                                                      | Détail / Effet                           |
 | --------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>                   | Dépend du niveau du joueur               |
 | <mark style="color:yellow;">**Familier Ener**</mark>            | 10% de chance de l’obtenir               |
 | <mark style="color:yellow;">**Essence du Fulguro-Fruit**</mark> | Permet d’améliorer ou d’obtenir ce fruit |
 | <mark style="color:yellow;">**Bonbon au Raisin**</mark>         | Dépend du niveau du joueur               |

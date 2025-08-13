@@ -54,7 +54,6 @@ Créateur des zombies de Thriller Bark et maître incontesté des ombres, **Geck
 
 | Récompense                                                | Détail / Effet                           |
 | --------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Berrys**</mark>             | Dépend du niveau du joueur               |
 | <mark style="color:yellow;">**Familier Moria**</mark>     | 10% de chance de l’obtenir               |
 | <mark style="color:yellow;">**Essence des Ombres**</mark> | Débloque ou améliore le Fruit des Ombres |
 | <mark style="color:yellow;">**Bonbon au Raisin**</mark>   | Dépend du niveau du joueur               |
