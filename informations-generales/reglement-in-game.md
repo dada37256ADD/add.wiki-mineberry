@@ -20,18 +20,20 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 ### <mark style="color:orange;">Article A : Responsabilités</mark>
 
 * Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
-* Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés, de même pour le rename d’un pet.
+* Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
 * Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une île, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
 * Nous ne prenons pas en charge les transferts de compte.
-* En cas de changement de pseudo, le site de vote ne vous distribuera plus de clés de votes, dans ce cas, veuillez ouvrir un ticket.
-
-{% hint style="info" %}
-La marche à suivre quant à la création de ticket est disponible ici :telephone: Ouvrir un ticket
-{% endhint %}
+* **Le contournement de mute ou de bannissement est strictement interdite.**
+  * Il est de votre responsabilité de respecter notre règlement et d’accepter les sanctions qui vous sont attribuées.\
+    Si vous êtes surpris en train d’éviter une sanction par l’un des moyens suivants, la durée de votre mute/bannissement sera doublée :
+    * Double compte / autre joueurs
+    * Livres/Pancarte/Item dans le /ah
+    * Renommer des objets dans l'hôtel des ventes
+    * Tout autre moyen non listé (à l’appréciation du staff)
 
 ### <mark style="color:orange;">Article B : Le Discord</mark>
 
-* MineBerry a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
+* MinePiece a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
 * Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme.
 * Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
 * **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
@@ -54,7 +56,7 @@ Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour but d’obtenir un avantage dans le **classement des îles** ou dans les **Avants-Postes**.\
 Cela inclut notamment le partage d’items de niveau du mois, d’argent, ou de toute autre ressource susceptible d’influencer le classement d’une île.
 
-Il est également interdit d’utiliser une île tierce dans le but de **contourner les limites techniques** de votre propre île (ex : nombre de hoppers, limite de joueurs, etc.), y compris via l’usage de double comptes.
+Il est également interdit d’utiliser une île tierce dans le but de **contourner les limites techniques** de votre propre île (ex : nombre de hoppers, limite de joueurs, shops, etc.), y compris via l’usage de double comptes.
 
 Les alliances en **PvP** ou dans les **zones d’Avants-Postes** sont également interdites, quelle que soit leur forme.
 
@@ -66,6 +68,12 @@ Tout abus ou contournement de ces règles entraînera une sanction adaptée à l
 
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
+  * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.&#x20;
+    * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une milieu une beaucoup plus chère.
+    * Il est interdit de faire monter intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
+    * Et bien d'autres cas.\
+      Si vous avez un doute, faites un ticket !
+* Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagné ou les récompenses liées à leur mort.
 * Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
@@ -87,13 +95,21 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 
 * Anti-Afk (circuit d'eau, Auto-Jump...)
 * Vente d'items contre de l'argent réel ou contre des gemmes.
+* Le tp-kill est interdit.
 * Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
 * La construction obscène, raciste et discriminante.
 * Il est interdit de créer des jeux de hasard/casino.
-* Le tp-kill est interdit ainsi que tout kill en dehors de zone pvp. Il est interdit de usebug bloc à MarineFord, zone AP ou zone duels.
 * Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
-* La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
+* La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items sans durabilité, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
 * Il est interdit d'utiliser son fruit du démon sur d'autres joueurs en zone aventure ou dans les warps publiques
+* Les farms à wither sont interdites.
+* Le poser/casser est interdit.
+
+{% hint style="warning" %}
+Cette liste n'est pas exhaustive.
+{% endhint %}
+
+* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
 
 ### <mark style="color:orange;">Article C : Le pvp, les duels et MarineFord</mark>
 
@@ -112,8 +128,14 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 
 * Les usines dites à "0 ticks" et les machines volantes sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites.
+* Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
 * Les clocks trop rapides ou les systèmes conséquents et mal optimisés sont interdits.
+  * Il est demandé par faciliter d'avoir un système on/off sur vos farm à redstone.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+
+{% hint style="warning" %}
+Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
+{% endhint %}
 
 {% hint style="danger" %}
 Si votre système/machine ne respecte pas les règles du serveur il sera supprimé sans remboursement.
@@ -132,15 +154,16 @@ Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff.
 
 ### <mark style="color:orange;">Article F : Les Mods interdits</mark>
 
-*   **Tous les mods donnant un avantage sur les autres joueurs :**
+* **Tous les mods donnant un avantage sur les autres joueurs :**
+  * X-Ray / FreeCam
+  * Schematica Printer & Easy Place & copy/paste
+  * FlyMod
+  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
+  * AutoTools
 
-    * X-Ray / FreeCam
-    * Schematica Printer & Easy Place & copy/paste
-    * FlyMod
-    * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
-    * AutoTools
-
-    Cette liste n'est pas exhaustive, en cas de doute, merci de demander l'accord à un staff.
+{% hint style="warning" %}
+Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket.
+{% endhint %}
 
 ### <mark style="color:orange;">Article G : Les Doubles-Comptes</mark>
 
@@ -152,34 +175,29 @@ Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff.
 * Il est interdit de voter avec deux comptes différents pour le serveur.
 
 {% hint style="info" %}
-Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MineBerry en ticket.
+Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MinePiece en ticket.
 {% endhint %}
 
 ### <mark style="color:orange;">Article H : L'AFK</mark>
 
-* L'AFK est autorisé sur le serveur dans les zones prévues à cet effet.
 * **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
 * Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
-* L’utilisation d’un minecart vous permettant de vous déplacer sans être derrière votre écran est également prohibée sur le serveur.
+* Le farming/afk à l’aide de véhicules (bateaux, minecart, etc.) est interdit.
 
 ### <mark style="color:orange;">Article I : Triche et Usebugs</mark>
 
-* Il est interdit de vendre des décorations de ImpelDown.
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
-* Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci est prohibé sur Mineberry.
-
-
+* Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci entrainera un bannissement définitif du serveur.
+* Le poser-casser est interdit.
 
 ## <mark style="color:orange;">Partie III : Le Chat</mark>
 
 ### <mark style="color:orange;">Article A : Les règles générales</mark>
 
-* Vous vous devez d'être irréprochable dans vos messages et votre comportement.
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
-* La modification de la typologie d’écriture n’est pas autorisée.
-* La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
+* Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 
 ### <mark style="color:orange;">Article B : Les types de messages</mark>
 
@@ -206,14 +224,14 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
   * Sur des livres
   * Messages Privés
   * Panneaux
-  * Tout endroit en lien direct avec Mineberry
+  * Tout endroit en lien direct avec MinePiece
   * Utilisation du /nick abusive
   * Rename d’un pet ou d’un mob
   * ...
 
 ### <mark style="color:orange;">Article D : La publicité</mark>
 
-* La publicité pour des serveurs autres que MineBerry est interdite.
+* La publicité pour des serveurs autres que MinePiece est interdite.
 * Vous ne devez pas citer de noms de serveurs autres que ceux de Rivrs.
 * Toute publicité pour une autre plateforme/jeu/etc est également interdite sur le serveur.
 * La publicité de son propre contenu (vidéos Youtube, chaine Twitch, etc) est interdite sur le serveur, hormis si vous disposez du grade Youtubeur, Streameur ou Partenaire.
@@ -232,5 +250,5 @@ En vous connectant sur nos plateformes, nous considérons que vous avez lu et ac
 
 Toute sanction sera donnée à l'entière appréciation du staff.
 
-Si vous souhaitez contester une quelconque sanction, merci de [créer un ticket](https://discord.com/channels/994553717556777041/994553719318392841) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
+Si vous souhaitez contester une quelconque sanction, merci de créer un ticket sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
 Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
