@@ -6,7 +6,8 @@ description: Retrouvez ici toutes les informations concernant les valeurs d'île
 
 Comme nous l'avons vu, une île possède une <mark style="color:yellow;">**certaine valeur**</mark> dépendant des <mark style="color:yellow;">**objets**</mark> qui y sont <mark style="color:yellow;">**posés**</mark>.&#x20;
 
-Cette <mark style="color:yellow;">**valeur détermine**</mark> son <mark style="color:yellow;">**classement**</mark> par rapport aux autres îles du serveur.\
+Cette <mark style="color:yellow;">**valeur détermine**</mark> son <mark style="color:yellow;">**classement**</mark> par rapport aux autres îles du serveur.
+
 Plus la valeur sera <mark style="color:yellow;">**élevée**</mark>, plus l'île sera <mark style="color:yellow;">**haut classée**</mark>.&#x20;
 
 Il est important de noter que le <mark style="color:yellow;">**classement d'île est réinitialisé**</mark> <mark style="color:yellow;">**chaque mois**</mark> pour permettre à chaque équipage d'avoir sa <mark style="color:yellow;">**chance d'y accéder**</mark>.&#x20;
