@@ -8,95 +8,81 @@ Sur <mark style="color:yellow;">**MineBerry**</mark>, la <mark style="color:yell
 
 Ces <mark style="color:yellow;">**Poissons**</mark> sont classés selon <mark style="color:yellow;">**différentes raretés**</mark>, suivant l'ordre :
 
-* <mark style="color:green;">**Commun**</mark> (3)
+* <mark style="color:green;">**Commun**</mark> (4)
 * <mark style="color:orange;">**Rare**</mark> (6)
 * <mark style="color:blue;">**Épique**</mark> (6)
 * <mark style="color:purple;">**Légendaire**</mark> (6)
 
 ## <mark style="color:green;">Poissons Communs</mark>
 
-|                Poissons Communs               |
-| :-------------------------------------------: |
-|  <mark style="color:green;">**Carpe**</mark>  |
-|   <mark style="color:green;">**Nemo**</mark>  |
-| <mark style="color:green;">**Ablette**</mark> |
+|               Poissons Communs              |
+| :-----------------------------------------: |
+| <mark style="color:green;">**Carpe**</mark> |
+|  <mark style="color:green;">**Nemo**</mark> |
+| <mark style="color:green;">**Crabe**</mark> |
+|  <mark style="color:green;">**Fugu**</mark> |
 
-## <mark style="color:orange;">Poissons Rares</mark>
+## <mark style="color:blue;">Poissons Rares</mark>
 
-|                       Poissons Rares                      |
-| :-------------------------------------------------------: |
-|       <mark style="color:orange;">**Pieuvre**</mark>      |
-|    <mark style="color:orange;">**Poisson-Lion**</mark>    |
-|   <mark style="color:orange;">**Poisson Jashak**</mark>   |
-|  <mark style="color:orange;">**Poisson Lanterne**</mark>  |
-| <mark style="color:orange;">**Poisson Macropinna**</mark> |
-|   <mark style="color:orange;">**Poisson Shonai**</mark>   |
+|                     Poissons Rares                    |
+| :---------------------------------------------------: |
+|      <mark style="color:blue;">**Poulpe**</mark>      |
+|   <mark style="color:blue;">**Poisson-Lion**</mark>   |
+|      <mark style="color:blue;">**Jashak**</mark>      |
+| <mark style="color:blue;">**Poisson-Lanterne**</mark> |
+|    <mark style="color:blue;">**Macropinna**</mark>    |
+|      <mark style="color:blue;">**Shonai**</mark>      |
 
-## <mark style="color:blue;">Poissons Épiques</mark>
+## <mark style="color:purple;">Poissons Épiques</mark>
 
-|                    Poissons Épiques                    |
-| :----------------------------------------------------: |
-| <mark style="color:blue;">**Poisson-Combatant**</mark> |
-|  <mark style="color:blue;">**Poisson-Papillon**</mark> |
-| <mark style="color:blue;">**Poisson NeonTetra**</mark> |
-|  <mark style="color:blue;">**Poisson Olludian**</mark> |
-|    <mark style="color:blue;">**Perche Jaune**</mark>   |
-|    <mark style="color:blue;">**Zancle Cornu**</mark>   |
+|                     Poissons Épiques                     |
+| :------------------------------------------------------: |
+| <mark style="color:purple;">**Poisson-Combatant**</mark> |
+|  <mark style="color:purple;">**Poisson-Papillon**</mark> |
+|     <mark style="color:purple;">**Neon Tetra**</mark>    |
+|      <mark style="color:purple;">**Olludian**</mark>     |
+|    <mark style="color:purple;">**Perche Jaune**</mark>   |
+|    <mark style="color:purple;">**Zancle Cornu**</mark>   |
 
-## <mark style="color:purple;">Poissons Légendaires</mark>
+## <mark style="color:yellow;">Poissons Légendaires</mark>
 
 |                 Poissons Légendaires                |
 | :-------------------------------------------------: |
-| <mark style="color:purple;">**Homard-Rouge**</mark> |
-| <mark style="color:purple;">**Roi Chacalot**</mark> |
-|   <mark style="color:purple;">**Roi Raye**</mark>   |
-| <mark style="color:purple;">**Roi MeuhMeuh**</mark> |
-|  <mark style="color:purple;">**Roi Serpent**</mark> |
-|   <mark style="color:purple;">**Roi Singe**</mark>  |
+|    <mark style="color:yellow;">**Hommard**</mark>   |
+| <mark style="color:yellow;">**Roi Chacalot**</mark> |
+|   <mark style="color:yellow;">**Roi Raye**</mark>   |
+| <mark style="color:yellow;">**Roi MeuhMeuh**</mark> |
+|  <mark style="color:yellow;">**Roi Serpent**</mark> |
+|   <mark style="color:yellow;">**Roi Singe**</mark>  |
 
-## <mark style="color:orange;">**Variation selon les Îles Aventures**</mark>
+## &#x20;<mark style="color:orange;">Pêche Classique</mark>
 
-Chaque <mark style="color:yellow;">**île**</mark> a ses propres <mark style="color:yellow;">**spécificités**</mark> en matière de pêche. Le <mark style="color:yellow;">**taux de drops**</mark> des éléments lors de la <mark style="color:yellow;">**pêche**</mark> varie en fonction des <mark style="color:yellow;">**îles aventures**</mark>, ajoutant un <mark style="color:yellow;">**élément stratégique**</mark> à cette activité. Explorez <mark style="color:yellow;">**différentes eaux**</mark> pour découvrir de <mark style="color:yellow;">**nouveaux poissons**</mark> !
+Pour les poissons <mark style="color:yellow;">**vanilla**</mark> de Minecraft (morue, saumon, poisson-globe, etc.), le fonctionnement reste identique au système classique du jeu :
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Aperçu du <mark style="color:yellow;"><strong><code>/peche</code></strong></mark></p></figcaption></figure>
+1. Lancez votre canne à pêche.
+2. Attendez qu’un poisson morde à l’hameçon.
+3. Ramenez votre prise.
 
-### <mark style="color:orange;">Île Personnelle</mark>
+## <mark style="color:orange;">Pêche des Poissons</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Custom**</mark>
 
-<mark style="color:yellow;">**Déchets**</mark>**: 15%**\
-<mark style="color:yellow;">**Trésors**</mark>**: 5%**\
-<mark style="color:yellow;">**Poissons**</mark>**: 50%**\
-<mark style="color:yellow;">**Poissons Spéciaux**</mark>**: 30%**\
-&#x20;         **- Poissons **<mark style="color:green;">**Communs**</mark>**: 60%**\
-&#x20;         **- Poissons **<mark style="color:yellow;">**Rares**</mark>**: 28%**\
-&#x20;         **- Poissons **<mark style="color:blue;">**Épiques**</mark>**: 10%**\
-&#x20;         **- Poissons **<mark style="color:purple;">**Légendaires**</mark>**: 2%**
+Lorsqu’un <mark style="color:yellow;">**poisson spécial**</mark> apparaît, l’expérience change complètement :
 
-### <mark style="color:orange;">Grand Line</mark>
+1. <mark style="color:yellow;">**Une interface s’ouvre**</mark> au centre de votre écran.
+2. Une <mark style="color:yellow;">**jauge verticale**</mark> apparaît, avec en bas une <mark style="color:green;">**zone verte**</mark>.
+3. Un <mark style="color:yellow;">**icône de poisson**</mark> se déplace de haut en bas dans cette jauge.
+4. <mark style="color:yellow;">**Votre objectif**</mark> : maintenir le poisson <mark style="color:green;">**dans la zone verte**</mark> pour le capturer.
 
-<mark style="color:yellow;">**Déchets**</mark>**: 5%**\
-<mark style="color:yellow;">**Trésors**</mark>**: 10%**\
-<mark style="color:yellow;">**Poissons**</mark>**: 30%**\
-<mark style="color:yellow;">**Poissons Spéciaux**</mark>**: 55%**\
-&#x20;         **- Poissons **<mark style="color:green;">**Communs**</mark>**: 50%**\
-&#x20;         **- Poissons **<mark style="color:yellow;">**Rares**</mark>**: 30%**\
-&#x20;         **- Poissons **<mark style="color:blue;">**Épiques**</mark>**: 15%**\
-&#x20;         **- Poissons **<mark style="color:purple;">**Légendaires**</mark>**: 5%**
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-13 à 17.32.49 (1).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">Baratie</mark>
+## <mark style="color:orange;">Comment jouer ?</mark>&#x20;
 
-<mark style="color:yellow;">**Déchets**</mark>**: 0%**\
-<mark style="color:yellow;">**Trésors**</mark>**: 15%**\
-<mark style="color:yellow;">**Poissons**</mark>**: 20%**\
-<mark style="color:yellow;">**Poissons Spéciaux**</mark>**: 65%**\
-&#x20;         **- Poissons **<mark style="color:green;">**Communs**</mark>**: 50%**\
-&#x20;         **- Poissons **<mark style="color:yellow;">**Rares**</mark>**: 60%**\
-&#x20;         **- Poissons **<mark style="color:blue;">**Épiques**</mark>**: 30%**\
-&#x20;         **- Poissons **<mark style="color:purple;">**Légendaires**</mark>**: 10%**
+* <mark style="color:yellow;">**Clic droit**</mark> → fait monter la barre verte.
+* Si vous ne cliquez pas, la barre verte <mark style="color:yellow;">**redescend**</mark> lentement.
+* Maintenez la bonne coordination entre la position du poisson et la zone verte.
+* Une fois <mark style="color:yellow;">**la jauge de progression (à droite)**</mark> remplie, le poisson est à vous !
 
-## <mark style="color:orange;">Pêche Shop</mark>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-13 à 17.32.54 (1).png" alt=""><figcaption></figcaption></figure>
 
-Le menu <mark style="color:yellow;">**`/peche shop`**</mark> offre aux joueurs la possibilité de <mark style="color:yellow;">**monétiser**</mark> plus facilement leurs <mark style="color:yellow;">**prises de pêche**</mark>. Le menu propose une <mark style="color:yellow;">**option de vente**</mark> <mark style="color:yellow;">**directe**</mark> pour tous les <mark style="color:yellow;">**poissons présents dans l'inventaire**</mark>, simplifiant le processus de vente.
-
-Les <mark style="color:yellow;">**poissons**</mark> avec des <mark style="color:yellow;">**raretés plus élevées**</mark> valent <mark style="color:yellow;">**davantage**</mark>, vous encourageant à rechercher des <mark style="color:yellow;">**espèces rares**</mark>.&#x20;
-
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Aperçu du menu <mark style="color:yellow;"><strong><code>/peche shop</code></strong></mark></p></figcaption></figure>
+{% hint style="success" %}
+<mark style="color:yellow;">**Astuce de pêcheur**</mark> : La patience et le rythme sont la clé ! Cliquez trop vite et vous dépasserez la cible… cliquez trop lentement et le poisson s’échappera.
+{% endhint %}
