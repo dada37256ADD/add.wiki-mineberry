@@ -55,12 +55,9 @@ Vous pouvez équiper jusqu’à <mark style="color:yellow;">**5 familiers**</mar
 
 **2.&#x20;**<mark style="color:yellow;">**En les plaçant dans votre IS**</mark>
 
-Les familiers peuvent également être <mark style="color:yellow;">**placés dans l’interface de votre île**</mark>.&#x20;
+Pour ouvrir l’interface permettant de gérer vos familiers sur votre île, utilisez la commande <mark style="color:yellow;">**`/minion`**</mark>.
 
-Dans ce cas :
-
-* Ils <mark style="color:yellow;">**n’apparaîtront pas à vos côtés**</mark>,
-* Mais leurs <mark style="color:yellow;">**effets sont toujours appliqués à votre personnage**</mark>.
+Les familiers placés dans cette interface <mark style="color:yellow;">**n’apparaissent pas**</mark> à vos côtés mais appliquent <mark style="color:yellow;">**toujours leurs effets**</mark> à votre personnage.
 
 {% hint style="warning" %}
 Un seul exemplaire de chaque pet peut être équipé dans votre île.
@@ -87,36 +84,30 @@ Utilisez les petits bonbons pour les premiers niveaux, et gardez les bonbons pui
 
 ## <mark style="color:orange;">Système de Niveau et Prestige</mark>
 
-Dès l’obtention de votre familier, celui-ci débute automatiquement à :
+#### <mark style="color:yellow;">Niveaux (Familiers)</mark>
 
-* <mark style="color:yellow;">**Niveau 1**</mark>
-* <mark style="color:yellow;">**Prestige 1**</mark>
+Les niveaux représentent la <mark style="color:yellow;">**progression et la puissance croissante**</mark> de votre familier.
 
-### <mark style="color:orange;">Niveaux</mark>
+Un familier débute <mark style="color:yellow;">**au niveau 1**</mark> et peut évoluer jusqu’au <mark style="color:yellow;">**niveau 2**</mark>**0**.
 
-Chaque familier peut évoluer jusqu’au <mark style="color:yellow;">**niveau 20**</mark>, en utilisant des <mark style="color:yellow;">**bonbons**</mark> que vous trouverez dans :
+Chaque <mark style="color:yellow;">**5 niveaux**</mark> (1, 5, 10, 15, 20), un <mark style="color:yellow;">**nouvel effet**</mark> est débloqué.
 
-* les caisses,
-* les quêtes,
-* les métiers,
-* ou encore à l’Hôtel des Ventes.
+#### <mark style="color:yellow;">Prestiges (Minions)</mark>
 
-Tous les <mark style="color:yellow;">**5 niveaux**</mark>, un <mark style="color:yellow;">**nouvel effet**</mark> est débloqué :
+Les prestiges indiquent la <mark style="color:yellow;">**progression et la puissance croissante**</mark> de votre minion.
 
-* Niveau 1
-* Niveau 5
-* Niveau 10
-* Niveau 15
-* Niveau 20
+Un minion commence <mark style="color:yellow;">**au prestige 1**</mark> et peut être amélioré jusqu’au <mark style="color:yellow;">**prestige 10**</mark>.
 
-### <mark style="color:orange;">Prestige</mark>
+L’amélioration nécessite une <mark style="color:yellow;">**ressource spécifique**</mark> propre à chaque minion (indiquée dans sa fiche sous “Ressource du Minion”).
 
-Le prestige peut être <mark style="color:yellow;">**amélioré jusqu’au niveau 10**</mark>, en utilisant une <mark style="color:yellow;">**ressource spécifique**</mark> propre à chaque familier (indiquée dans sa fiche sous **“**<mark style="color:yellow;">**Ressource du Minion**</mark>**”**).
+## <mark style="color:orange;">Types d’Effets</mark>
 
-<mark style="color:yellow;">**Chaque montée de prestige renforce les effets du familier**</mark> déjà débloqués, le rendant bien plus puissant.
+<mark style="color:orange;">**Effets des familiers**</mark> : statistiques <mark style="color:yellow;">**aléatoires**</mark> composées d’attributs variés, qui évoluent avec le <mark style="color:yellow;">**niveau**</mark>.
 
-{% hint style="info" %}
-Astuce : Même un pet placé sur l’île verra son prestige appliqué à vos bonus passifs !
+<mark style="color:orange;">**Effets des minions**</mark> : statistiques <mark style="color:yellow;">**fixes**</mark> évoluant avec le <mark style="color:yellow;">**prestige**</mark>, appliquées à <mark style="color:yellow;">**tout l’équipage**</mark> présent sur votre île.
+
+{% hint style="success" %}
+<mark style="color:yellow;">**Astuce**</mark> : Même un pet placé sur l’île verra son prestige appliqué à vos bonus passifs !
 {% endhint %}
 
 ## <mark style="color:orange;">Aperçu des Companions Disponibles</mark>&#x20;
