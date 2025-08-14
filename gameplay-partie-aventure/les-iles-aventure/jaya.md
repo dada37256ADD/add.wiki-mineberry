@@ -44,6 +44,16 @@ Surnommé _la Hyène_, Bellamy est un combattant explosif et imprévisible. Maî
 | <mark style="color:yellow;">**Essence du Ressort**</mark>    | Utilisable pour le fruit correspondant |
 | <mark style="color:yellow;">**Bonbon à la Myrtille**</mark>  | Dépend du niveau du joueur             |
 
+## <mark style="color:orange;">Succès d’île – Jaya</mark>
+
+Pour progresser sur l’île mystérieuse et mouvementée de <mark style="color:yellow;">**Jaya**</mark> et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 10 succès.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Bec**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de <mark style="color:yellow;">**Commandant**</mark> et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table data-header-hidden><thead><tr><th width="57.91796875"></th><th width="197.4296875"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 110 pirates de Bellamy</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 220 pirates de Bellamy</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 10 Sarquiss</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Vaincre 3 Bellamy</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Obtenir 40 ressorts</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Obtenir 4 lunettes de Sarquiss</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Obtenir 10 fragments de pirate</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Ouvrir 5 caisses de Jaya</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Casser 1024 minerais de cuivre</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Casser 1536 bambous</td><td>25 000 Berrys • 500 Bec • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Jaya</mark>
 
 La <mark style="color:yellow;">**Caisse Jaya**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Becs**</mark>.
