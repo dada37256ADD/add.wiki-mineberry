@@ -50,6 +50,20 @@ Vous pourrez aussi récupérer des <mark style="color:yellow;">**fragments d’a
 | <mark style="color:yellow;">**Familier Higuma**</mark>   | 10% de chance de l'obtenir |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark> | Dépend du niveau du joueur |
 
+## <mark style="color:orange;">Succès d'île - Fuschia</mark>
+
+Pour progresser sur l’île de <mark style="color:yellow;">**Fuchsia**</mark> et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de <mark style="color:yellow;">**15 succès**</mark>.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Économie de l’île**</mark> (ici : _Ferraille_) et en <mark style="color:yellow;">**Points de Dangerosit**</mark>**é**, indispensables pour atteindre le rang de pirate et débloquer l’accès à <mark style="color:yellow;">**Grand Line**</mark>.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table><thead><tr><th width="52.99609375">#</th><th width="188.546875">Objectif</th><th>Récompenses</th></tr></thead><tbody><tr><td>1</td><td>Tuer 25 Bandits</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>2</td><td>Tuer 50 Bandits</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>3</td><td>Vaincre 2 Yosaku</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>4</td><td>Vaincre 2 Johnny</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>5</td><td>Battre Luffy</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>6</td><td>Battre Higuma</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>7</td><td>Obtenir 15 bouteilles de saké</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>8</td><td>Obtenir les lunettes de Johnny</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>9</td><td>Obtenir le casque rouge de Yosaku</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>10</td><td>Récupérer 3 fragments de bandit</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>11</td><td>Ouvrir 5 caisses de Fuchsia</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>12</td><td>Voter 5 fois pour le serveur</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>13</td><td>Récupérer 5 récompenses succès</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>14</td><td>Casser 128 pierres</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr><tr><td>15</td><td>Casser 64 bûches de chêne</td><td>5 000 Berrys • 250 Ferrailles • 10 Dangerosité</td></tr></tbody></table>
+
+{% hint style="info" %}
+💡 <mark style="color:yellow;">**Astuce**</mark> : Compléter tous les succès de Fuchsia est un excellent moyen de préparer votre montée en puissance et de sécuriser votre passage vers les prochaines étapes de l’aventure.
+{% endhint %}
+
 ## <mark style="color:orange;">Caisse Fuchsia</mark>
 
 La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.000 Férailles**</mark>.
