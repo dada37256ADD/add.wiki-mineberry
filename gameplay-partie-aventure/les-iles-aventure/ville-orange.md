@@ -65,6 +65,16 @@ Invoquez-le via sa statue dans la zone boss une fois les ressources réunies :
 | <mark style="color:yellow;">**Essence de la Fragmentation**</mark> | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark>           | Dépend du niveau du joueur |
 
+## <mark style="color:orange;">Succès d’île – Orange Town</mark>
+
+Pour progresser sur l’île d’Orange Town et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de <mark style="color:yellow;">**15 succès**</mark>.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Économie de l’île**</mark> (ici : Nez de clown) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de pirate et débloquer l’accès à <mark style="color:yellow;">**Grand Line**</mark>.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table><thead><tr><th width="56.98046875">#</th><th width="216.39453125">Objectif</th><th>Récompenses</th></tr></thead><tbody><tr><td>1</td><td>Tuer 35 pirates de Baggy</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>2</td><td>Tuer 70 pirates de Baggy</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>3</td><td>Tuer 3 Alvida</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>4</td><td>Tuer 3 Cabaji</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>5</td><td>Tuer 3 Richy &#x26; Morge</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>6</td><td>Battre Baggy</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>7</td><td>Obtenir 20 boulets de Baggy</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>8</td><td>Obtenir la crinière de Richy</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>9</td><td>Obtenir le monocycle de Cabaji</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>10</td><td>Obtenir le chapeau d'Alvida</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>11</td><td>Obtenir 5 fragments de clown</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>12</td><td>Ouvrir 5 caisses d'Orange Town</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>13</td><td>Terminer 5 niveaux de pass</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>14</td><td>Casser 196 blés</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr><tr><td>15</td><td>Casser 64 minerais de charbon</td><td>10 000 Berrys • 250 Nez de clown • 10 Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Ville Orange</mark>
 
 La <mark style="color:yellow;">**Caisse Ville Orange**</mark> s'obtient en l'achetant au prix de <mark style="color:red;">**1'000 Nez de Clown**</mark>.
