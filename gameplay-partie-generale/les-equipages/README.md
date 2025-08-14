@@ -57,10 +57,9 @@ Le <mark style="color:yellow;">**2ème**</mark> bouton de la <mark style="color:
 
 Commandes utiles :
 
-* <mark style="color:yellow;">**`/pw set`**</mark> pour créer un warp
-* <mark style="color:yellow;">**`/pw remove`**</mark> pour le supprimer
-* <mark style="color:yellow;">**`/pw desc`**</mark> pour ajouter une description
-* <mark style="color:yellow;">**`/pw`**</mark> pour ouvrir directement le menu des warps
+* <mark style="color:yellow;">**`/is setwarp [nom]`**</mark> pour créer un warp
+* <mark style="color:yellow;">**`/pw deletewarp`**</mark> pour le supprimer
+* <mark style="color:yellow;">**`/is warp`**</mark> pour ouvrir directement le menu des warps
 
 ***
 
@@ -88,9 +87,8 @@ Le <mark style="color:yellow;">**2ème**</mark> bouton de la <mark style="color:
 
 Commandes utiles :
 
-* <mark style="color:yellow;">**`/is perms`**</mark>
-* <mark style="color:yellow;">**`/is perms [Pseudo]`**</mark>
-* <mark style="color:yellow;">**`/is perms reset`**</mark> pour tout réinitialiser
+* <mark style="color:yellow;">**`/is permissions`**</mark>
+* <mark style="color:yellow;">**`/is permissions [Pseudo]`**</mark>
 
 {% hint style="info" %}
 Les informations détaillées sur les permissions sont présentes ici [<mark style="color:orange;">**Les Permissions d'île**</mark>](les-permissions-dile.md).
@@ -143,6 +141,8 @@ Voici les commandes à connaitre en tant que <mark style="color:yellow;">**Membr
 
 Voici les commandes à connaitre en tant que <mark style="color:yellow;">**Chef/Administrateur**</mark> d'une île :
 
+* <mark style="color:yellow;">**`/is name [Nom]`**</mark> - Commande pour nommer votre île
+* <mark style="color:yellow;">**`/is setname [Nom]`**</mark> - Commande pour renommer votre île
 * <mark style="color:yellow;">**`/is ban [Pseudo]`**</mark> - Commande pour bannir un joueur de son île
 * <mark style="color:yellow;">**`/is close`**</mark> - Commande pour verrouiller l'île aux visiteurs
 * <mark style="color:yellow;">**`/is open`**</mark> - Commande pour ouvrir l'île aux visiteurs

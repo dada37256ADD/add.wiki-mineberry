@@ -75,7 +75,7 @@ Voici les permissions de la <mark style="color:yellow;">**deuxième page**</mark
 * <mark style="color:yellow;">**Dissoudre l’île**</mark> : Autorise l’utilisation de la commande <mark style="color:yellow;">**`/is delete`**</mark>.
 * <mark style="color:yellow;">**Changer la maison de l’île**</mark> : Permet de modifier le point de téléportation avec <mark style="color:yellow;">**`/is sethome`**</mark>.
 * <mark style="color:yellow;">**Contourner l’exclusion de l’île**</mark> : Ignore les bannissements de visiteurs.
-* <mark style="color:yellow;">**Changer le nom de l’île**</mark> : Autorise la commande <mark style="color:yellow;">**`/is rename`**</mark>.
+* <mark style="color:yellow;">**Changer le nom de l’île**</mark> : Autorise la commande <mark style="color:yellow;">**`/is name`**</mark>.
 * <mark style="color:yellow;">**Changer les permissions de l’île**</mark> : Permet de modifier les autorisations générales ou individuelles.
 * <mark style="color:yellow;">**Changer les noms et les rôles de l’île**</mark> : Modifier les titres personnalisés et rôles des membres.
 * <mark style="color:yellow;">**Changer les paramètres de l’île**</mark> : Autorise l'accès au menu <mark style="color:yellow;">**`/is settings`**</mark>.
@@ -103,12 +103,10 @@ Voici les permissions de la <mark style="color:yellow;">**troisième page**</mar
 * <mark style="color:yellow;">**Utiliser des étiquettes (name-tags)**</mark> : Renommer des entités vivantes.
 * <mark style="color:yellow;">**Bannir des visiteurs**</mark> : Utiliser <mark style="color:yellow;">**`/is ban`**</mark> pour bloquer un joueur d’accès.
 * <mark style="color:yellow;">**Exclure des visiteurs**</mark> : Utiliser <mark style="color:yellow;">**`/is expel`**</mark> pour expulser temporairement un joueur.
-* <mark style="color:yellow;">**Créer un warp**</mark> : Permet de créer un pwarp avec <mark style="color:yellow;">**`/pw set`**</mark>.
-* <mark style="color:yellow;">**Supprimer un warp**</mark> : Supprimer un pwarp avec <mark style="color:yellow;">**`/pw remove`**</mark>.
+* <mark style="color:yellow;">**Créer un warp**</mark> : Permet de créer un pwarp avec <mark style="color:yellow;">**`/is setwarp [Nom]`**</mark>.
+* <mark style="color:yellow;">**Supprimer un warp**</mark> : Supprimer un pwarp avec <mark style="color:yellow;">**`/is deletewarp`**</mark>.
 
 ### <mark style="color:orange;">Bon à savoir</mark>
-
-Les permissions peuvent être réinitialisées à tout moment avec <mark style="color:yellow;">**`/is perms reset`**</mark> ou <mark style="color:yellow;">**`/is perms [Pseudo] reset`**</mark>.
 
 Gérer finement les permissions permet de sécuriser votre île tout en laissant de la liberté aux membres de confiance.
 
