@@ -41,6 +41,16 @@ Souverain tyrannique et utilisateur du <mark style="color:yellow;">**Fruit du Gl
 | <mark style="color:yellow;">**Essence du glouton**</mark>   | Débloque ou améliore le Fruit des Ombres |
 | <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur               |
 
+## <mark style="color:orange;">Succès d’île – Royaume de Drum</mark>
+
+Pour progresser sur l’île enneigée du <mark style="color:yellow;">**Royaume de Dru**</mark>**m** et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 13 succès.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Flocons de Neige**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de pirate et débloquer l’accès à Grand Line.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table data-header-hidden><thead><tr><th width="50.203125"></th><th width="213.734375"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 90 soldats de Wapol</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 180 soldats de Wapol</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 10 Chess</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Tuer 10 Kuromarimo</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Vaincre 3 Dalton</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Vaincre 3 Wapol</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Obtenir 40 métaux de Wapol</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Obtenir 4 flèches de Chess</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Obtenir 4 gants de Kuromarimo</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Obtenir 10 fragments du bison</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>11</td><td>Ouvrir 5 caisses du Royaume de Drum</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>12</td><td>Casser 768 blocs de neige</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr><tr><td>13</td><td>Casser 768 bûches de chêne noir</td><td>25 000 Berrys • 500 Flocons de Neige • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Drum</mark>
 
 La <mark style="color:yellow;">**Caisse Drum**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Flocon de Neige**</mark>.
