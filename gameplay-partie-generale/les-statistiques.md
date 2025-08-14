@@ -6,6 +6,10 @@ description: Retrouvez ici toutes les informations concernant les statistiques
 
 Le serveur <mark style="color:yellow;">**MinePiece**</mark> propose un système de <mark style="color:yellow;">**statistiques**</mark> visant à améliorer votre <mark style="color:yellow;">**aventure**</mark>.
 
+{% hint style="success" %}
+Vous pouvez également obtenir un important bonus de statistiques grâce aux <mark style="color:yellow;">**Âmes**</mark> récupérées sur [_**Thriller Bark**_](../gameplay-partie-aventure/les-iles-aventure/thriller-bark.md), chacune offrant des effets uniques une fois collectée et utilisée.
+{% endhint %}
+
 <table data-header-hidden><thead><tr><th width="130.7890625">Statistique</th><th>Description</th></tr></thead><tbody><tr><td><strong>Vie</strong></td><td>Points de vie totaux.</td></tr><tr><td><strong>Régénération</strong></td><td>Vitesse de récupération des PV.</td></tr><tr><td><strong>Force</strong></td><td>Augmente les dégâts physiques.</td></tr><tr><td><strong>Dégâts</strong></td><td>Valeur brute des attaques physiques.</td></tr><tr><td><strong>Chance critique</strong></td><td>Probabilité de coup critique.</td></tr><tr><td><strong>Dégâts critiques</strong></td><td>Bonus appliqué lors d’un coup critique.</td></tr><tr><td><strong>Puissance</strong></td><td>Augmente les dégâts des compétences (fruits, attaques spéciales).</td></tr><tr><td><strong>Énergie</strong></td><td>Points d’énergie pour les compétences.</td></tr><tr><td><strong>Régénération Énergie</strong></td><td>Vitesse de récupération d’énergie.</td></tr><tr><td><strong>Vitesse</strong></td><td>Rapidité de déplacement.</td></tr><tr><td><strong>Dextérité</strong></td><td>Agilité et précision.</td></tr><tr><td><strong>Défense</strong></td><td>Réduction des dégâts subis.</td></tr><tr><td><strong>Productivité</strong></td><td>Efficacité de minage (Minecraft).</td></tr><tr><td><strong>Fortune</strong></td><td>Chance supplémentaire au minage (Minecraft).</td></tr></tbody></table>
 
 ## <mark style="color:orange;">Formules de Combat</mark>&#x20;

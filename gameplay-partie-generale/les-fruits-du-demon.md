@@ -76,7 +76,7 @@ Vous débloquez des attaques aux niveaux :
 ## <mark style="color:orange;">Combats et Progression</mark>
 
 * Vous gagnez de l'expérience en <mark style="color:yellow;">**infligeant des dégâts**</mark> avec votre fruit.
-* Vous pouvez aussi utiliser des <mark style="color:yellow;">**Livres Anciens**</mark> et des <mark style="color:yellow;">**fruits inutilisés**</mark> pour booster cette progression.
+* Vous pouvez aussi utiliser des <mark style="color:yellow;">**livres**</mark> et des <mark style="color:yellow;">**fruits inutilisés**</mark> pour booster cette progression. Il existe trois types de livres, chacun ayant une rareté et une puissance différente : <mark style="color:green;">**Livre de poche**</mark> – <mark style="color:blue;">**Livre ancien**</mark> – <mark style="color:purple;">**Livre enchanté**</mark>**.**
 * Chaque attaque a une <mark style="color:yellow;">**consommation d’énergie (mana)**</mark> et un <mark style="color:yellow;">**temps de recharge (cooldown)**</mark>.
 * À chaque <mark style="color:yellow;">**ascension**</mark>, le cooldown diminue, les dégâts augmentent, et l’énergie nécessaire progresse.
 
@@ -86,7 +86,7 @@ Une <mark style="color:yellow;">**barre rouge**</mark> apparaît sur votre mana 
 
 ## <mark style="color:orange;">Interface avec la commande</mark> <mark style="color:yellow;">`/fruit`</mark>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-28 à 13.58.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-28 à 13.58.32.png" alt=""><figcaption></figcaption></figure>
 
 Faites <mark style="color:yellow;">**`/fruit`**</mark> pour ouvrir l'interface de gestion de votre fruit :
 
@@ -98,7 +98,7 @@ Faites <mark style="color:yellow;">**`/fruit`**</mark> pour ouvrir l'interface d
 * <mark style="color:yellow;">**Bouton de conversion**</mark> : Convertissez <mark style="color:yellow;">**vos fruits inutilisés**</mark> et <mark style="color:yellow;">**livres anciens**</mark> en <mark style="color:yellow;">**expérience**</mark> pour le fruit actif.
 * <mark style="color:yellow;">**Étoiles à droite**</mark> : Indiquent votre <mark style="color:yellow;">**niveau d’ascension**</mark>.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-28 à 13.59.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-28 à 13.59.42.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Quand la barre d’XP est vide et qu’un message “<mark style="color:yellow;">**Prêt pour l’ascension**</mark>” apparaît, vous pouvez évoluer le fruit.
@@ -106,7 +106,7 @@ Quand la barre d’XP est vide et qu’un message “<mark style="color:yellow;"
 
 ## <mark style="color:orange;">Ascensions</mark>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-28 à 14.00.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-28 à 14.00.14.png" alt=""><figcaption></figcaption></figure>
 
 Lorsque votre fruit atteint son palier d’XP maximal :
 
