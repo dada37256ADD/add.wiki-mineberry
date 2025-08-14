@@ -47,6 +47,16 @@ Maître absolu de la foudre et seigneur incontesté des cieux, <mark style="colo
 | <mark style="color:yellow;">**Essence du Fulguro-Fruit**</mark> | Permet d’améliorer ou d’obtenir ce fruit |
 | <mark style="color:yellow;">**Bonbon au Raisin**</mark>         | Dépend du niveau du joueur               |
 
+## <mark style="color:orange;">Succès d’île – Skypiea</mark>
+
+Pour progresser sur l’île céleste de <mark style="color:yellow;">**Skypiea**</mark> et accumuler des ressources précieuses à votre ascension, vous devrez relever une série de 16 succès.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Extols**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de **Commandant** et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
+
+### <mark style="color:orange;">Liste des Succès</mark>
+
+<table data-header-hidden><thead><tr><th width="50.5859375"></th><th width="205.03515625"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 200 soldats divins</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 400 soldats divins</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 15 Satori</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Tuer 15 Shura</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Tuer 15 Gedatsu</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Vaincre 5 Ener</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Obtenir 60 bijoux dorés</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Obtenir 6 gants de Gedatsu</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Obtenir 6 casques de Shura</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Obtenir 6 chapeaux de Satori</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>11</td><td>Obtenir 15 fragments de Shandias</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>12</td><td>Gagner 3 courses de Waver</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>13</td><td>Participer à 20 courses</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>14</td><td>Ouvrir 5 caisses de Skypiea</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>15</td><td>Casser 1536 andésites</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr><tr><td>16</td><td>Casser 512 lianes</td><td>40 000 Berrys • 500 Extols • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Skypiea</mark>
 
 La <mark style="color:yellow;">**Caisse Jaya**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Extols**</mark>.

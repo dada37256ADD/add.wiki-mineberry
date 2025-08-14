@@ -46,6 +46,16 @@ Chef redouté du <mark style="color:yellow;">**CP9**</mark>, Rob Lucci incarne l
 | <mark style="color:yellow;">**Essence du Félin**</mark>   | Débloque ou améliore le Fruit des Ombres |
 | <mark style="color:yellow;">**Bonbon au Raisin**</mark>   | Dépend du niveau du joueur               |
 
+## <mark style="color:orange;">Succès d’île – Enies Lobby</mark>
+
+Pour progresser dans l’imposante cité judiciaire d’<mark style="color:yellow;">**Enies Lobby**</mark> et amasser des ressources stratégiques, vous devrez compléter une série de 14 succès.
+
+Chaque succès complété vous offrira des <mark style="color:yellow;">**Berrys**</mark>, des <mark style="color:yellow;">**Scellés de Justice**</mark> (monnaie spécifique à l’île) et des <mark style="color:yellow;">**Points de Dangerosité**</mark>, essentiels pour atteindre le rang de <mark style="color:yellow;">**Commandant**</mark> et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table data-header-hidden><thead><tr><th width="62.8359375"></th><th width="204.296875"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 220 soldats du CP9</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 440 soldats du CP9</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 15 Kaku</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Tuer 15 Blueno</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Vaincre 5 Rob Lucci</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Obtenir 60 masques du CP9</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Obtenir 6 nez de Kaku</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Obtenir 6 cornes de Blueno</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Obtenir 10 fragments du Gouvernement</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Ouvrir 5 caisses d’Enies Lobby</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>11</td><td>Réussir le 1er entraînement au double saut</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>12</td><td>Réussir tous les entraînements au double saut</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>13</td><td>Casser 2024 granites</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr><tr><td>14</td><td>Casser 1024 blocs de champignon marron</td><td>40 000 Berrys • 500 Scellés de Justice • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Enies Lobby</mark>
 
 La <mark style="color:yellow;">**Caisse Enies Lobby**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Scellés de Justice**</mark>.
