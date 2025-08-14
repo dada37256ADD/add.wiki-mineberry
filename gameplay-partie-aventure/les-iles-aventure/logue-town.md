@@ -45,6 +45,16 @@ Chef de la Marine de Logue Town, Smoker est un adversaire redoutable qui ne tol�
 | <mark style="color:yellow;">**Familier Smoker**</mark>     | 10% de chance d’obtenir                |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark>   | Dépend du niveau du joueur             |
 
+## <mark style="color:orange;">Succès d’île – Logue Town</mark>
+
+Pour progresser sur l’île de Logue Town et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 11 succès.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Fumée**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de pirate et débloquer l’accès à Grand Line.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table data-header-hidden><thead><tr><th width="54.70703125"></th><th width="166.88671875"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 55 marines</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 110 marines</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 6 Tashigi</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Vaincre 2 Smoker</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Obtenir 30 cigares de Smoker</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Obtenir 3 lunettes de Tashigi</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Obtenir 5 fragments du soldat de la marine</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Terminer 5 donjons d’Impel Down</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Ouvrir 5 caisses de Logue Town</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Casser 256 pastèques</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr><tr><td>11</td><td>Casser 96 minerais de fer</td><td>20 000 Berrys • 250 Fumée • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Logue Town</mark>&#x20;
 
 La <mark style="color:yellow;">**Caisse Logue Town**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.000 Fumée**</mark>.
