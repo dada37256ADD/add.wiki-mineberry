@@ -42,6 +42,16 @@ Maître charpentier et chef du Franky Family, <mark style="color:yellow;">**Fran
 | <mark style="color:yellow;">**Familier Franky**</mark>      | 10% de chance de l’obtenir |
 | <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur |
 
+## <mark style="color:orange;">Succès d’île – Water Seven</mark>
+
+Pour progresser dans la ville flottante de <mark style="color:yellow;">**Water Seven**</mark> et accumuler des ressources précieuses à votre ascension, vous devrez relever une série de 12 succès.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Bois d’Adam**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de <mark style="color:yellow;">**Commandant**</mark> et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table data-header-hidden><thead><tr><th width="58.921875"></th><th width="182.67578125"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 120 désosseurs de Franky</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 240 désosseurs de Franky</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 10 Pauly</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Tuer 10 Kairiki Destroyers</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Vaincre 3 Franky</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Obtenir 40 ferrailles</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Obtenir 4 cordes de Pauly</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Obtenir 4 épaulières des Kairiki Destroyers</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Obtenir 10 fragments de Galley-La Company</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Ouvrir 5 caisses de Water Seven</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>11</td><td>Casser 736 bûches de bouleau</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr><tr><td>12</td><td>Casser 2024 carottes</td><td>30 000 Berrys • 500 Bois d’Adam • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Water Seven</mark>
 
 La <mark style="color:yellow;">**Caisse Water Seven**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Féraille**</mark>.
