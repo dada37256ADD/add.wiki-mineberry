@@ -12,6 +12,10 @@ Pour <mark style="color:yellow;">**ouvrir ces caisses**</mark>, vous devrez vous
 
 Il existe <mark style="color:yellow;">**différents moyens**</mark> d'obtenir des <mark style="color:yellow;">**clés**</mark> : en les <mark style="color:yellow;">**achetant dans la boutique**</mark> avec des <mark style="color:green;">**Gemmes**</mark>, en <mark style="color:yellow;">**votant pour le serveur**</mark>, ou encore en les <mark style="color:yellow;">**gagnant dans les events**</mark>.
 
+{% hint style="success" %}
+Vous pouvez également récupérer une <mark style="color:yellow;">**clé aléatoire**</mark> (Clé Grand Line ou Clé East Blue) via la commande <mark style="color:yellow;">**`/rewards`**</mark>, après <mark style="color:yellow;">**4 heures de jeu**</mark> dans la même journée _(réinitialisation toutes les 24h)_
+{% endhint %}
+
 ## <mark style="color:orange;">Caisse Vote</mark>
 
 La clé de la <mark style="color:yellow;">**Caisse Vote**</mark> s'obtient en <mark style="color:yellow;">**votant pour le serveur**</mark> avec la commande <mark style="color:yellow;">**`/vote`**</mark>.
