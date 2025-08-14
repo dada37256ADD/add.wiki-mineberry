@@ -61,6 +61,16 @@ Les <mark style="color:yellow;">**hommes-poissons**</mark> ont envahi cette zone
 | <mark style="color:yellow;">**Familier Arlong**</mark>   | 10% de chance              |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark> | Dépend du niveau du joueur |
 
+## <mark style="color:orange;">Succès d’île – Arlong Park</mark>
+
+Pour progresser sur l’île d’Arlong Park et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 15 succès.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Mandarines**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de pirate et débloquer l’accès à Grand Line.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table data-header-hidden><thead><tr><th width="45.8515625"></th><th width="217.3046875"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 45 pirates d’Arlong</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 90 pirates d’Arlong</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 5 Smack</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Tuer 5 Kuroobi</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Tuer 5 Octy</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Vaincre 2 Arlong</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Obtenir 25 dents de requin</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Obtenir 2 bouches de Smack</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Obtenir 2 ailerons de Kuroobi</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Obtenir 2 ventouses d’Octy</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>11</td><td>Obtenir 5 fragments d’homme-poisson</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>12</td><td>Récupérer 10 mandarines</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>13</td><td>Ouvrir 5 caisses d’Arlong Park</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>14</td><td>Casser 256 pommes de terre</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr><tr><td>15</td><td>Casser 128 bûches de sapin</td><td>10 000 Berrys • 250 Mandarines • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Arlong Park</mark>
 
 La <mark style="color:yellow;">**Caisse Arlong Park**</mark> s'obtient en l'achetant au prix de <mark style="color:orange;">**1.000 Mandarines**</mark>.
