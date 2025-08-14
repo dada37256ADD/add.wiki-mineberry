@@ -80,6 +80,12 @@ Chef du Baroque Works et maître du désert, Crocodile est l’un des 7 Corsaire
 | <mark style="color:yellow;">**Essence des Sables**</mark>   | Utilisable pour le fruit correspondant |
 | <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur             |
 
+## <mark style="color:orange;">Succès d’île – Royaume d’Alabasta</mark>
+
+Pour progresser dans les terres arides et hostiles du <mark style="color:yellow;">**Royaume d’Alabasta**</mark> et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 14 succès.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Albâtres**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de pirate et débloquer l’accès à Grand Line.
+
 ## <mark style="color:orange;">Caisse Alabasta</mark>
 
 La <mark style="color:yellow;">**Caisse Alabasta**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Albâtres**</mark>.
