@@ -68,7 +68,6 @@ Explorez le <mark style="color:yellow;">**`/jobs`**</mark> pour suivre <mark sty
 Voici les commandes à connaître pour <mark style="color:yellow;">**gérer vos métiers**</mark> :&#x20;
 
 * <mark style="color:yellow;">**`/jobs`**</mark> - Commande pour ouvrir le menu des métiers.
-* <mark style="color:yellow;">**`/jobs info [Métier]`**</mark> - Commande pour voir les informations d'un métier.
 * <mark style="color:yellow;">**`/jobs stats {Pseudo}`**</mark> - Commande pour afficher ses niveaux de métier ou ceux d'un joueur.
 
 {% hint style="success" %}

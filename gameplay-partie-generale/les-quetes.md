@@ -6,6 +6,10 @@ description: Retrouvez ici toutes les informations concernant les parchemins
 
 Les <mark style="color:yellow;">**parchemins**</mark> sont des objets spéciaux que vous pouvez obtenir tout au long de votre aventure sur <mark style="color:yellow;">**MinePiece**</mark>. Ils représentent des <mark style="color:yellow;">**quêtes temporaires**</mark> à accomplir dans un temps limité, en échange de <mark style="color:yellow;">**récompenses exclusives**</mark>.
 
+{% hint style="success" %}
+Utilisez la commande <mark style="color:yellow;">**`/quests`**</mark> pour avoir un aperçu des différentes récompenses selon la rareté du parchemin.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-23 à 15.53.41.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Où obtenir des parchemins ?</mark>
@@ -42,109 +46,109 @@ Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour l
 
 ### <mark style="color:green;">Parchemin Facile – Récompenses possibles :</mark>
 
-* <mark style="color:green;background-color:green;">Parchemin Avancé</mark>
-* <mark style="color:green;background-color:green;">Bloc de fer x8</mark>
-* <mark style="color:green;background-color:green;">Bloc de lapis-lazuli x4</mark>
-* <mark style="color:green;background-color:green;">Bloc de diamant x1</mark>
-* <mark style="color:green;background-color:green;">1.500 Berrys</mark>
-* <mark style="color:green;background-color:green;">2.000 Berrys</mark>
-* <mark style="color:green;background-color:green;">3.000 Berrys</mark>
-* <mark style="color:green;background-color:green;">3.500 Berrys</mark>
-* <mark style="color:green;background-color:green;">4.000 Berrys</mark>
-* <mark style="color:green;background-color:green;">5.000 Berrys</mark>
-* <mark style="color:green;background-color:green;">Bonbon à la pomme x1</mark>
-* <mark style="color:green;background-color:green;">Livre de poche x1</mark>
-* <mark style="color:green;background-color:green;">Petit cristal x3</mark>
-* <mark style="color:green;background-color:green;">Familier aléatoire Commun x1</mark>
-* <mark style="color:green;background-color:green;">Berry de Bronze</mark>
+* <mark style="color:green;">**Parchemin Avancé**</mark>
+* <mark style="color:green;">**Bloc de fer x8**</mark>
+* <mark style="color:green;">**Bloc de lapis-lazuli x4**</mark>
+* <mark style="color:green;">**Bloc de diamant x1**</mark>
+* <mark style="color:green;">**1.500 Berrys**</mark>
+* <mark style="color:green;">**2.000 Berrys**</mark>
+* <mark style="color:green;">**3.000 Berrys**</mark>
+* <mark style="color:green;">**3.500 Berrys**</mark>
+* <mark style="color:green;">**4.000 Berrys**</mark>
+* <mark style="color:green;">**5.000 Berrys**</mark>
+* <mark style="color:green;">**Bonbon à la pomme x1**</mark>
+* <mark style="color:green;">**Livre de poche x1**</mark>
+* <mark style="color:green;">**Petit cristal x3**</mark>
+* <mark style="color:green;">**Familier aléatoire Commun x1**</mark>
+* <mark style="color:green;">**Berry de Bronze**</mark>
 
 ***
 
 ### <mark style="color:blue;">Parchemin Avancé – Récompenses possibles :</mark>&#x20;
 
-* <mark style="color:blue;background-color:blue;">Parchemin Difficile</mark>
-* <mark style="color:blue;background-color:blue;">Bloc de diamant x4</mark>
-* <mark style="color:blue;background-color:blue;">5 Gemmes</mark>
-* <mark style="color:blue;background-color:blue;">2.000 Berrys</mark>
-* <mark style="color:blue;background-color:blue;">4.500 Berrys</mark>
-* <mark style="color:blue;background-color:blue;">4.750 Berrys</mark>
-* <mark style="color:blue;background-color:blue;">8.250 Berrys</mark>
-* <mark style="color:blue;background-color:blue;">9.500 Berrys</mark>
-* <mark style="color:blue;background-color:blue;">10.000 Berrys</mark>
-* <mark style="color:blue;background-color:blue;">Bonbon à la myrtille x1</mark>
-* <mark style="color:blue;background-color:blue;">Livre de poche x6</mark>
-* <mark style="color:blue;background-color:blue;">Petit cristal x2</mark>
-* <mark style="color:blue;background-color:blue;">Tête de Wither squelette x2</mark>
-* <mark style="color:blue;background-color:blue;">Carapace de shulker x2</mark>
-* <mark style="color:blue;background-color:blue;">Essence aléatoire Rare x1</mark>
-* <mark style="color:blue;background-color:blue;">Familier aléatoire Rare x1</mark>
-* <mark style="color:blue;background-color:blue;">Berry d’Argent</mark>
+* <mark style="color:blue;">**Parchemin Difficile**</mark>
+* <mark style="color:blue;">**Bloc de diamant x4**</mark>
+* <mark style="color:blue;">**5 Gemmes**</mark>
+* <mark style="color:blue;">**2.000 Berrys**</mark>
+* <mark style="color:blue;">**4.500 Berrys**</mark>
+* <mark style="color:blue;">**4.750 Berrys**</mark>
+* <mark style="color:blue;">**8.250 Berrys**</mark>
+* <mark style="color:blue;">**9.500 Berrys**</mark>
+* <mark style="color:blue;">**10.000 Berrys**</mark>
+* <mark style="color:blue;">**Bonbon à la myrtille x1**</mark>
+* <mark style="color:blue;">**Livre de poche x6**</mark>
+* <mark style="color:blue;">**Petit cristal x2**</mark>
+* <mark style="color:blue;">**Tête de Wither squelette x2**</mark>
+* <mark style="color:blue;">**Carapace de shulker x2**</mark>
+* <mark style="color:blue;">**Essence aléatoire Rare x1**</mark>
+* <mark style="color:blue;">**Familier aléatoire Rare x1**</mark>
+* <mark style="color:blue;">**Berry d’Argent**</mark>
 
 ***
 
 ### <mark style="color:purple;">Parchemin Difficile – Récompenses possibles :</mark>
 
-* <mark style="color:purple;background-color:purple;">Parchemin Expert</mark>
-* <mark style="color:purple;background-color:purple;">Bloc de diamant x8</mark>
-* <mark style="color:purple;background-color:purple;">Lingot de netherite x1</mark>
-* <mark style="color:purple;background-color:purple;">10 Gemmes</mark>
-* <mark style="color:purple;background-color:purple;">Fragment de clé aléatoire x2</mark>
-* <mark style="color:purple;background-color:purple;">35 000 Berrys</mark>
-* <mark style="color:purple;background-color:purple;">50 000 Berrys</mark>
-* <mark style="color:purple;background-color:purple;">60 000 Berrys</mark>
-* <mark style="color:purple;background-color:purple;">75 000 Berrys</mark>
-* <mark style="color:purple;background-color:purple;">80 000 Berrys</mark>
-* <mark style="color:purple;background-color:purple;">90 000 Berrys</mark>
-* <mark style="color:purple;background-color:purple;">Bonbon au raisin x1</mark>
-* <mark style="color:purple;background-color:purple;">Livre de poche x4</mark>
-* <mark style="color:purple;background-color:purple;">Petit cristal x8</mark>
-* <mark style="color:purple;background-color:purple;">Étoile du nether x1</mark>
-* <mark style="color:purple;background-color:purple;">Essence aléatoire Épique x1</mark>
-* <mark style="color:purple;background-color:purple;">Familier aléatoire Épique x1</mark>
-* <mark style="color:purple;background-color:purple;">Berry d’Or</mark>
+* <mark style="color:purple;">**Parchemin Expert**</mark>
+* <mark style="color:purple;">**Bloc de diamant x8**</mark>
+* <mark style="color:purple;">**Lingot de netherite x1**</mark>
+* <mark style="color:purple;">**10 Gemmes**</mark>
+* <mark style="color:purple;">**Fragment de clé aléatoire x2**</mark>
+* <mark style="color:purple;">**35 000 Berrys**</mark>
+* <mark style="color:purple;">**50 000 Berrys**</mark>
+* <mark style="color:purple;">**60 000 Berrys**</mark>
+* <mark style="color:purple;">**75 000 Berrys**</mark>
+* <mark style="color:purple;">**80 000 Berrys**</mark>
+* <mark style="color:purple;">**90 000 Berrys**</mark>
+* <mark style="color:purple;">**Bonbon au raisin x1**</mark>
+* <mark style="color:purple;">**Livre de poche x4**</mark>
+* <mark style="color:purple;">**Petit cristal x8**</mark>
+* <mark style="color:purple;">**Étoile du nether x1**</mark>
+* <mark style="color:purple;">**Essence aléatoire Épique x1**</mark>
+* <mark style="color:purple;">**Familier aléatoire Épique x1**</mark>
+* <mark style="color:purple;">**Berry d’Or**</mark>
 
 ***
 
 ### <mark style="color:yellow;">Parchemin Expert – Récompenses possibles :</mark>
 
-* <mark style="color:yellow;background-color:yellow;">Parchemin Impossible</mark>
-* <mark style="color:yellow;background-color:yellow;">Lingot de netherite x4</mark>
-* <mark style="color:yellow;background-color:yellow;">10 Gemmes</mark>
-* <mark style="color:yellow;background-color:yellow;">20 Gemmes</mark>
-* <mark style="color:yellow;background-color:yellow;">Fragment de clé aléatoire x8</mark>
-* <mark style="color:yellow;background-color:yellow;">50.000 Berrys</mark>
-* <mark style="color:yellow;background-color:yellow;">100.000 Berrys</mark>
-* <mark style="color:yellow;background-color:yellow;">150.000 Berrys</mark>
-* <mark style="color:yellow;background-color:yellow;">175.000 Berrys</mark>
-* <mark style="color:yellow;background-color:yellow;">250.000 Berrys</mark>
-* <mark style="color:yellow;background-color:yellow;">Bonbon à l’orange x2</mark>
-* <mark style="color:yellow;background-color:yellow;">Livre ancien x3</mark>
-* <mark style="color:yellow;background-color:yellow;">Cristal x6</mark>
-* <mark style="color:yellow;background-color:yellow;">Ticket impel down x1</mark>
-* <mark style="color:yellow;background-color:yellow;">Essence aléatoire Légendaire x1</mark>
-* <mark style="color:yellow;background-color:yellow;">Familier aléatoire Légendaire x1</mark>
-* <mark style="color:yellow;background-color:yellow;">Berry de Platine</mark>
+* <mark style="color:yellow;">**Parchemin Impossible**</mark>
+* <mark style="color:yellow;">**Lingot de netherite x4**</mark>
+* <mark style="color:yellow;">**10 Gemmes**</mark>
+* <mark style="color:yellow;">**20 Gemmes**</mark>
+* <mark style="color:yellow;">**Fragment de clé aléatoire x8**</mark>
+* <mark style="color:yellow;">**50.000 Berrys**</mark>
+* <mark style="color:yellow;">**100.000 Berrys**</mark>
+* <mark style="color:yellow;">**150.000 Berrys**</mark>
+* <mark style="color:yellow;">**175.000 Berrys**</mark>
+* <mark style="color:yellow;">**250.000 Berrys**</mark>
+* <mark style="color:yellow;">**Bonbon à l’orange x2**</mark>
+* <mark style="color:yellow;">**Livre ancien x3**</mark>
+* <mark style="color:yellow;">**Cristal x6**</mark>
+* <mark style="color:yellow;">**Ticket impel down x1**</mark>
+* <mark style="color:yellow;">**Essence aléatoire Légendaire x1**</mark>
+* <mark style="color:yellow;">**Familier aléatoire Légendaire x1**</mark>
+* <mark style="color:yellow;">**Berry de Platine**</mark>
 
 ***
 
 ### <mark style="color:red;">Parchemin Impossible – Récompenses possibles :</mark>
 
-* <mark style="color:red;background-color:red;">Bloc de netherite x1</mark>
-* <mark style="color:red;background-color:red;">20 Gemmes</mark>
-* <mark style="color:red;background-color:red;">50 Gemmes</mark>
-* <mark style="color:red;background-color:red;">Clé aléatoire x1</mark>
-* <mark style="color:red;background-color:red;">100.000 Berrys</mark>
-* <mark style="color:red;background-color:red;">200.000 Berrys</mark>
-* <mark style="color:red;background-color:red;">300.000 Berrys</mark>
-* <mark style="color:red;background-color:red;">350.000 Berrys</mark>
-* <mark style="color:red;background-color:red;">500.000 Berrys</mark>
-* <mark style="color:red;background-color:red;">Bonbon à la fraise x2</mark>
-* <mark style="color:red;background-color:red;">Livre enchanté x2</mark>
-* <mark style="color:red;background-color:red;">Cristal enchanté x4</mark>
-* <mark style="color:red;background-color:red;">Ticket impel down x2</mark>
-* <mark style="color:red;background-color:red;">Essence aléatoire Mythique x1</mark>
-* <mark style="color:red;background-color:red;">Familier aléatoire Mythique x1</mark>
-* <mark style="color:red;background-color:red;">Berry Démoniaque</mark>
+* <mark style="color:red;">**Bloc de netherite x1**</mark>
+* <mark style="color:red;">**20 Gemmes**</mark>
+* <mark style="color:red;">**50 Gemmes**</mark>
+* <mark style="color:red;">**Clé aléatoire x1**</mark>
+* <mark style="color:red;">**100.000 Berrys**</mark>
+* <mark style="color:red;">**200.000 Berrys**</mark>
+* <mark style="color:red;">**300.000 Berrys**</mark>
+* <mark style="color:red;">**350.000 Berrys**</mark>
+* <mark style="color:red;">**500.000 Berrys**</mark>
+* <mark style="color:red;">**Bonbon à la fraise x2**</mark>
+* <mark style="color:red;">**Livre enchanté x2**</mark>
+* <mark style="color:red;">**Cristal enchanté x4**</mark>
+* <mark style="color:red;">**Ticket impel down x2**</mark>
+* <mark style="color:red;">**Essence aléatoire Mythique x1**</mark>
+* <mark style="color:red;">**Familier aléatoire Mythique x1**</mark>
+* <mark style="color:red;">**Berry Démoniaque**</mark>
 
 {% hint style="success" %}
 N'oubliez pas : plus la difficulté est grande, plus les récompenses sont précieuses…&#x20;

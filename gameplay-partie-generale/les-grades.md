@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant les grades
 
 Des <mark style="color:yellow;">**grades achetables**</mark> avec des <mark style="color:green;">**Gemmes**</mark> ou <mark style="color:yellow;">**obtenables**</mark> dans les <mark style="color:yellow;">**Caisses**</mark> sont <mark style="color:yellow;">**disponibles**</mark> sur le serveur <mark style="color:yellow;">**MinePiece**</mark>.
 
-Pour les acquérir, il vous suffit d'<mark style="color:yellow;">**acheter**</mark> des <mark style="color:green;">**Gemmes**</mark> sur la [<mark style="color:yellow;">**Boutique du Serveur**</mark>](https://store.mineberry.fr) ou d'en gagner durant les <mark style="color:yellow;">**événements**</mark>.
+Pour les acquérir, il vous suffit d'<mark style="color:yellow;">**acheter**</mark> des <mark style="color:green;">**Gemmes**</mark> sur la [<mark style="color:yellow;">**Boutique du Serveur**</mark>](https://minepiece.net/fr/store/) ou d'en gagner durant les <mark style="color:yellow;">**événements**</mark>.
 
 En faisant la commande <mark style="color:yellow;">**`/boutique`**</mark> un menu s'ouvrira dans lequel vous pourrez <mark style="color:yellow;">**acheter**</mark> votre <mark style="color:yellow;">**grade**</mark>.
 
@@ -18,7 +18,7 @@ Si vous <mark style="color:yellow;">**achetez un grade**</mark>, le <mark style=
 
 ## <mark style="color:orange;">Grades</mark>&#x20;
 
-### <mark style="color:orange;">Portgas</mark>
+### <mark style="color:orange;">Portgas D.</mark>
 
 <mark style="color:yellow;">**Coût**</mark>**&#x20;:** <mark style="color:green;">**1 900 Gemmes**</mark>
 
@@ -38,7 +38,7 @@ Si vous <mark style="color:yellow;">**achetez un grade**</mark>, le <mark style=
 
 ***
 
-### <mark style="color:orange;">Trafalgar</mark>
+### <mark style="color:orange;">Trafalgar D.</mark>
 
 <mark style="color:yellow;">**Coût**</mark>**&#x20;:** <mark style="color:green;">**4 900 Gemmes**</mark>
 
@@ -63,7 +63,7 @@ Si vous <mark style="color:yellow;">**achetez un grade**</mark>, le <mark style=
 
 ***
 
-### <mark style="color:orange;">Monkey</mark>
+### <mark style="color:orange;">Monkey D.</mark>
 
 <mark style="color:yellow;">**Coût**</mark>**&#x20;:** <mark style="color:green;">**7 900 Gemmes**</mark>
 
@@ -83,5 +83,3 @@ Si vous <mark style="color:yellow;">**achetez un grade**</mark>, le <mark style=
 * <mark style="color:yellow;">**+1 ticket Impel Down**</mark>
 * Temps d’<mark style="color:yellow;">**AFK autorisé : 1 heure**</mark>
 * <mark style="color:yellow;">**Avantages des grades précédents inclus**</mark>
-
-***
