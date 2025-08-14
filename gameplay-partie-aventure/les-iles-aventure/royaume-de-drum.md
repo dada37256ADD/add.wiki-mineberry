@@ -43,9 +43,9 @@ Souverain tyrannique et utilisateur du <mark style="color:yellow;">**Fruit du Gl
 
 ## <mark style="color:orange;">Succès d’île – Royaume de Drum</mark>
 
-Pour progresser sur l’île enneigée du <mark style="color:yellow;">**Royaume de Dru**</mark>**m** et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 13 succès.
+Pour progresser sur l’île enneigée du <mark style="color:yellow;">**Royaume de Drum**</mark> et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 13 succès.
 
-Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Flocons de Neige**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de pirate et débloquer l’accès à Grand Line.
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Flocons de Neige**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de commandant et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
 
 ### <mark style="color:orange;">Liste des succès</mark>
 
