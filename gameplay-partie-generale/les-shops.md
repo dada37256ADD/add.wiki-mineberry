@@ -41,6 +41,10 @@ Accédez-y avec : <mark style="color:yellow;">**`/ah`**</mark>
 * <mark style="color:yellow;">**Fruits du démon**</mark> : tous les fruits disponibles à l’achat.
 * <mark style="color:yellow;">**Bateaux**</mark> : navires et composants associés.
 
+{% hint style="success" %}
+<mark style="color:yellow;">**Astuce**</mark> : vous pouvez également estimer le prix de vente de votre objet avec <mark style="color:yellow;">**`/ah average`**</mark> (en tenant l’item en main) afin de connaître son prix moyen de revente sur le serveur.
+{% endhint %}
+
 ### <mark style="color:orange;">Boutons Essentiels en haut du menu :</mark>&#x20;
 
 1. <mark style="color:yellow;">**Historique des ventes**</mark> : consultez vos anciennes ventes ou achats.\
