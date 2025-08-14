@@ -62,7 +62,7 @@ Créateur des zombies de Thriller Bark et maître incontesté des ombres, **Geck
 
 Pour progresser dans l’effrayant domaine de <mark style="color:yellow;">**Thriller Bark**</mark> et récolter des ressources cruciales, vous devrez relever un total de <mark style="color:yellow;">**16 succès**</mark>.
 
-Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Ombres**</mark> (monnaie spécifique à l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour gravir les rangs de pirate et atteindre le <mark style="color:yellow;">**Nouveau Monde**</mark>.
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Ombres**</mark> (monnaie spécifique à l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour gravir les rangs de commandant et atteindre le <mark style="color:yellow;">**Nouveau Monde**</mark>.
 
 ### <mark style="color:orange;">Liste des succès</mark>
 

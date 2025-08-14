@@ -51,7 +51,7 @@ Maître absolu de la foudre et seigneur incontesté des cieux, <mark style="colo
 
 Pour progresser sur l’île céleste de <mark style="color:yellow;">**Skypiea**</mark> et accumuler des ressources précieuses à votre ascension, vous devrez relever une série de 16 succès.
 
-Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Extols**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de **Commandant** et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Extols**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de <mark style="color:yellow;">**Commandant**</mark> et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
 
 ### <mark style="color:orange;">Liste des Succès</mark>
 

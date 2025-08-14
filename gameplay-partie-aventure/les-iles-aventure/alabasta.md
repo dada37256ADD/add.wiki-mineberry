@@ -84,7 +84,7 @@ Chef du Baroque Works et maître du désert, Crocodile est l’un des 7 Corsaire
 
 Pour progresser dans les terres arides et hostiles du <mark style="color:yellow;">**Royaume d’Alabasta**</mark> et accumuler des ressources essentielles à votre ascension, vous devrez relever une série de 14 succès.
 
-Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Albâtres**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de commandant et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Albâtres**</mark> (monnaie spécifique de l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour atteindre le rang de <mark style="color:yellow;">**commandant**</mark> et débloquer l’accès au <mark style="color:yellow;">**Nouveau Monde**</mark>.
 
 ### <mark style="color:orange;">Liste des succès</mark>
 
