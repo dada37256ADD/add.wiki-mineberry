@@ -4,16 +4,46 @@ description: Retrouvez ici toutes les informations concernant les caisses
 
 # 🎁 Les Caisses
 
-Pour ajouter un <mark style="color:yellow;">**aspect aléatoire**</mark> à votre <mark style="color:yellow;">**aventure**</mark>, des <mark style="color:yellow;">**caisses**</mark> sont <mark style="color:yellow;">**disponibles**</mark> sur <mark style="color:yellow;">**MinePiece**</mark>.
+Pour ajouter un <mark style="color:yellow;">**aspect aléatoire**</mark> à votre <mark style="color:yellow;">**aventure**</mark>, des <mark style="color:yellow;">**caisses**</mark> sont <mark style="color:yellow;">**disponibles**</mark> sur <mark style="color:yellow;">**MinePiece**</mark>. Certaines sont <mark style="color:yellow;">**disponibles de manière permanente**</mark> tandis que d'autres ne sont qu'<mark style="color:yellow;">**éphémères**</mark>.
 
-Certaines sont <mark style="color:yellow;">**disponibles de manière permanente**</mark> tandis que d'autres ne sont qu'<mark style="color:yellow;">**éphémères**</mark>.
-
-Pour <mark style="color:yellow;">**ouvrir ces caisses**</mark>, vous devrez vous rendre, <mark style="color:yellow;">**muni d'une clé**</mark>, au <mark style="color:yellow;">**`/spawn`**</mark>. Les <mark style="color:yellow;">**caisses**</mark> se trouveront alors sur <mark style="color:yellow;">**devant vous**</mark>. Elles sont également <mark style="color:yellow;">**dispatchées**</mark> sur les différentes [<mark style="color:orange;">**îles aventure**</mark>](../gameplay-partie-aventure/les-iles-aventure/).
+Pour <mark style="color:yellow;">**ouvrir ces caisses**</mark>, vous devrez vous rendre, <mark style="color:yellow;">**muni d'une clé**</mark>, au <mark style="color:yellow;">**`/spawn`**</mark>. Les <mark style="color:yellow;">**caisses**</mark> se trouveront alors sur <mark style="color:yellow;">**devant vous**</mark>. D'autres caisses sont également <mark style="color:yellow;">**dispatchées**</mark> sur les différentes [<mark style="color:orange;">**îles aventure**</mark>](../gameplay-partie-aventure/les-iles-aventure/) mais celles si s'ouvrent via la <mark style="color:yellow;">**monnaie de l'île aventure**</mark>.
 
 Il existe <mark style="color:yellow;">**différents moyens**</mark> d'obtenir des <mark style="color:yellow;">**clés**</mark> : en les <mark style="color:yellow;">**achetant dans la boutique**</mark> avec des <mark style="color:green;">**Gemmes**</mark>, en <mark style="color:yellow;">**votant pour le serveur**</mark>, ou encore en les <mark style="color:yellow;">**gagnant dans les events**</mark>.
 
 {% hint style="success" %}
 Vous pouvez également récupérer une <mark style="color:yellow;">**clé aléatoire**</mark> (Clé Grand Line ou Clé East Blue) via la commande <mark style="color:yellow;">**`/rewards`**</mark>, après <mark style="color:yellow;">**4 heures de jeu**</mark> dans la même journée _(réinitialisation toutes les 24h)_
+{% endhint %}
+
+## <mark style="color:orange;">Système de Pity des Caisses</mark>
+
+Le système de <mark style="color:yellow;">**pity**</mark> est conçu pour garantir qu’un joueur finira par obtenir une récompense rare même s’il n’a pas de chance sur plusieurs ouvertures consécutives.
+
+En d’autres termes : <mark style="color:yellow;">**plus vous ouvrez de caisses sans obtenir de rareté élevée, plus vos chances augmentent**</mark> à partir d’un certain palier.
+
+### <mark style="color:purple;">Rareté Épique</mark>
+
+La rareté <mark style="color:purple;">**épique**</mark> reste stable tant que les chances de légendaire ou mythique ne sont pas boostées. Si un <mark style="color:purple;">**boost de légendaire ou mythique est actif**</mark>, les chances de l’épique <mark style="color:purple;">**diminuent légèrement**</mark> pour compenser.
+
+### <mark style="color:yellow;">Rareté Légendaire</mark>
+
+Les chances de légendaire commencent à <mark style="color:yellow;">**augmenter après un certain nombre de caisses ouvertes**</mark> sans en obtenir.
+
+Plus vous ouvrez de caisses <mark style="color:yellow;">**au-delà de ce palier**</mark>, plus la <mark style="color:yellow;">**probabilité**</mark> de tomber sur un <mark style="color:yellow;">**légendaire augmente rapidement**</mark>.
+
+Dès qu’un légendaire est <mark style="color:yellow;">**obtenu**</mark> (avec ou sans boost), le compteur est <mark style="color:yellow;">**réinitialisé**</mark>.
+
+### <mark style="color:red;">Rareté Mythique</mark>
+
+Les chances de mythique commencent à <mark style="color:red;">**augmenter à partir d’un palier beaucoup plus élevé**</mark> que pour le légendaire.
+
+À chaque caisse ouverte <mark style="color:red;">**au-delà de ce seuil**</mark>, la probabilité d’obtenir un mythique augmente <mark style="color:red;">**jusqu’à atteindre la certitude**</mark>.
+
+Une fois un mythique <mark style="color:red;">**obtenu**</mark>, le compteur est <mark style="color:red;">**réinitialisé**</mark>.
+
+{% hint style="info" %}
+<mark style="color:yellow;">**En résumé**</mark>**&#x20;:** le système pity vous assure que la malchance ne dure jamais <mark style="color:yellow;">**éternellement**</mark>.&#x20;
+
+Les <mark style="color:yellow;">**joueurs réguliers**</mark> finissent toujours par obtenir des récompenses rares s’ils <mark style="color:yellow;">**persistent**</mark>.
 {% endhint %}
 
 ## <mark style="color:orange;">Caisse Vote</mark>
