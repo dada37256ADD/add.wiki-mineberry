@@ -26,7 +26,7 @@ Chaque monstre vaincu peut vous céder une <mark style="color:yellow;">**Ombre e
 💀 **Attention** : Si vous mourrez, vous perdez **la moitié de vos ombres**.
 {% endhint %}
 
-### <mark style="color:orange;">Taux d</mark>**’obtention d’ombres**
+### <mark style="color:orange;">Taux d</mark><mark style="color:orange;">**’obtention d’ombre**</mark>**s**
 
 * Monstre normal → <mark style="color:yellow;">**1 Ombre**</mark>
 * Mini-boss → <mark style="color:yellow;">**4 Ombres**</mark>
@@ -57,6 +57,16 @@ Créateur des zombies de Thriller Bark et maître incontesté des ombres, **Geck
 | <mark style="color:yellow;">**Familier Moria**</mark>     | 10% de chance de l’obtenir               |
 | <mark style="color:yellow;">**Essence des Ombres**</mark> | Débloque ou améliore le Fruit des Ombres |
 | <mark style="color:yellow;">**Bonbon au Raisin**</mark>   | Dépend du niveau du joueur               |
+
+## <mark style="color:orange;">Succès d’île – Thriller Bark</mark>
+
+Pour progresser dans l’effrayant domaine de <mark style="color:yellow;">**Thriller Bark**</mark> et récolter des ressources cruciales, vous devrez relever un total de <mark style="color:yellow;">**16 succès**</mark>.
+
+Chaque succès complété vous récompensera en <mark style="color:yellow;">**Berrys**</mark>, en <mark style="color:yellow;">**Ombres**</mark> (monnaie spécifique à l’île) et en <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour gravir les rangs de pirate et atteindre le <mark style="color:yellow;">**Nouveau Monde**</mark>.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table data-header-hidden><thead><tr><th width="50.30859375"></th><th width="212.9140625"></th><th></th></tr></thead><tbody><tr><td><strong>#</strong></td><td><strong>Objectif</strong></td><td><strong>Récompenses</strong></td></tr><tr><td>1</td><td>Tuer 240 zombies</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>2</td><td>Tuer 480 zombies</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>3</td><td>Tuer 15 Ryuma</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>4</td><td>Tuer 15 Laura</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>5</td><td>Vaincre 5 Perona</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>6</td><td>Vaincre 5 Oz</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>7</td><td>Vaincre 5 Moria</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>8</td><td>Obtenir 60 ombres (item)</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>9</td><td>Obtenir 6 écharpes de Ryuma</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>10</td><td>Obtenir 6 voiles de mariage de Laura</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>11</td><td>Obtenir 10 fragments des ombres</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>12</td><td>Obtenir 10 ombres errantes</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>13</td><td>Obtenir 500 ombres errantes</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>14</td><td>Ouvrir 5 caisses de Thriller Bark</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>15</td><td>Casser 2024 tiges carmin</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr><tr><td>16</td><td>Casser 4048 verrues du Nether</td><td>50 000 Berrys • 500 Ombres • 10 Points de Dangerosité</td></tr></tbody></table>
 
 ## <mark style="color:orange;">Caisse Thriller Bark</mark>&#x20;
 
