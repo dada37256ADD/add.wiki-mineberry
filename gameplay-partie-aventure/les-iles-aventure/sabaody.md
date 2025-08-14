@@ -45,6 +45,16 @@ L’un des <mark style="color:yellow;">**Sept Grands Corsaires**</mark>, Kuma es
 | <mark style="color:yellow;">**Essence des Coussinets**</mark> | Débloque ou améliore le Fruit des Ombres |
 | <mark style="color:yellow;">**Bonbon au Raisin**</mark>       | Dépend du niveau du joueur               |
 
+## <mark style="color:orange;">Succès d’île – Sabaody</mark>
+
+Pour progresser sur l’Archipel des <mark style="color:yellow;">**Sabaody**</mark> et continuer votre route vers le <mark style="color:yellow;">**Nouveau Monde**</mark>, vous devrez relever 15 succès aux défis variés.
+
+Chaque objectif accompli vous rapportera des <mark style="color:yellow;">**Berrys**</mark>, des <mark style="color:yellow;">**Bulles**</mark> (monnaie locale) ainsi que des <mark style="color:yellow;">**Points de Dangerosité**</mark>, indispensables pour affirmer votre statut de <mark style="color:yellow;">**Commandant**</mark> et débloquer l’accès aux zones les plus périlleuses de Grand Line.
+
+### <mark style="color:orange;">Liste des succès</mark>
+
+<table><thead><tr><th width="55.17578125">#</th><th width="215.97265625">Objectif</th><th>Récompenses</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Tuer 280 marines</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>2</strong></td><td>Tuer 560 marines</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>3</strong></td><td>Tuer 16 Sentomaru</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>4</strong></td><td>Tuer 16 Pacifista</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>5</strong></td><td>Vaincre 6 Eustass Kid</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>6</strong></td><td>Vaincre 6 Kuma</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>7</strong></td><td>Obtenir 65 coussinets de Kuma</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>8</strong></td><td>Obtenir 7 ceintures de Sentomaru</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>9</strong></td><td>Obtenir 7 boulons</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>10</strong></td><td>Obtenir 10 fragments des Bulles</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>11</strong></td><td>Participer à 5 enchères</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>12</strong></td><td>Acheter 2 objets aux enchères</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>13</strong></td><td>Ouvrir 5 caisses de Sabaody</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>14</strong></td><td>Casser 1 024 minerais de redstone</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr><tr><td><strong>15</strong></td><td>Casser 4 048 cannes à sucre</td><td>75 000 Berrys • 500 Bulles • 10 Points de Dangerosité</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Caisse Sabaody</mark>
 
 La <mark style="color:yellow;">**Caisse Sabaody**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Bulles**</mark>.
