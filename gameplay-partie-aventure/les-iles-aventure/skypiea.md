@@ -59,7 +59,7 @@ Chaque succès complété vous récompensera en <mark style="color:yellow;">**Be
 
 ## <mark style="color:orange;">Caisse Skypiea</mark>
 
-La <mark style="color:yellow;">**Caisse Jaya**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Extols**</mark>.
+La <mark style="color:yellow;">**Caisse Skypiea**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Extols**</mark>.
 
 |                                 Récompenses                                 | Taux de Drop |
 | :-------------------------------------------------------------------------: | :----------: |
