@@ -162,6 +162,7 @@ Mettre des caractères spéciaux dans le nom d'une île peut causer des soucis a
 * <mark style="color:yellow;">**`/is unban [Pseudo]`**</mark> - Commande pour débannir un joueur de son île
 * <mark style="color:yellow;">**`/is permissons {Reset}`**</mark> - Commande pour modifier/réinitialiser les permissions de son île
 * <mark style="color:yellow;">**`/is permissons [Pseudo] {Reset}`**</mark> - Commande pour modifier/réinitialiser les permissions d'un joueur de son île
+* <mark style="color:yellow;">**`/is limit`**</mark> - Commande pour gérer les différentes limites l'île
 * <mark style="color:yellow;">**`/is reset`**</mark> - Commande pour réinitialiser l'île
 * <mark style="color:yellow;">**`/is sethome`**</mark> - Commande pour déplacer le point de téléportation de l'île
 * <mark style="color:yellow;">**`/is settings`**</mark> - Commande pour modifier les paramètres de l'île

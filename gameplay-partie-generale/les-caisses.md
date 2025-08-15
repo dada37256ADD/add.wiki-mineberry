@@ -14,6 +14,8 @@ Il existe <mark style="color:yellow;">**différents moyens**</mark> d'obtenir de
 Vous pouvez également récupérer une <mark style="color:yellow;">**clé aléatoire**</mark> (Clé Grand Line ou Clé East Blue) via la commande <mark style="color:yellow;">**`/rewards`**</mark>, après <mark style="color:yellow;">**4 heures de jeu**</mark> dans la même journée _(réinitialisation toutes les 24h)_
 {% endhint %}
 
+Au fil de votre aventure, vous pourrez récupérer des <mark style="color:yellow;">**fragments de clé**</mark>. Une fois <mark style="color:yellow;">**16 fragments**</mark> réunis, ils se combineront pour former une <mark style="color:yellow;">**clé fonctionnelle**</mark>.
+
 ## <mark style="color:orange;">Système de Pity des Caisses</mark>
 
 Le système de <mark style="color:yellow;">**pity**</mark> est conçu pour garantir qu’un joueur finira par obtenir une récompense rare même s’il n’a pas de chance sur plusieurs ouvertures consécutives.
