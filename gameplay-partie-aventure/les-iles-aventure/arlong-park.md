@@ -12,7 +12,7 @@ Sur cette île, vous trouverez :
 
 * De nouveaux ennemis puissants à affronter, dont plusieurs mini-boss
 * Une <mark style="color:yellow;">**monnaie locale**</mark>, les <mark style="color:yellow;">**mandarines**</mark>, obtenues en tuant les ennemis de l’île
-* Des <mark style="color:yellow;">**plantations de mandarines**</mark> à récolter, une <mark style="color:yellow;">**ressource agricole**</mark> qui vous permettra <mark style="color:yellow;">**d’améliorer vos statistiques**</mark>
+* Des <mark style="color:yellow;">**plantations de mandarines**</mark> à récolter, une <mark style="color:yellow;">**ressource**</mark> qui vous permettra <mark style="color:yellow;">**d’améliorer vos statistiques**</mark>
 * Un <mark style="color:yellow;">**boss à invoquer**</mark>**,** Arlong lui-même
 * Un <mark style="color:yellow;">**ponéglyphe**</mark> à découvrir pour débloquer la téléportation rapide via <mark style="color:yellow;">**`/aventure`**</mark>
 
@@ -22,7 +22,7 @@ Ici, chaque victoire compte, et chaque erreur se paie cher.
 
 Sur les hauteurs d’Arlong Park, non loin de la tombe de la mère adoptive de Nami, vous découvrirez des <mark style="color:yellow;">**plantations de mandarines**</mark> prêtes à être récoltées.
 
-Ces mandarines sont <mark style="color:yellow;">**distinctes de la monnaie de l’île**</mark> (également appelée “mandarines”), et constituent une <mark style="color:yellow;">**ressource agricole unique**</mark> aux propriétés surprenantes.
+Ces mandarines sont <mark style="color:yellow;">**distinctes de la monnaie de l’île**</mark> (également appelée “mandarines”), et constituent une <mark style="color:yellow;">**ressource unique**</mark> aux propriétés surprenantes.
 
 * <mark style="color:orange;">**Mandarines de base**</mark> : fraîchement récoltées, elles sont de <mark style="color:yellow;">**rareté commune**</mark> et offrent un <mark style="color:yellow;">**bonus temporaire de régénération de +10% pendant 30 minutes**</mark> lorsqu’elles sont consommées.
 * <mark style="color:orange;">**Synthétisation**</mark> : grâce à une <mark style="color:yellow;">**machine spéciale**</mark> vendue par la sœur de Nami (coût <mark style="color:yellow;">:</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**50 000 Berrys**</mark>), vous pourrez combiner <mark style="color:yellow;">**deux mandarines**</mark> pour tenter d’en créer une <mark style="color:yellow;">**de tier supérieur**</mark>.
@@ -34,7 +34,7 @@ Ces mandarines peuvent aussi être :
 
 * <mark style="color:yellow;">**Utilisées dans des recettes avancées**</mark> en cuisine, notamment sur l’île de Baratie
 
-C’est une activité particulièrement rentable pour les joueurs souhaitant progresser dans le métier de <mark style="color:yellow;">**Fermier**</mark>, tout en <mark style="color:yellow;">**boostant leur puissance**</mark> à long terme.
+C’est une activité particulièrement rentable pour les joueurs souhaitant <mark style="color:yellow;">**booster leur puissance**</mark> à long terme.
 
 ## <mark style="color:orange;">Ennemis et butin</mark>
 

@@ -28,6 +28,22 @@ Vous pouvez booster l’expérience de votre arme en <mark style="color:yellow;"
 
 Les armes inutilisées peuvent être recyclées pour obtenir de l’XP d’arme. Plus la <mark style="color:yellow;">**rareté**</mark> de l’arme est élevée, plus l’expérience obtenue sera importante.
 
+## <mark style="color:orange;">Outils Évolutifs</mark>
+
+En plus des armes évolutives classiques, il existe des <mark style="color:yellow;">**Outils Évolutifs**</mark>, disponibles notamment lors des <mark style="color:yellow;">**enchères**</mark>.
+
+Ces outils se renforcent progressivement à mesure que vous les utilisez.
+
+<mark style="color:orange;">**Fonctionnement**</mark>
+
+* Chaque utilisation d’un Outil Évolutif vous rapporte des <mark style="color:yellow;">**Points de Palier**</mark>.
+* Ces points permettent de franchir différents <mark style="color:yellow;">**paliers d’amélioration**</mark>.
+* À chaque palier atteint, l’outil voit ses <mark style="color:yellow;">**statistiques**</mark> ou ses <mark style="color:yellow;">**effets renforcés**</mark>.
+
+<mark style="color:orange;">**Exemple**</mark>**&#x20;:**\
+La <mark style="color:yellow;">**Canne à Pêche de Portgas D. Ace**</mark> gagne des points de palier à chaque poisson pêché.\
+En accumulant ces points, vous progressez dans les paliers et rendez l’outil plus performant.
+
 {% hint style="success" %}
 <mark style="color:yellow;">**Astuce**</mark> : Gardez un œil sur votre progression et anticipez les ressources nécessaires aux paliers d’évolution pour ne pas bloquer votre montée en puissance.
 {% endhint %}
