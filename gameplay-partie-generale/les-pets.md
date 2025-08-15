@@ -100,6 +100,30 @@ Un minion commence <mark style="color:yellow;">**au prestige 1**</mark> et peut 
 
 L’amélioration nécessite une <mark style="color:yellow;">**ressource spécifique**</mark> propre à chaque minion (indiquée dans sa fiche sous “Ressource du Minion”).
 
+## <mark style="color:orange;">Fusion des Familiers</mark>
+
+Pour faire évoluer un familier <mark style="color:yellow;">**au-delà du niveau 10**</mark>, vous devez passer par une étape spéciale : la <mark style="color:yellow;">**Fusion**</mark>.
+
+### <mark style="color:orange;">Conditions</mark>
+
+* Posséder <mark style="color:yellow;">**5 exemplaires identiques**</mark> du même familier.
+* Les <mark style="color:yellow;">**5 familiers**</mark> doivent être <mark style="color:yellow;">**au niveau 10**</mark>.
+
+### <mark style="color:orange;">Procédure</mark>
+
+1. Ouvrez le menu des familiers avec la commande : <mark style="color:yellow;">**/pets**</mark>
+2. Faites un <mark style="color:yellow;">**shift + clic**</mark> puis cliquez sur l’icône <mark style="color:yellow;">**Éclair**</mark> pour accéder au <mark style="color:yellow;">**menu de fusion**</mark>.
+3. Placez vos <mark style="color:yellow;">**5 familiers**</mark> dans les emplacements prévus.
+
+{% hint style="danger" %}
+**Seul le familier placé&#x20;**<mark style="color:yellow;">**au centre**</mark>**&#x20;conservera ses statistiques après la fusion**.
+{% endhint %}
+
+### <mark style="color:orange;">Résultats</mark>
+
+* Votre familier pourra désormais progresser <mark style="color:yellow;">**au-delà du niveau 10**</mark>.
+* Certains familiers bénéficieront d’un <mark style="color:yellow;">**skin spécial**</mark> après fusion.
+
 ## <mark style="color:orange;">Types d’Effets</mark>
 
 <mark style="color:orange;">**Effets des familiers**</mark> : statistiques <mark style="color:yellow;">**aléatoires**</mark> composées d’attributs variés, qui évoluent avec le <mark style="color:yellow;">**niveau**</mark>.
