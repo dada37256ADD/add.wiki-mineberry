@@ -32,12 +32,19 @@ Dans les eaux de Baratie, vous aurez l'occasion de pêcher des poissons spécifi
 * <mark style="color:purple;">**Poissons Épiques**</mark> : 7.5%
 * <mark style="color:yellow;">**Poissons Légendaires**</mark> : 2.5%
 
-### <mark style="color:orange;">L</mark><mark style="color:orange;">**iste des poissons disponibles**</mark>
+### <mark style="color:orange;">L</mark><mark style="color:orange;">**iste des poissons disponibles uniquement sur Baratie**</mark>
 
 * <mark style="color:green;">**Commun**</mark> : Crabe
 * <mark style="color:blue;">**Rare**</mark> : Poulpe, Poisson-lion
 * <mark style="color:purple;">**Épique**</mark> : Poisson-papillon, Poisson-combattant
 * <mark style="color:yellow;">**Légendaire**</mark> : Homard
+
+### <mark style="color:orange;">L</mark><mark style="color:orange;">**iste des poissons disponibles sur l'ensemble des eaux**</mark>
+
+* <mark style="color:green;">**Commun**</mark> : Nemo, Carpe, Crabe, Fugu.
+* <mark style="color:blue;">**Rare**</mark> : Jashak, Poisson-Lanterne, Poisson-Lion, Macropinna, Poulpe, Shona.
+* <mark style="color:purple;">**Épique**</mark> : Poisson-papillon, Poisson-combattant, Olludian, Neon Tetra, Perche Jaune, Zancle Cornu.
+* <mark style="color:yellow;">**Légendaire**</mark> : Roi Cachalot, Roi MeuhMeuh, Roi Singe, Roi Raye, Roi Serpant, Hommard.
 
 Pêchez dans les zones prévues autour du navire et améliorez votre rendement en augmentant votre niveau de métier.
 

@@ -77,7 +77,7 @@ Chaque succès complété vous récompensera en <mark style="color:yellow;">**Be
 
 ## <mark style="color:orange;">Caisse Ville Orange</mark>
 
-La <mark style="color:yellow;">**Caisse Ville Orange**</mark> s'obtient en l'achetant au prix de <mark style="color:red;">**1'000 Nez de Clown**</mark>.
+La <mark style="color:yellow;">**Caisse Ville Orange**</mark> s'obtient en l'achetant au prix de <mark style="color:red;">**1.000 Nez de Clown**</mark>.
 
 |                             **Récompenses**                             | **Taux de Drop** |
 | :---------------------------------------------------------------------: | :--------------: |
