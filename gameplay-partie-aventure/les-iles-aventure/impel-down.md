@@ -19,7 +19,7 @@ Votre objectif est clair : <mark style="color:yellow;">**consommer vos tickets d
 
 * Chaque joueur dispose de <mark style="color:yellow;">**3 tickets Impel Down par jour**</mark> (réinitialisés quotidiennement).
 * Un <mark style="color:yellow;">**ticket bonus**</mark> peut être récupéré via le <mark style="color:yellow;">**`/rewards`**</mark>.
-* Vous pouvez explorer les enfers <mark style="color:yellow;">**en solo**</mark> ou <mark style="color:yellow;">**en groupe**</mark>, en créant une équipe avec vos amis grâce à la commande : <mark style="color:yellow;">**`/dungeon party`**</mark>
+* Vous pouvez explorer les enfers <mark style="color:yellow;">**en solo**</mark> ou <mark style="color:yellow;">**en groupe**</mark>, en créant une équipe avec vos amis grâce à la commande : <mark style="color:yellow;">**`/party invite`**</mark>       &#x20;
 
 ## <mark style="color:orange;">Système des donjons</mark>
 

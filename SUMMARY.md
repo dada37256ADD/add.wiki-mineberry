@@ -51,6 +51,6 @@
   * [☁️ Skypiea](gameplay-partie-aventure/les-iles-aventure/skypiea.md)
   * [⚖️ Enies Lobby](gameplay-partie-aventure/les-iles-aventure/enies-lobby.md)
   * [👹 Thriller Bark](gameplay-partie-aventure/les-iles-aventure/thriller-bark.md)
-  * [♀️ Amazon Lily](gameplay-partie-aventure/les-iles-aventure/amazon-lily.md)
   * [🌳 Sabaody](gameplay-partie-aventure/les-iles-aventure/sabaody.md)
+  * [♀️ Amazon Lily](gameplay-partie-aventure/les-iles-aventure/amazon-lily.md)
   * [⛓️ Impel Down](gameplay-partie-aventure/les-iles-aventure/impel-down.md)
