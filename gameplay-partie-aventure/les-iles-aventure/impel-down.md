@@ -15,11 +15,36 @@ Contrairement aux autres zones, <mark style="color:yellow;">**Impel Down**</mark
 
 Votre objectif est clair : <mark style="color:yellow;">**consommer vos tickets d’accès et compléter les donjons**</mark> pour obtenir des récompenses uniques, idéales pour améliorer vos objets et renforcer votre puissance.
 
-## <mark style="color:orange;">Fonctionnement</mark>
+## <mark style="color:orange;">Tickets Impel Down</mark>
 
-* Chaque joueur dispose de <mark style="color:yellow;">**3 tickets Impel Down par jour**</mark> (réinitialisés quotidiennement).
-* Un <mark style="color:yellow;">**ticket bonus**</mark> peut être récupéré via le <mark style="color:yellow;">**`/rewards`**</mark>.
-* Vous pouvez explorer les enfers <mark style="color:yellow;">**en solo**</mark> ou <mark style="color:yellow;">**en groupe**</mark>, en créant une équipe avec vos amis grâce à la commande : <mark style="color:yellow;">**`/party invite`**</mark>       &#x20;
+Les tickets sont nécessaires pour participer à l’<mark style="color:yellow;">**événement Impel Down**</mark>.\
+Ils peuvent être obtenus de plusieurs manières en fonction de votre rang, grade, statut premium ou via les récompenses quotidiennes.
+
+### <mark style="color:orange;">Rangs – 3 Tickets</mark>
+
+* <mark style="color:yellow;">**Recrue**</mark> : +1 Ticket
+* <mark style="color:yellow;">**Capitaine**</mark> : +1 Ticket
+* <mark style="color:yellow;">**Corsaire**</mark> : +1 Ticket
+
+### <mark style="color:orange;">Grades – 2 Tickets</mark>
+
+* <mark style="color:yellow;">**Trafalgar**</mark> : +1 Ticket
+* <mark style="color:yellow;">**Monkey D**</mark> : +1 Ticket
+
+### <mark style="color:orange;">Premium – 2 Tickets</mark>
+
+* <mark style="color:yellow;">**Premium**</mark> : +1 Ticket
+* <mark style="color:yellow;">**Premium Boost**</mark> : +1 Ticket
+
+### <mark style="color:orange;">Rewards – 1 Ticket</mark>&#x20;
+
+* <mark style="color:yellow;">**8ème récompense quotidienne**</mark> : +1 Ticket
+
+***
+
+#### <mark style="color:orange;">Total possible</mark> : <mark style="color:yellow;">**8 Tickets**</mark>
+
+Vous pouvez explorer les enfers <mark style="color:yellow;">**en solo**</mark> ou <mark style="color:yellow;">**en groupe**</mark>, en créant une équipe avec vos amis grâce à la commande : <mark style="color:yellow;">**`/party invite`**</mark>       &#x20;
 
 ## <mark style="color:orange;">Système des donjons</mark>
 
