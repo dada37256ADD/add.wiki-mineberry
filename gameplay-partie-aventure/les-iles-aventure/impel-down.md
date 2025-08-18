@@ -44,7 +44,28 @@ Ils peuvent être obtenus de plusieurs manières en fonction de votre rang, grad
 
 #### <mark style="color:orange;">Total possible</mark> : <mark style="color:yellow;">**8 Tickets**</mark>
 
-Vous pouvez explorer les enfers <mark style="color:yellow;">**en solo**</mark> ou <mark style="color:yellow;">**en groupe**</mark>, en créant une équipe avec vos amis grâce à la commande : <mark style="color:yellow;">**`/party invite`**</mark>       &#x20;
+Vous pouvez explorer les enfers <mark style="color:yellow;">**en solo**</mark> ou <mark style="color:yellow;">**en groupe**</mark>, en créant une équipe avec vos amis grâce à la commande : <mark style="color:yellow;">**`/party invite`**</mark>&#x20;
+
+## <mark style="color:orange;">Commande</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`/loot`</mark>
+
+La commande <mark style="color:yellow;">**`/loot`**</mark> vous permet de convertir vos loots issus d’<mark style="color:yellow;">**Impel Down**</mark> et des <mark style="color:yellow;">**zones aventures**</mark> en objets de rareté supérieure.
+
+### <mark style="color:orange;">Escargophones</mark>
+
+<table><thead><tr><th width="177.6796875">Quantité requise</th><th>Rareté initiale</th><th>Rareté obtenue</th></tr></thead><tbody><tr><td>10</td><td><mark style="color:green;"><strong>Commun</strong></mark></td><td><mark style="color:blue;"><strong>Rare</strong></mark></td></tr><tr><td>10</td><td><mark style="color:blue;"><strong>Rare</strong></mark></td><td><mark style="color:purple;"><strong>Épique</strong></mark></td></tr><tr><td>10</td><td><mark style="color:purple;"><strong>Épique</strong></mark></td><td><mark style="color:yellow;"><strong>Légendaire</strong></mark></td></tr><tr><td>10</td><td><mark style="color:yellow;"><strong>Légendaire</strong></mark></td><td><mark style="color:red;"><strong>Mythique</strong></mark></td></tr></tbody></table>
+
+### <mark style="color:orange;">Balles de Baggy</mark>
+
+| Quantité requise | Rareté initiale                                   | Rareté obtenue                                    |
+| ---------------- | ------------------------------------------------- | ------------------------------------------------- |
+| 32               | <mark style="color:green;">**Commun**</mark>      | <mark style="color:blue;">**Rare**</mark>         |
+| 32               | <mark style="color:blue;">**Rare**</mark>         | <mark style="color:purple;">**Épique**</mark>     |
+| 32               | <mark style="color:purple;">**Épique**</mark>     | <mark style="color:yellow;">**Légendaire**</mark> |
+| 32               | <mark style="color:yellow;">**Légendaire**</mark> | <mark style="color:red;">**Mythique**</mark>      |
+
+{% hint style="success" %}
+Ce système vous permet de <mark style="color:yellow;">**recycler vos loots en masse**</mark> pour obtenir des objets de <mark style="color:yellow;">**plus grande valeur**</mark>.
+{% endhint %}
 
 ## <mark style="color:orange;">Système des donjons</mark>
 
