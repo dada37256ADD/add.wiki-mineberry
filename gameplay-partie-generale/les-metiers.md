@@ -40,7 +40,7 @@ En progressant dans les métiers, vous obtiendrez potentiellement :
 * Des <mark style="color:yellow;">**améliorations de statistiques**</mark>
 * Des récompenses exclusives selon le métier
 
-Les récompenses sont cumulatives : plus vous avancez dans un métier, plus elles deviennent <mark style="color:yellow;">**précieuses**</mark> et <mark style="color:yellow;">**spécialisées**</mark> pour votre style de jeu (farming, minage, survie, etc.).
+Les récompenses sont cumulatives : plus vous avancez dans un métier, plus elles deviennent <mark style="color:yellow;">**précieuses**</mark> et <mark style="color:yellow;">**spécialisées**</mark> pour votre style de jeu (farming, minage, pêche, etc.).
 
 ## <mark style="color:orange;">Menu</mark>
 

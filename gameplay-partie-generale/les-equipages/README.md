@@ -12,7 +12,7 @@ Votre île vous sera utile pour <mark style="color:yellow;">**stocker**</mark> t
 
 * Si vous souhaitez <mark style="color:yellow;">**créer**</mark> votre propre équipage ou faire votre aventure en solitaire, il vous suffira de faire la commande <mark style="color:yellow;">**`/is create [nom]`**</mark>. Une fois cette commande effectuée, vous serez alors téléporté directement sur <mark style="color:yellow;">**votre île**</mark>, et à vous l'aventure !\
 
-* Si vous souhaitez <mark style="color:yellow;">**rejoindre**</mark> l'équipage d'un <mark style="color:yellow;">**autre joueur**</mark>, celui-ci devra d'abord vous <mark style="color:yellow;">**inviter**</mark> sur son île grâce à la commande <mark style="color:yellow;">**`/is invite [pseudo]`**</mark>. Vous pourrez ensuite alors <mark style="color:yellow;">**accepter**</mark> cette invitation avec la commande <mark style="color:yellow;">**`/is accept [pseudo]`**</mark> ou en cliquant directement dans le <mark style="color:yellow;">**chat**</mark>.
+* Si vous souhaitez <mark style="color:yellow;">**rejoindre**</mark> l'équipage d'un <mark style="color:yellow;">**autre joueur**</mark>, celui-ci devra d'abord vous <mark style="color:yellow;">**inviter**</mark> sur son île grâce à la commande <mark style="color:yellow;">**`/is invite [pseudo]`**</mark>. Vous pourrez ensuite alors <mark style="color:yellow;">**accepter**</mark> cette invitation avec la commande <mark style="color:yellow;">**`/is join [pseudo]`**</mark> ou en cliquant directement dans le <mark style="color:yellow;">**chat**</mark>.
 
 {% hint style="danger" %}
 Afin d'éviter tout abus, vous avez la possibilité de recreér seulement 5 fois votre île sur le serveur.
@@ -58,7 +58,7 @@ Le <mark style="color:yellow;">**2ème**</mark> bouton de la <mark style="color:
 Commandes utiles :
 
 * <mark style="color:yellow;">**`/is setwarp [nom]`**</mark> pour créer un warp
-* <mark style="color:yellow;">**`/pw deletewarp`**</mark> pour le supprimer
+* <mark style="color:yellow;">**`/pw deletewarp [nom]`**</mark> pour le supprimer
 * <mark style="color:yellow;">**`/is warp`**</mark> pour ouvrir directement le menu des warps
 
 ***
@@ -163,11 +163,11 @@ Mettre des caractères spéciaux dans le nom d'une île peut causer des soucis a
 * <mark style="color:yellow;">**`/is permissons {Reset}`**</mark> - Commande pour modifier/réinitialiser les permissions de son île
 * <mark style="color:yellow;">**`/is permissons [Pseudo] {Reset}`**</mark> - Commande pour modifier/réinitialiser les permissions d'un joueur de son île
 * <mark style="color:yellow;">**`/is limit`**</mark> - Commande pour gérer les différentes limites l'île
-* <mark style="color:yellow;">**`/is reset`**</mark> - Commande pour réinitialiser l'île
 * <mark style="color:yellow;">**`/is sethome`**</mark> - Commande pour déplacer le point de téléportation de l'île
 * <mark style="color:yellow;">**`/is settings`**</mark> - Commande pour modifier les paramètres de l'île
-* <mark style="color:yellow;">**`/is transfer [Pseudo]`**</mark> - Commande pour mettre un autre joueur chef de l'île
+* <mark style="color:yellow;">**`/is setleader [Pseudo]`**</mark> - Commande pour mettre un autre joueur chef de l'île
 * <mark style="color:yellow;">**`/is withdraw [Montant]`**</mark> - Commande pour retirer de l'argent de la banque de l'île
+* <mark style="color:yellow;">**`/is deposit [Montant]`**</mark> - Commande pour déposer de l'argent de la banque de l'île
 
 {% hint style="success" %}
 La section sur :island: [<mark style="color:orange;">**Les équipages**</mark>](./) est maintenant terminée.\

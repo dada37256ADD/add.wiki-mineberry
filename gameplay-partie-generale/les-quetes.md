@@ -10,6 +10,8 @@ Les <mark style="color:yellow;">**parchemins**</mark> sont des objets spéciaux 
 Utilisez la commande <mark style="color:yellow;">**`/quests`**</mark> pour avoir un aperçu des différentes récompenses selon la rareté du parchemin.
 {% endhint %}
 
+À noter : les parchemins sont directement liés aux <mark style="color:yellow;">**métiers**</mark>, et permettent donc de progresser ou d’obtenir des avantages uniques dans ces derniers.
+
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-23 à 15.53.41.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Où obtenir des parchemins ?</mark>
@@ -21,16 +23,17 @@ Les parchemins peuvent être obtenus à travers plusieurs sources, parmi lesquel
 * Les <mark style="color:yellow;">**caisses votes**</mark>
 * Les <mark style="color:yellow;">**rewards**</mark>
 * Les <mark style="color:yellow;">**caisses aventures**</mark>
+* Les <mark style="color:yellow;">**parchemins**</mark>
 
-{% hint style="info" %}
-💡 Plus vous progressez dans le serveur et ses fonctionnalités, plus vous aurez de chances d'en récupérer régulièrement.
+{% hint style="danger" %}
+Le <mark style="color:yellow;">**contrat mythique**</mark> ne peut être obtenu que via la commande <mark style="color:yellow;">**`/boutique`**</mark>.
 {% endhint %}
 
 ## <mark style="color:orange;">Niveaux de difficulté</mark>
 
 Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour les parchemins. Chacun propose des objectifs de plus en plus complexes, mais aussi des récompenses plus intéressantes :
 
-<table><thead><tr><th width="137.4921875">Difficulté</th><th>Description rapide</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Facile</strong></mark></td><td>Parfait pour les débutants. Objectifs simples, durée courte.</td></tr><tr><td><mark style="color:blue;"><strong>Avancé</strong></mark></td><td>Requiert un peu plus d’implication.</td></tr><tr><td><mark style="color:purple;"><strong>Difficile</strong></mark></td><td>Commence à demander une bonne organisation.</td></tr><tr><td><mark style="color:yellow;"><strong>Expert</strong></mark></td><td>Pour les joueurs expérimentés. Missions longues ou techniques.</td></tr><tr><td><mark style="color:red;"><strong>Impossible</strong></mark></td><td>Extrêmement rares, très exigeants, mais les récompenses sont à la hauteur.</td></tr></tbody></table>
+<table><thead><tr><th width="137.4921875">Difficulté</th><th>Description rapide</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Facile</strong></mark></td><td>Parfait pour les débutants. Objectifs simples, durée courte.</td></tr><tr><td><mark style="color:blue;"><strong>Rare</strong></mark></td><td>Requiert un peu plus d’implication.</td></tr><tr><td><mark style="color:purple;"><strong>Épique</strong></mark></td><td>Commence à demander une bonne organisation.</td></tr><tr><td><mark style="color:yellow;"><strong>Légendaire</strong></mark></td><td>Pour les joueurs expérimentés. Missions longues ou techniques.</td></tr><tr><td><mark style="color:red;"><strong>Mythique</strong></mark></td><td>Extrêmement rares, très exigeants, mais les récompenses sont à la hauteur.</td></tr></tbody></table>
 
 ## <mark style="color:orange;">Fonctionnement</mark>
 
@@ -39,14 +42,14 @@ Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour l
 * En cas de réussite <mark style="color:yellow;">**avant l’expiration du temps imparti**</mark>, vous recevrez automatiquement une <mark style="color:yellow;">**récompense**</mark>, allant de simples Berrys à des objets uniques ou consommables puissants.
 
 {% hint style="danger" %}
-❗ Si vous échouez ou laissez expirer un parchemin, il est perdu.
+Si vous échouez ou laissez expirer un parchemin, il est perdu.
 {% endhint %}
 
 ## <mark style="color:orange;">Récompenses</mark>
 
 ### <mark style="color:green;">Parchemin Facile – Récompenses possibles :</mark>
 
-* <mark style="color:green;">**Parchemin Avancé**</mark>
+* <mark style="color:green;">**Parchemin Rare**</mark>
 * <mark style="color:green;">**Bloc de fer x8**</mark>
 * <mark style="color:green;">**Bloc de lapis-lazuli x4**</mark>
 * <mark style="color:green;">**Bloc de diamant x1**</mark>
@@ -64,9 +67,9 @@ Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour l
 
 ***
 
-### <mark style="color:blue;">Parchemin Avancé – Récompenses possibles :</mark>&#x20;
+### <mark style="color:blue;">Parchemin Rare – Récompenses possibles :</mark>&#x20;
 
-* <mark style="color:blue;">**Parchemin Difficile**</mark>
+* <mark style="color:blue;">**Parchemin Épique**</mark>
 * <mark style="color:blue;">**Bloc de diamant x4**</mark>
 * <mark style="color:blue;">**5 Gemmes**</mark>
 * <mark style="color:blue;">**2.000 Berrys**</mark>
@@ -86,9 +89,9 @@ Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour l
 
 ***
 
-### <mark style="color:purple;">Parchemin Difficile – Récompenses possibles :</mark>
+### <mark style="color:purple;">Parchemin Épique – Récompenses possibles :</mark>
 
-* <mark style="color:purple;">**Parchemin Expert**</mark>
+* <mark style="color:purple;">**Parchemin Légendaire**</mark>
 * <mark style="color:purple;">**Bloc de diamant x8**</mark>
 * <mark style="color:purple;">**Lingot de netherite x1**</mark>
 * <mark style="color:purple;">**10 Gemmes**</mark>
@@ -109,9 +112,9 @@ Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour l
 
 ***
 
-### <mark style="color:yellow;">Parchemin Expert – Récompenses possibles :</mark>
+### <mark style="color:yellow;">Parchemin Légendaire – Récompenses possibles :</mark>
 
-* <mark style="color:yellow;">**Parchemin Impossible**</mark>
+* <mark style="color:yellow;">**Parchemin Mythique**</mark>
 * <mark style="color:yellow;">**Lingot de netherite x4**</mark>
 * <mark style="color:yellow;">**10 Gemmes**</mark>
 * <mark style="color:yellow;">**20 Gemmes**</mark>
@@ -131,7 +134,7 @@ Il existe <mark style="color:yellow;">**5 niveaux de difficulté**</mark> pour l
 
 ***
 
-### <mark style="color:red;">Parchemin Impossible – Récompenses possibles :</mark>
+### <mark style="color:red;">Parchemin Mythique – Récompenses possibles :</mark>
 
 * <mark style="color:red;">**Bloc de netherite x1**</mark>
 * <mark style="color:red;">**20 Gemmes**</mark>
