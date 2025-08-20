@@ -30,6 +30,10 @@ Le but : sauter de plateforme en plateforme tout en évitant les chutes.
 * Plus vous progressez, plus les sauts deviennent techniques.
 * À la fin du parcours, vous débloquerez <mark style="color:yellow;">**le Double Saut**</mark>.
 
+{% hint style="success" %}
+Une fois débloqué, le Double Jump peut être activé ou désactivé à tout moment via la commande <mark style="color:yellow;">**`/settings`**</mark> (ou directement <mark style="color:yellow;">**`/doublejump`**</mark>).
+{% endhint %}
+
 ## <mark style="color:orange;">Course Waver</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`/race`</mark>
 
 La <mark style="color:yellow;">**Course Waver**</mark> est un événement disponible <mark style="color:yellow;">**tous les mardis et jeudis à 21h**</mark>.\

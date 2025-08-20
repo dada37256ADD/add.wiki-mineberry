@@ -35,7 +35,7 @@ Le <mark style="color:yellow;">**1er**</mark> bouton avec un <mark style="color:
 Le <mark style="color:yellow;">**bouton suivant**</mark> avec le <mark style="color:yellow;">**numéro 1**</mark> permet d'ouvrir le menu des <mark style="color:yellow;">**différents classements**</mark> du serveur. Classement des <mark style="color:yellow;">**meilleures îles**</mark>, des <mark style="color:yellow;">**primes**</mark>, <mark style="color:yellow;">**saisonnier**</mark>, d’<mark style="color:yellow;">**argent**</mark>, des <mark style="color:yellow;">**niveaux de joueur**</mark>, des <mark style="color:yellow;">**monstres tués**</mark>, de <mark style="color:yellow;">**pêche**</mark>, par <mark style="color:yellow;">**temps de jeu**</mark>.
 
 {% hint style="success" %}
-Il faut prendre en compte que le <mark style="color:yellow;">**classement**</mark> est <mark style="color:yellow;">**réinitialisé chaque mois**</mark> et que des <mark style="color:yellow;">**récompenses**</mark> sont accordés aux <mark style="color:yellow;">**3 premières îles**</mark>.
+Il faut prendre en compte que le <mark style="color:yellow;">**classement**</mark> est <mark style="color:yellow;">**réinitialisé chaque mois**</mark> et que des <mark style="color:yellow;">**récompenses**</mark> sont accordés aux <mark style="color:yellow;">**3 premières îles**</mark>. Sauf pour le classement <mark style="color:yellow;">**Dangerosité**</mark>, qui est <mark style="color:yellow;">**individuel**</mark> et récompense les <mark style="color:yellow;">**3 meilleurs joueurs**</mark>.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-21 à 14.49.06.png" alt=""><figcaption></figcaption></figure>

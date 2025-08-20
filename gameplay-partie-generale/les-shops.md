@@ -12,7 +12,11 @@ Sur <mark style="color:yellow;">**MinePiece**</mark>, vous disposez de plusieurs
 
 Le <mark style="color:yellow;">**`/shop`**</mark> est un menu central pour acheter ou vendre des ressources directement depuis le serveur, sans passer par d'autres joueurs.
 
-Il est accessible à tout moment via la commande : <mark style="color:yellow;">**`/shop`**</mark>
+Il est accessible à tout moment via la commande : <mark style="color:yellow;">**`/shop`**</mark>&#x20;
+
+&#x20;\
+\
+Vous disposez également de la commande <mark style="color:yellow;">**`/quickshop`**</mark> pour accéder à la vente rapide.
 
 ### <mark style="color:orange;">Catégories disponibles :</mark>&#x20;
 

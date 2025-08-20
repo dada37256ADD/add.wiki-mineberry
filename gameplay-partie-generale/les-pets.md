@@ -15,7 +15,7 @@ Les pets sont principalement récupérables dans :
 * Les <mark style="color:yellow;">**caisses**</mark> des îles aventures
 * L’<mark style="color:yellow;">**Hôtel des ventes**</mark>
 * Le <mark style="color:yellow;">**Loot**</mark> de certains <mark style="color:yellow;">**Boss**</mark>
-* Certaines <mark style="color:yellow;">**quêtes**</mark> ou <mark style="color:yellow;">**événements**</mark>
+* Certains <mark style="color:yellow;">**contrats**</mark>
 
 ## <mark style="color:orange;">Raretés disponible</mark>
 
@@ -34,7 +34,7 @@ Vous pouvez voir la <mark style="color:yellow;">**liste complète**</mark> des f
 Le menu vous permet de :
 
 * Consulter <mark style="color:yellow;">**vos familiers disponibles**</mark>
-* Activer jusqu’à <mark style="color:yellow;">**5 familiers en même temps**</mark>
+* Activer jusqu’à <mark style="color:yellow;">**5 familiers en même temps**</mark> _(dépend de votre rang/grade)_
 * Accéder à <mark style="color:yellow;">**des presets de configuration**</mark> via les engrenages en bas de menu
 * Visualiser leur <mark style="color:yellow;">**statut**</mark> :
   * <mark style="color:green;">**Actif**</mark> : le pet est visible et ses effets sont appliqués
@@ -42,7 +42,7 @@ Le menu vous permet de :
   * <mark style="color:red;">**Inactif**</mark> : aucun effet
 
 {% hint style="info" %}
-Plus vous montez en <mark style="color:yellow;">**rang**</mark>, plus vous débloquez de <mark style="color:yellow;">**slots actifs**</mark> !
+Plus vous montez en <mark style="color:yellow;">**rang**</mark> et en <mark style="color:yellow;">**grade**</mark>, plus vous débloquez de <mark style="color:yellow;">**slots actifs**</mark> !
 {% endhint %}
 
 ## <mark style="color:orange;">Double utilité des familiers</mark>
@@ -60,7 +60,7 @@ Pour ouvrir l’interface permettant de gérer vos familiers sur votre île, uti
 Les familiers placés dans cette interface <mark style="color:yellow;">**n’apparaissent pas**</mark> à vos côtés mais appliquent <mark style="color:yellow;">**toujours leurs effets**</mark> à votre personnage.
 
 {% hint style="warning" %}
-Un seul exemplaire de chaque pet peut être équipé dans votre île.
+Un seul exemplaire de chaque pet peut être équipé dans votre île. Et ses effets ne sont&#x20;
 {% endhint %}
 
 Ainsi, vous pouvez <mark style="color:yellow;">**répartir vos familiers intelligemment**</mark> entre votre configuration personnelle et votre île, tout en continuant de profiter <mark style="color:yellow;">**pleinement de leurs bonus**</mark> !

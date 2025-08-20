@@ -70,7 +70,7 @@ Lorsqu’un <mark style="color:yellow;">**poisson spécial**</mark> apparaît, l
 1. <mark style="color:yellow;">**Une interface s’ouvre**</mark> au centre de votre écran.
 2. Une <mark style="color:yellow;">**jauge verticale**</mark> apparaît, avec en bas une <mark style="color:green;">**zone verte**</mark>.
 3. Un <mark style="color:yellow;">**icône de poisson**</mark> se déplace de haut en bas dans cette jauge.
-4. <mark style="color:yellow;">**Votre objectif**</mark> : maintenir le poisson <mark style="color:green;">**dans la zone verte**</mark> pour le capturer.
+4. <mark style="color:yellow;">**Votre objectif**</mark> : maintenir le poisson <mark style="color:green;">**dans la zone verte**</mark> pour le capturer. Plus le poisson est <mark style="color:yellow;">**rare**</mark> plus le <mark style="color:yellow;">**remplissage**</mark> de la barre à droite sera <mark style="color:yellow;">**difficile**</mark>.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-08-13 à 17.32.49 (1).png" alt=""><figcaption></figcaption></figure>
 
