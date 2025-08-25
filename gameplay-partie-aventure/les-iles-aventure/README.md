@@ -48,18 +48,6 @@ Cela vous évitera de refaire tout le chemin à chaque fois !
 Le Log Pose affichera des informations différentes selon l’île sur laquelle vous vous trouvez.
 {% endhint %}
 
-## <mark style="color:orange;">Les tranches de niveau</mark>
-
-Chaque île appartient à une <mark style="color:yellow;">**tranche de niveaux**</mark> bien définie. Cela permet une progression équilibrée pour tous les joueurs :
-
-<table><thead><tr><th width="217.84375">Tranche de niveau</th><th>Accès autorisé</th></tr></thead><tbody><tr><td>Niveau <mark style="color:yellow;"><strong>1 à 20</strong></mark></td><td>Libre accès si vous êtes dans cette tranche</td></tr><tr><td>Niveau <mark style="color:yellow;"><strong>21 à 40</strong></mark></td><td>Accessible à partir du niveau 21</td></tr><tr><td>Niveau <mark style="color:yellow;"><strong>41 à 60</strong></mark></td><td>Accessible à partir du niveau 41</td></tr><tr><td>Niveau <mark style="color:yellow;"><strong>61 à 80</strong></mark></td><td>Accessible à partir du niveau 61</td></tr><tr><td>Niveau <mark style="color:yellow;"><strong>81 à 100</strong></mark></td><td>Accessible à partir du niveau 81</td></tr></tbody></table>
-
-{% hint style="info" %}
-Si vous entrez dans une zone en étant <mark style="color:yellow;">**au-dessus de la tranche**</mark>, vos statistiques seront <mark style="color:yellow;">**capées au niveau max de la tranche**</mark>, pour ne pas déséquilibrer les combats.
-
-En revanche, plus vous progressez dans des zones <mark style="color:yellow;">**plus avancées**</mark>, plus <mark style="color:yellow;">**les récompenses sont intéressantes**</mark> : ennemis plus puissants, loots rares, ressources précieuses...
-{% endhint %}
-
 ## <mark style="color:orange;">Accès aux îles</mark>
 
 Pour débloquer une île :
