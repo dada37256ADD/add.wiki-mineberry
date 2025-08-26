@@ -45,6 +45,7 @@
   * [🎣 Baratie](gameplay-partie-aventure/les-iles-aventure/baratie.md)
   * [🏝️ Arlong Park](gameplay-partie-aventure/les-iles-aventure/arlong-park.md)
   * [🏙️ Logue Town](gameplay-partie-aventure/les-iles-aventure/logue-town.md)
+  * [Reverse Mountain](gameplay-partie-aventure/les-iles-aventure/reverse-mountain.md)
   * [❄️ Royaume de Drum](gameplay-partie-aventure/les-iles-aventure/royaume-de-drum.md)
   * [🏜️ Alabasta](gameplay-partie-aventure/les-iles-aventure/alabasta.md)
   * [🌱 Jaya](gameplay-partie-aventure/les-iles-aventure/jaya.md)
