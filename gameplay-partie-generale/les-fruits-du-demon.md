@@ -84,6 +84,32 @@ Vous débloquez des attaques aux niveaux :
 Une <mark style="color:yellow;">**barre rouge**</mark> apparaît sur votre mana lorsque vous utilisez un fruit : elle représente l’énergie nécessaire pour lancer vos attaques.
 {% endhint %}
 
+## <mark style="color:orange;">Ascension des Fruits du Démon</mark>
+
+Les Fruits du Démon peuvent progresser par <mark style="color:yellow;">**ascensions**</mark>, permettant de débloquer plus de puissance à mesure que vous les améliorez.
+
+Chaque ascension demande une combinaison de <mark style="color:yellow;">**Berrys**</mark>**,&#x20;**<mark style="color:yellow;">**d’objets de boss**</mark>**,&#x20;**<mark style="color:yellow;">**d’objets de donjon**</mark> et <mark style="color:yellow;">**d’objets farm**</mark>.
+
+### <mark style="color:orange;">Fruits du Démon</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Communs**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(Lvl 20 max)</mark>
+
+<table data-header-hidden><thead><tr><th width="67.15234375">Level</th><th width="104.89453125">Ascension</th><th width="119.953125">Berrys requis</th><th>Objets boss</th><th>Objets donjon</th><th>Objets farm</th></tr></thead><tbody><tr><td>20</td><td>1ère ascension</td><td>5 000</td><td>1 rare</td><td>1 rare</td><td>3 communes</td></tr></tbody></table>
+
+### <mark style="color:orange;">Fruits du Démon</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Rares**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(Lvl 60 max)</mark>
+
+<table data-header-hidden><thead><tr><th width="66.6953125">Level</th><th>Ascension</th><th>Berrys requis</th><th>Objets boss</th><th>Objets donjon</th><th>Objets farm</th></tr></thead><tbody><tr><td>20</td><td>1ère ascension</td><td>10 000</td><td>1 rare</td><td>1 rare</td><td>3 communes</td></tr><tr><td>40</td><td>2ème ascension</td><td>20 000</td><td>3 épiques</td><td>1 épique</td><td>10 communes</td></tr><tr><td>60</td><td>3ème ascension</td><td>30 000</td><td>6 épiques</td><td>2 épiques</td><td>8 rares</td></tr></tbody></table>
+
+### <mark style="color:orange;">Fruits du Démon</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Épiques**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(Lvl 90 max)</mark>
+
+<table data-header-hidden><thead><tr><th width="65.75390625">Level</th><th>Ascension</th><th>Berrys requis</th><th>Objets boss</th><th>Objets donjon</th><th>Objets farm</th></tr></thead><tbody><tr><td>20</td><td>1ère ascension</td><td>15 000</td><td>1 rare</td><td>2 rares</td><td>3 communes</td></tr><tr><td>40</td><td>2ème ascension</td><td>30 000</td><td>3 épiques</td><td>2 épiques</td><td>10 communes</td></tr><tr><td>60</td><td>3ème ascension</td><td>45 000</td><td>6 épiques</td><td>4 épiques</td><td>8 rares</td></tr><tr><td>70</td><td>4ème ascension</td><td>60 000</td><td>3 légendaires</td><td>2 légendaires</td><td>24 rares</td></tr><tr><td>80</td><td>5ème ascension</td><td>75 000</td><td>6 légendaires</td><td>4 légendaires</td><td>16 épiques</td></tr><tr><td>90</td><td>6ème ascension</td><td>90 000</td><td>6 mythiques</td><td>3 mythiques</td><td>48 épiques</td></tr></tbody></table>
+
+### <mark style="color:orange;">Fruits du Démon</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Légendaires**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(Lvl 90 max)</mark>
+
+<table data-header-hidden><thead><tr><th width="65.87109375">Level</th><th>Ascension</th><th>Berrys requis</th><th>Objets boss</th><th>Objets donjon</th><th>Objets farm</th></tr></thead><tbody><tr><td>20</td><td>1ère ascension</td><td>20 000</td><td>1 rare</td><td>3 rares</td><td>3 communes</td></tr><tr><td>40</td><td>2ème ascension</td><td>40 000</td><td>3 épiques</td><td>3 épiques</td><td>10 communes</td></tr><tr><td>60</td><td>3ème ascension</td><td>60 000</td><td>6 épiques</td><td>6 épiques</td><td>8 rares</td></tr><tr><td>70</td><td>4ème ascension</td><td>80 000</td><td>3 légendaires</td><td>3 légendaires</td><td>24 rares</td></tr><tr><td>80</td><td>5ème ascension</td><td>100 000</td><td>6 légendaires</td><td>6 légendaires</td><td>16 épiques</td></tr><tr><td>90</td><td>6ème ascension</td><td>120 000</td><td>6 mythiques</td><td>4 mythiques</td><td>48 épiques</td></tr></tbody></table>
+
+### <mark style="color:orange;">Fruits du Démon</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Mythiques**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">(Lvl 90 max)</mark>
+
+<table data-header-hidden><thead><tr><th width="66.33203125">Level</th><th>Ascension</th><th>Berrys requis</th><th>Objets boss</th><th>Objets donjon</th><th>Objets farm</th></tr></thead><tbody><tr><td>20</td><td>1ère ascension</td><td>25 000</td><td>1 rare</td><td>5 rares</td><td>3 communes</td></tr><tr><td>40</td><td>2ème ascension</td><td>50 000</td><td>3 épiques</td><td>5 épiques</td><td>10 communes</td></tr><tr><td>60</td><td>3ème ascension</td><td>75 000</td><td>6 épiques</td><td>9 épiques</td><td>8 rares</td></tr><tr><td>70</td><td>4ème ascension</td><td>100 000</td><td>3 légendaires</td><td>5 légendaires</td><td>24 rares</td></tr><tr><td>80</td><td>5ème ascension</td><td>125 000</td><td>6 légendaires</td><td>9 légendaires</td><td>16 épiques</td></tr><tr><td>90</td><td>6ème ascension</td><td>150 000</td><td>6 mythiques</td><td>6 mythiques</td><td>48 épiques</td></tr></tbody></table>
+
 ## <mark style="color:orange;">Interface avec la commande</mark> <mark style="color:yellow;">`/fruit`</mark>
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-28 à 13.58.32.png" alt=""><figcaption></figcaption></figure>
