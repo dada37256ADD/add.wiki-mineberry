@@ -65,15 +65,15 @@ Vous pourrez donner un <mark style="color:yellow;">**style unique**</mark> à vo
 
 | Skin                                                 | Rareté     | Prix (Gemmes)                  | Amélioration possible |
 | ---------------------------------------------------- | ---------- | ------------------------------ | --------------------- |
-| <mark style="color:green;">**Baril**</mark>          | Commun     | Gratuit                        | ❌                     |
+| <mark style="color:green;">**Baril**</mark>          | Commun     | Récompense de la quête Tuto    | ❌                     |
 | <mark style="color:green;">**Barque**</mark>         | Commun     | Disponible Niv. 35 Job Pêcheur | ✅                     |
-| <mark style="color:blue;">**Baratie**</mark>         | Rare       | 450                            | ✅                     |
-| <mark style="color:purple;">**Sad Tanker**</mark>    | Épique     | 650                            | ✅                     |
-| <mark style="color:purple;">**Vogue Merry**</mark>   | Épique     | 650                            | ✅                     |
-| <mark style="color:purple;">**Noah**</mark>          | Épique     | 650                            | ✅                     |
-| <mark style="color:yellow;">**Perfume Yuda**</mark>  | Légendaire | 950                            | ✅                     |
-| <mark style="color:yellow;">**Thriller Bark**</mark> | Légendaire | 950                            | ✅                     |
-| <mark style="color:red;">**Thousand Sunny**</mark>   | Mythique   | 1.250                          | ✅                     |
+| <mark style="color:blue;">**Baratie**</mark>         | Rare       | Caisse Corsaire                | ✅                     |
+| <mark style="color:purple;">**Sad Tanker**</mark>    | Épique     | Caisse Corsaire                | ✅                     |
+| <mark style="color:purple;">**Vogue Merry**</mark>   | Épique     | Caisse Corsaire                | ✅                     |
+| <mark style="color:purple;">**Noah**</mark>          | Épique     | Caisse Corsaire                | ✅                     |
+| <mark style="color:yellow;">**Perfume Yuda**</mark>  | Légendaire | Caisse Corsaire                | ✅                     |
+| <mark style="color:yellow;">**Thriller Bark**</mark> | Légendaire | Caisse Corsaire                | ✅                     |
+| <mark style="color:red;">**Thousand Sunny**</mark>   | Mythique   | Caisse Corsaire                | ✅                     |
 
 {% hint style="success" %}
 Tous les bateaux avec GUI amélioration disposent d’un menu personnalisé pour leurs upgrades.
