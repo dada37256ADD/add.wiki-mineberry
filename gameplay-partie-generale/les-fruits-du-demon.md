@@ -110,6 +110,34 @@ Chaque ascension demande une combinaison de <mark style="color:yellow;">**Berrys
 
 <table data-header-hidden><thead><tr><th width="66.33203125">Level</th><th>Ascension</th><th>Berrys requis</th><th>Objets boss</th><th>Objets donjon</th><th>Objets farm</th></tr></thead><tbody><tr><td>20</td><td>1ère ascension</td><td>25 000</td><td>1 rare</td><td>5 rares</td><td>3 communes</td></tr><tr><td>40</td><td>2ème ascension</td><td>50 000</td><td>3 épiques</td><td>5 épiques</td><td>10 communes</td></tr><tr><td>60</td><td>3ème ascension</td><td>75 000</td><td>6 épiques</td><td>9 épiques</td><td>8 rares</td></tr><tr><td>70</td><td>4ème ascension</td><td>100 000</td><td>3 légendaires</td><td>5 légendaires</td><td>24 rares</td></tr><tr><td>80</td><td>5ème ascension</td><td>125 000</td><td>6 légendaires</td><td>9 légendaires</td><td>16 épiques</td></tr><tr><td>90</td><td>6ème ascension</td><td>150 000</td><td>6 mythiques</td><td>6 mythiques</td><td>48 épiques</td></tr></tbody></table>
 
+## <mark style="color:orange;">Amélioration des Fruits du Démon</mark>
+
+En plus du système d’<mark style="color:yellow;">**ascension**</mark><mark style="color:yellow;">,</mark> vos Fruits du Démon peuvent être renforcés grâce à <mark style="color:yellow;">**l’expérience**</mark> (EXP).
+
+Cette EXP peut être obtenue en échangeant certains objets spécifiques : <mark style="color:yellow;">**livres**</mark> et <mark style="color:yellow;">**fruits du démon inutilisés**</mark>.
+
+### <mark style="color:orange;">Livres</mark>
+
+Les livres sont des consommables qui apportent directement de l’EXP à votre fruit.
+
+| <mark style="color:yellow;">**Type de livre**</mark>  | <mark style="color:yellow;">**EXP donnée**</mark> |
+| ----------------------------------------------------- | ------------------------------------------------- |
+| <mark style="color:green;">**Livre de poche**</mark>  | 1 000                                             |
+| <mark style="color:blue;">**Livre ancien**</mark>     | 5 000                                             |
+| <mark style="color:purple;">**Livre enchanté**</mark> | 20 000                                            |
+
+### <mark style="color:orange;">Fruits du Démon</mark>
+
+Si vous possédez des fruits que vous n’utilisez pas, vous pouvez aussi les convertir en EXP.
+
+| <mark style="color:yellow;">**Type de Fruit**</mark>             | <mark style="color:yellow;">**EXP donnée**</mark> |
+| ---------------------------------------------------------------- | ------------------------------------------------- |
+| <mark style="color:green;">**Fruit du démon commun**</mark>      | 1 200                                             |
+| <mark style="color:blue;">**Fruit du démon rare**</mark>         | 2 400                                             |
+| <mark style="color:purple;">**Fruit du démon épique**</mark>     | 3 600                                             |
+| <mark style="color:yellow;">**Fruit du démon légendaire**</mark> | 75 000                                            |
+| <mark style="color:red;">**Fruit du démon mythique**</mark>      | 450 000                                           |
+
 ## <mark style="color:orange;">Interface avec la commande</mark> <mark style="color:yellow;">`/fruit`</mark>
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-28 à 13.58.32.png" alt=""><figcaption></figcaption></figure>
