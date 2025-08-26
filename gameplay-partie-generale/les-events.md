@@ -43,14 +43,18 @@ Une fois débloqué, le Double Jump peut être activé ou désactivé à tout mo
 La <mark style="color:yellow;">**Course Waver**</mark> est un événement disponible <mark style="color:yellow;">**tous les mardis et jeudis à 21h**</mark>.\
 Pour y participer, utilisez la commande **`/race`**.
 
-<mark style="color:orange;">**Objectif**</mark>**&#x20;:**
+### <mark style="color:orange;">Objectif</mark>
 
 * Passer à travers tous les <mark style="color:yellow;">**anneaux dorés**</mark> dans l’ordre indiqué.
 * Valider chaque <mark style="color:yellow;">**checkpoint**</mark> pour continuer la course.
 * Utiliser les propulseurs en <mark style="color:yellow;">**forme de flèches**</mark> pour gagner de la vitesse.
 * Naviguer à travers des zones d’<mark style="color:yellow;">**eau**</mark>, d’<mark style="color:yellow;">**air**</mark> et de <mark style="color:yellow;">**terre**</mark>.
 
-<mark style="color:orange;">**Récompenses**</mark>**&#x20;:**
+### <mark style="color:orange;">Récompenses</mark>
 
-* <mark style="color:yellow;">**Tag “As du Volant”**</mark> : réservé au joueur arrivant <mark style="color:yellow;">**1er**</mark>.
-* <mark style="color:yellow;">**Tag “Pilote”**</mark> : attribué aux joueurs finissant dans le <mark style="color:yellow;">**Top 3**</mark>.
+| <mark style="color:yellow;">**Position**</mark> | <mark style="color:yellow;">**Récompenses**</mark>                                                                                |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 🥇 **1er**                                      | 5 Bonbons aux raisins + 15 Cristaux + 3 Livres anciens + Tag <mark style="color:yellow;">**As du Volant**</mark> + Tag **Pilote** |
+| 🥈 **2ème**                                     | 4 Bonbons aux raisins + 12 Cristaux + 2 Livres anciens + Tag <mark style="color:yellow;">**Pilote**</mark>                        |
+| 🥉 **3ème**                                     | 3 Bonbons aux raisins + 9 Cristaux + 2 Livres anciens + Tag <mark style="color:yellow;">**Pilote**</mark>                         |
+| 4ème – 5ème                                     | 2 Bonbons aux raisins + 6 Cristaux + 1 Livre ancien                                                                               |
