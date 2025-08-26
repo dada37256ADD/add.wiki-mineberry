@@ -34,6 +34,7 @@
 * [⚔️ Système d’Armes Évolutives](gameplay-partie-generale/systeme-darmes-evolutives.md)
 * [🎣 La Pêche](gameplay-partie-generale/la-peche.md)
 * [💰 Les Shops](gameplay-partie-generale/les-shops.md)
+* [🎖️ Tags](gameplay-partie-generale/tags.md)
 
 ## 🔮 Gameplay - Partie aventure
 
