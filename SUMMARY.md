@@ -31,10 +31,11 @@
 * [😈 Les Fruits du Démon](gameplay-partie-generale/les-fruits-du-demon.md)
 * [🥚 Les Pets](gameplay-partie-generale/les-pets.md)
 * [📉 Les Statistiques](gameplay-partie-generale/les-statistiques.md)
-* [⚔️ Système d’Armes Évolutives](gameplay-partie-generale/systeme-darmes-evolutives.md)
+* [⚔️ Le Système d’Armes Évolutives](gameplay-partie-generale/le-systeme-darmes-evolutives.md)
 * [🎣 La Pêche](gameplay-partie-generale/la-peche.md)
 * [💰 Les Shops](gameplay-partie-generale/les-shops.md)
-* [🎖️ Tags](gameplay-partie-generale/tags.md)
+* [🎖️ Les Tags](gameplay-partie-generale/les-tags.md)
+* [📩 Les Votes](gameplay-partie-generale/les-votes.md)
 
 ## 🔮 Gameplay - Partie aventure
 

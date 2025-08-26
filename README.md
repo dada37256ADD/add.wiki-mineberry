@@ -36,7 +36,7 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
 * [<mark style="color:orange;">**Les Fruits du Démon**</mark>](gameplay-partie-generale/les-fruits-du-demon.md)
 * [<mark style="color:orange;">**Les Pets**</mark>](gameplay-partie-generale/les-pets.md)
 * [<mark style="color:orange;">**Les Statistiques**</mark>](gameplay-partie-generale/les-statistiques.md)
-* [<mark style="color:orange;">**Système d'Armes Évolutives**</mark>](gameplay-partie-generale/systeme-darmes-evolutives.md)
+* [<mark style="color:orange;">**Système d'Armes Évolutives**</mark>](gameplay-partie-generale/le-systeme-darmes-evolutives.md)
 * [<mark style="color:orange;">**La Pêche**</mark>](gameplay-partie-generale/la-peche.md)
 * [<mark style="color:orange;">**Les Shops**</mark>](gameplay-partie-generale/les-shops.md)
 
