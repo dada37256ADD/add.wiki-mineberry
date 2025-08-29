@@ -2,13 +2,15 @@
 description: Retrouvez ici toutes les informations concernant les tags
 ---
 
-# 🎖️ Tags
+# 🎖️ Les Tags
 
 Les <mark style="color:yellow;">**Tags**</mark> sont des titres spéciaux que vous pouvez obtenir en remplissant certaines conditions dans le jeu.
 
 Ils permettent de mettre en avant vos <mark style="color:yellow;">**réussites**</mark>, vos <mark style="color:yellow;">**collections**</mark> ou vos <mark style="color:yellow;">**performances**</mark> en classement.
 
 Pour équiper un Tag, utilisez la commande : <mark style="color:yellow;">**`/tags`**</mark> puis cliquez sur celui que vous souhaitez afficher.
+
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Tags liés aux Îles Aventures</mark>
 
@@ -56,10 +58,10 @@ Ces Tags sont obtenus en atteignant le <mark style="color:yellow;">**niveau 200*
 
 Consultez <mark style="color:yellow;">**`/jobs`**</mark> pour voir vos actions génératrices d’XP.
 
-* <mark style="color:yellow;">**Bûcheron**</mark> : niveau 200 en /jobs bûcheron
+* <mark style="color:yellow;">**Bucheron**</mark> : niveau 200 en /jobs bûcheron
 * <mark style="color:yellow;">**Fermier**</mark> : niveau 200 en /jobs fermier
 * <mark style="color:yellow;">**Mineur**</mark> : niveau 200 en /jobs mineur
-* <mark style="color:yellow;">**Pêcheur**</mark> : niveau 200 en /jobs pêcheur
+* <mark style="color:yellow;">**Pecheur**</mark> : niveau 200 en /jobs pêcheur
 
 ***
 

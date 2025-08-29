@@ -4,6 +4,8 @@ description: Le royaume enneigé où la loi de Wapol écrase toute opposition.
 
 # ❄️ Royaume de Drum
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.52.31.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations générales</mark>
 
 <mark style="color:yellow;">**Le Royaume de Drum**</mark> vous plonge dans un environnement glacial où seuls les plus résistants survivent. Depuis une autre île aventure, prenez la barre de votre navire et partez affronter les troupes de Wapol.
@@ -35,11 +37,12 @@ Souverain tyrannique et utilisateur du <mark style="color:yellow;">**Fruit du Gl
 
 ### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-| Récompense                                                  | Détail / Effet                           |
-| ----------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Familier Wapol**</mark>       | 10% de chance de l’obtenir               |
-| <mark style="color:yellow;">**Essence du glouton**</mark>   | Débloque ou améliore le Fruit des Ombres |
-| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur               |
+| Récompense                                                  | Quantité                   |
+| ----------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Familier Wapol**</mark>       | 5% de chance de l’obtenir  |
+| <mark style="color:yellow;">**Essence du glouton**</mark>   | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>               | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Royaume de Drum</mark>
 
@@ -57,7 +60,7 @@ La <mark style="color:yellow;">**Caisse Drum**</mark> s'obtient en l'achetant au
 
 |                              Récompenses                               | Taux de Drop |
 | :--------------------------------------------------------------------: | :----------: |
-|    <mark style="color:green;">**Fruit du Lapin**</mark> _(Niveau 1)_   |    **4%**    |
+|          <mark style="color:green;">**Fruit du Lapin**</mark>          |    **4%**    |
 |    <mark style="color:green;">**Gant de boxe de Kuromarimo**</mark>    |    **7%**    |
 |          <mark style="color:blue;">**Hache de Hiluluk**</mark>         |    **13%**   |
 |          <mark style="color:blue;">**Familier Kureha**</mark>          |    **2%**    |

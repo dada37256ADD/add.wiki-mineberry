@@ -6,6 +6,8 @@ description: >-
 
 # 🌺 Fuchsia
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.42.29.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations générales</mark>
 
 Fuchsia est l’île d’introduction de votre aventure. Accessible dès votre arrivée avec le rang <mark style="color:yellow;">**Naufragé**</mark>, elle vous familiarise avec les mécaniques essentielles du serveur, à travers :
@@ -46,7 +48,7 @@ Vous pourrez aussi récupérer des <mark style="color:yellow;">**fragments d’a
 
 | Récompenses                                              | Quantité                   |
 | -------------------------------------------------------- | -------------------------- |
-| <mark style="color:yellow;">**Prime**</mark>             | Prime de 100 💀            |
+| <mark style="color:yellow;">**Berrys**</mark>            | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Familier Higuma**</mark>   | 10% de chance de l'obtenir |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark> | Dépend du niveau du joueur |
 
@@ -70,7 +72,7 @@ La <mark style="color:yellow;">**Caisse Fuchsia**</mark> s'obtient en l'achetant
 
 |                                      **Récompenses**                                      | **Taux de Drop** |
 | :---------------------------------------------------------------------------------------: | :--------------: |
-|             <mark style="color:green;">**Fruit du Bandit**</mark> _(Niveau 1)_            |      **4%**      |
+|                   <mark style="color:green;">**Fruit du Bandit**</mark>                   |      **4%**      |
 |                   <mark style="color:green;">**Sabre du Bandit**</mark>                   |      **7%**      |
 |                     <mark style="color:blue;">**Épée de Dadan**</mark>                    |      **13%**     |
 | <mark style="color:blue;">**Familier**</mark> <mark style="color:blue;">**Yosaku**</mark> |      **2%**      |

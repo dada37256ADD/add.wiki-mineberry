@@ -78,6 +78,7 @@ Vous débloquez des attaques aux niveaux :
 * Vous gagnez de l'expérience en <mark style="color:yellow;">**infligeant des dégâts**</mark> avec votre fruit.
 * Vous pouvez aussi utiliser des <mark style="color:yellow;">**livres**</mark> et des <mark style="color:yellow;">**fruits inutilisés**</mark> pour booster cette progression. Il existe trois types de livres, chacun ayant une rareté et une puissance différente : <mark style="color:green;">**Livre de poche**</mark> – <mark style="color:blue;">**Livre ancien**</mark> – <mark style="color:purple;">**Livre enchanté**</mark>**.**
 * Chaque attaque a une <mark style="color:yellow;">**consommation d’énergie (mana)**</mark> et un <mark style="color:yellow;">**temps de recharge (cooldown)**</mark>.
+* Vous pouvez <mark style="color:yellow;">**alterner**</mark> entre les <mark style="color:yellow;">**différentes attaques**</mark> de votre Fruit du Démon en effectuant un <mark style="color:yellow;">**clic gauche**</mark>.
 * À chaque <mark style="color:yellow;">**ascension**</mark>, le cooldown diminue, les dégâts augmentent, et l’énergie nécessaire progresse.
 
 {% hint style="danger" %}

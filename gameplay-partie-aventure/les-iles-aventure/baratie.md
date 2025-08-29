@@ -4,7 +4,7 @@ description: Le navire-restaurant où la gastronomie devient une arme !
 
 # 🎣 Baratie
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.39.43.png" alt=""><figcaption><p>Aperçu de l'Île Baratie</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.39.43.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Informations Générales</mark>
 

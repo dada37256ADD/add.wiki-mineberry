@@ -6,6 +6,8 @@ description: >-
 
 # ♀️ Amazon Lily
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 16.00.23.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations générales</mark>
 
 Nichée au cœur de Calm Belt, <mark style="color:yellow;">**Amazon Lily**</mark> est accessible aux pirates aguerris, prêts à relever à la fois des défis physiques et spirituels. Outre ses combats contre les guerrières Kuja, cette île vous permettra de participer à une activité unique :&#x20;
@@ -39,11 +41,12 @@ Impératrice pirate, membre des 7 Grands Corsaires, Boa Hancock est une adversai
 
 ### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-| Récompense                                                   | Détail / Effet                           |
-| ------------------------------------------------------------ | ---------------------------------------- |
-| <mark style="color:yellow;">**Familier Boa Hancock**</mark>  | 10% de chance de l’obtenir               |
-| <mark style="color:yellow;">**Essence de la Passion**</mark> | Débloque ou améliore le Fruit des Ombres |
-| <mark style="color:yellow;">**Bonbon au Raisin**</mark>      | Dépend du niveau du joueur               |
+| Récompense                                                   | Quantité                   |
+| ------------------------------------------------------------ | -------------------------- |
+| <mark style="color:yellow;">**Familier Boa Hancock**</mark>  | 2% de chance de l’obtenir  |
+| <mark style="color:yellow;">**Essence de la Passion**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon au Raisin**</mark>      | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>                | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Amazon Lily</mark>
 
@@ -61,7 +64,7 @@ La <mark style="color:yellow;">**Caisse Amazon Lily**</mark> s'obtient en l'ache
 
 |                               Récompenses                               | Taux de Drop |
 | :---------------------------------------------------------------------: | :----------: |
-|    <mark style="color:blue;">**Fruit du Serpent**</mark> _(Niveau 1)_   |    **4%**    |
+|          <mark style="color:blue;">**Fruit du Serpent**</mark>          |    **4%**    |
 |             <mark style="color:green;">**Épée Kuja**</mark>             |    **7%**    |
 |            <mark style="color:blue;">**Hache de Nyon**</mark>           |    **13%**   |
 |         <mark style="color:blue;">**Familier Marguerite**</mark>        |    **2%**    |

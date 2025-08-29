@@ -39,11 +39,12 @@ L’un des <mark style="color:yellow;">**Sept Grands Corsaires**</mark>, Kuma es
 
 ### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-| Récompense                                                    | Détail / Effet                           |
-| ------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Familier Kuma**</mark>          | 10% de chance de l’obtenir               |
-| <mark style="color:yellow;">**Essence des Coussinets**</mark> | Débloque ou améliore le Fruit des Ombres |
-| <mark style="color:yellow;">**Bonbon au Raisin**</mark>       | Dépend du niveau du joueur               |
+| Récompense                                                    | Quantité                   |
+| ------------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Familier Kuma**</mark>          | 2% de chance de l’obtenir  |
+| <mark style="color:yellow;">**Essence des Coussinets**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon au Raisin**</mark>       | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>                 | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Sabaody</mark>
 
@@ -61,7 +62,7 @@ La <mark style="color:yellow;">**Caisse Sabaody**</mark> s'obtient en l'achetant
 
 |                                Récompenses                                 | Taux de Drop |
 | :------------------------------------------------------------------------: | :----------: |
-|     <mark style="color:blue;">**Fruit de l'Étoile**</mark> _(Niveau 1)_    |    **4%**    |
+|           <mark style="color:blue;">**Fruit de l'Étoile**</mark>           |    **4%**    |
 |        <mark style="color:green;">**Fusil à Harpon de Duval**</mark>       |    **7%**    |
 |       <mark style="color:blue;">**Canne à pêche de Shakuyaku**</mark>      |    **13%**   |
 |           <mark style="color:blue;">**Familier Shakuyaku**</mark>          |    **2%**    |

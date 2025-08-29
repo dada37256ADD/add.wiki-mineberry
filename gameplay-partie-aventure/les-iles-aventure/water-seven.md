@@ -4,7 +4,7 @@ description: La cité des charpentiers, où l’acier et le bois façonnent l’
 
 # 🌊 Water Seven
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.42.47.png" alt=""><figcaption><p>Aperçu de la l'Île Aventure Water Seven</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.42.47.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Informations générales</mark>
 
@@ -37,10 +37,11 @@ Maître charpentier et chef du Franky Family, <mark style="color:yellow;">**Fran
 
 ### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-| Récompense                                                  | Détail / Effet             |
-| ----------------------------------------------------------- | -------------------------- |
-| <mark style="color:yellow;">**Familier Franky**</mark>      | 10% de chance de l’obtenir |
-| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur |
+| Récompense                                                  | Quantité                    |
+| ----------------------------------------------------------- | --------------------------- |
+| <mark style="color:yellow;">**Familier Franky**</mark>      | 7.5% de chance de l’obtenir |
+| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur  |
+| <mark style="color:yellow;">**Berrys**</mark>               | Dépend du niveau du joueur  |
 
 ## <mark style="color:orange;">Succès d’île – Water Seven</mark>
 
@@ -58,7 +59,7 @@ La <mark style="color:yellow;">**Caisse Water Seven**</mark> s'obtient en l'ache
 
 |                                    Récompenses                                     | Taux de Drop |
 | :--------------------------------------------------------------------------------: | :----------: |
-|       <mark style="color:green;">**Fruit du Charpentier**</mark> _(Niveau 1)_      |    **4%**    |
+|             <mark style="color:green;">**Fruit du Charpentier**</mark>             |    **4%**    |
 |               <mark style="color:green;">**Sabre de Shoruzô**</mark>               |    **7%**    |
 |             <mark style="color:blue;">**Canne à pêche de Pauly**</mark>            |    **13%**   |
 |                 <mark style="color:blue;">**Familier Mozu**</mark>                 |    **2%**    |

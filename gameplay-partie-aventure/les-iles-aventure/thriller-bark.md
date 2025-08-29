@@ -6,7 +6,7 @@ description: >-
 
 # 👹 Thriller Bark
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.43.35.png" alt=""><figcaption><p>Aperçu de l'Île Aventure Thriller Bark</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.43.35.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Informations générales</mark>
 
@@ -26,11 +26,12 @@ Chaque monstre vaincu peut vous céder une <mark style="color:yellow;">**Ombre e
 💀 **Attention** : Si vous mourrez, vous perdez **la moitié de vos ombres**.
 {% endhint %}
 
-### <mark style="color:orange;">Taux d</mark><mark style="color:orange;">**’obtention d’ombre**</mark>**s**
+### <mark style="color:orange;">Taux d</mark><mark style="color:orange;">**’obtention d’ombres**</mark>
 
 * Monstre normal → <mark style="color:yellow;">**1 Ombre**</mark>
 * Mini-boss → <mark style="color:yellow;">**4 Ombres**</mark>
 * Boss de zone → <mark style="color:yellow;">**10 Ombres**</mark>
+* Boss de l'île → <mark style="color:yellow;">**10 Ombres**</mark>
 
 ## <mark style="color:orange;">Ennemis</mark>
 
@@ -52,11 +53,12 @@ Créateur des zombies de Thriller Bark et maître incontesté des ombres, **Geck
 
 ### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-| Récompense                                                | Détail / Effet                           |
-| --------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Familier Moria**</mark>     | 10% de chance de l’obtenir               |
-| <mark style="color:yellow;">**Essence des Ombres**</mark> | Débloque ou améliore le Fruit des Ombres |
-| <mark style="color:yellow;">**Bonbon au Raisin**</mark>   | Dépend du niveau du joueur               |
+| Récompense                                                | Quantité                   |
+| --------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Familier Moria**</mark>     | 2% de chance de l’obtenir  |
+| <mark style="color:yellow;">**Essence des Ombres**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon au Raisin**</mark>   | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>             | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Thriller Bark</mark>
 
@@ -72,14 +74,14 @@ Chaque succès complété vous récompensera en <mark style="color:yellow;">**Be
 
 La <mark style="color:yellow;">**Caisse Water Seven**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Âmes**</mark>.
 
-|                                Récompenses                                 | Taux de Drop |
-| :------------------------------------------------------------------------: | :----------: |
-| <mark style="color:green;">**Fruit du Marionnettiste**</mark> _(Niveau 1)_ |    **4%**    |
-|             <mark style="color:blue;">**Sabre de Laura**</mark>            |    **7%**    |
-|            <mark style="color:green;">**Sabre de Jigoro**</mark>           |    **13%**   |
-|             <mark style="color:blue;">**Familier Laura**</mark>            |    **2%**    |
-|            <mark style="color:green;">**Familier Kumacy**</mark>           |    **5%**    |
-|  <mark style="color:blue;">**Fragment d'Armure des Ombres**</mark> _(x2)_  |    **15%**   |
-|             <mark style="color:blue;">**Dial de vente**</mark>             |    **17%**   |
-|            <mark style="color:yellow;">**Berry d'Argent**</mark>           |    **28%**   |
-|      <mark style="color:blue;">**Booster d'expérience métier**</mark>      |    **9%**    |
+|                               Récompenses                                | Taux de Drop |
+| :----------------------------------------------------------------------: | :----------: |
+|       <mark style="color:green;">**Fruit du Marionnettiste**</mark>      |    **4%**    |
+|            <mark style="color:blue;">**Sabre de Laura**</mark>           |    **7%**    |
+|           <mark style="color:green;">**Sabre de Jigoro**</mark>          |    **13%**   |
+|            <mark style="color:blue;">**Familier Laura**</mark>           |    **2%**    |
+|           <mark style="color:green;">**Familier Kumacy**</mark>          |    **5%**    |
+| <mark style="color:blue;">**Fragment d'Armure des Ombres**</mark> _(x2)_ |    **15%**   |
+|            <mark style="color:blue;">**Dial de vente**</mark>            |    **17%**   |
+|           <mark style="color:yellow;">**Berry d'Argent**</mark>          |    **28%**   |
+|     <mark style="color:blue;">**Booster d'expérience métier**</mark>     |    **9%**    |

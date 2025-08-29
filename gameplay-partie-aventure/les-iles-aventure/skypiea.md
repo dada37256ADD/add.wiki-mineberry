@@ -6,7 +6,7 @@ description: >-
 
 # ☁️ Skypiea
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.41.36.png" alt=""><figcaption><p>Aperçu de l'île Skypiea</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.41.36.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Informations générales</mark>
 
@@ -41,11 +41,12 @@ Maître absolu de la foudre et seigneur incontesté des cieux, <mark style="colo
 
 ### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-| Récompense                                                      | Détail / Effet                           |
-| --------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Familier Ener**</mark>            | 10% de chance de l’obtenir               |
-| <mark style="color:yellow;">**Essence du Fulguro-Fruit**</mark> | Permet d’améliorer ou d’obtenir ce fruit |
-| <mark style="color:yellow;">**Bonbon au Raisin**</mark>         | Dépend du niveau du joueur               |
+| Récompense                                                      | Quantité                   |
+| --------------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Familier Ener**</mark>            | 2% de chance de l’obtenir  |
+| <mark style="color:yellow;">**Essence du Fulguro-Fruit**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon au Raisin**</mark>         | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>                   | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Skypiea</mark>
 
@@ -63,7 +64,7 @@ La <mark style="color:yellow;">**Caisse Skypiea**</mark> s'obtient en l'achetant
 
 |                                 Récompenses                                 | Taux de Drop |
 | :-------------------------------------------------------------------------: | :----------: |
-|      <mark style="color:blue;">**Fruit des Nuages**</mark> _(Niveau 1)_     |    **4%**    |
+|            <mark style="color:blue;">**Fruit des Nuages**</mark>            |    **4%**    |
 |         <mark style="color:blue;">**Burn blade de Kamakiri**</mark>         |    **7%**    |
 |            <mark style="color:green;">**Pistolet Shandia**</mark>           |    **13%**   |
 |            <mark style="color:blue;">**Familier Kalgara**</mark>            |    **2%**    |

@@ -37,7 +37,7 @@ En progressant dans les métiers, vous obtiendrez potentiellement :
 
 * Des <mark style="color:yellow;">**Berrys**</mark>&#x20;
 * Des <mark style="color:yellow;">**objets utiles**</mark> ou <mark style="color:yellow;">**rares**</mark>
-* Des <mark style="color:yellow;">**améliorations de statistiques**</mark>
+* Des <mark style="color:yellow;">**améliorations de statistiques**</mark> _(chaque métier apporte des stats. différentes)_
 * Des récompenses exclusives selon le métier
 
 Les récompenses sont cumulatives : plus vous avancez dans un métier, plus elles deviennent <mark style="color:yellow;">**précieuses**</mark> et <mark style="color:yellow;">**spécialisées**</mark> pour votre style de jeu (farming, minage, pêche, etc.).

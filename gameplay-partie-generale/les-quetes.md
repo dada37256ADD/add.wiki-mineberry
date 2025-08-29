@@ -26,7 +26,12 @@ Les parchemins peuvent être obtenus à travers plusieurs sources, parmi lesquel
 * Les <mark style="color:yellow;">**parchemins**</mark>
 
 {% hint style="danger" %}
-Le <mark style="color:yellow;">**contrat mythique**</mark> ne peut être obtenu que via la commande <mark style="color:yellow;">**`/boutique`**</mark>.
+Le <mark style="color:yellow;">**Contrat Mythique**</mark> est l’un des objets les plus rares du serveur. Il existe plusieurs moyens pour l’obtenir :
+
+* Via la commande <mark style="color:yellow;">**`/boutique`**</mark> _(unique moyen direct)_
+* Atteindre <mark style="color:yellow;">**`/jobs`**</mark> <mark style="color:yellow;">**niveau 170**</mark>
+* Atteindre <mark style="color:yellow;">**`/pass`**</mark> <mark style="color:yellow;">**niveau 45**</mark>
+* En réalisant un <mark style="color:yellow;">**Contrat Légendaire**</mark>
 {% endhint %}
 
 ## <mark style="color:orange;">Niveaux de difficulté</mark>

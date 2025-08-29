@@ -27,7 +27,7 @@ Les familiers sont répartis en <mark style="color:yellow;">**5 raretés**</mark
 * <mark style="color:yellow;">**Légendaire**</mark>
 * <mark style="color:red;">**Mythique**</mark>
 
-Vous pouvez voir la <mark style="color:yellow;">**liste complète**</mark> des familiers du serveur via le <mark style="color:yellow;">**bouton vert en bas à gauche**</mark> du menu <mark style="color:yellow;">**`/pets`**</mark>.
+Vous pouvez voir la <mark style="color:yellow;">**liste complète**</mark> des familiers du serveur via le <mark style="color:yellow;">**bouton vert en bas à gauche**</mark> du menu <mark style="color:yellow;">**`/pokedex`**</mark>.
 
 ## <mark style="color:orange;">Fonctionnement du menu</mark> <mark style="color:yellow;">`/pets`</mark>
 
@@ -55,7 +55,10 @@ Vous pouvez équiper jusqu’à <mark style="color:yellow;">**5 familiers**</mar
 
 **2.&#x20;**<mark style="color:yellow;">**En les plaçant dans votre IS**</mark>
 
-Pour ouvrir l’interface permettant de gérer vos familiers sur votre île, utilisez la commande <mark style="color:yellow;">**`/minion`**</mark>.
+Pour placer vos familiers directement dans votre île, il faut suivre deux étapes :
+
+1. Faites la commande <mark style="color:yellow;">**`/pets`**</mark> et mettez le familier que vous souhaitez transférer.
+2. Ensuite, ouvrez <mark style="color:yellow;">**`/minion`**</mark> et transférez-le depuis votre menu de familiers vers l’interface des minions.
 
 Les familiers placés dans cette interface <mark style="color:yellow;">**n’apparaissent pas**</mark> à vos côtés mais appliquent <mark style="color:yellow;">**toujours leurs effets**</mark> à votre personnage.
 

@@ -6,7 +6,7 @@ description: >-
 
 # ⛓️ Impel Down
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-19 à 15.31.19.png" alt=""><figcaption><p>Aperçu de la l'Île Aventure Impel Down</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2024-01-19 à 15.31.19.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Informations Générales</mark>
 

@@ -4,6 +4,8 @@ description: Le repaire des hommes-poissons où la loi du plus fort règne en ma
 
 # 🏝️ Arlong Park
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.46.41.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations Générales</mark>
 
 Bienvenue à <mark style="color:yellow;">**Arlong Park**</mark>, quatrième île de votre périple sur MinePiece. Ce territoire est placé sous la domination absolue d’Arlong et de ses hommes-poissons. Les habitants y ont été chassés, les récoltes accaparées, et la peur règne dans chaque recoin.
@@ -58,10 +60,11 @@ Les <mark style="color:yellow;">**hommes-poissons**</mark> ont envahi cette zone
 
 ### <mark style="color:orange;">Récompenses possibles</mark>
 
-| Récompenses                                              | Détail / Effet             |
+| Récompenses                                              | Quantité                   |
 | -------------------------------------------------------- | -------------------------- |
-| <mark style="color:yellow;">**Familier Arlong**</mark>   | 10% de chance              |
+| <mark style="color:yellow;">**Familier Arlong**</mark>   | 7.5% de chance             |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>            | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Arlong Park</mark>
 
@@ -77,4 +80,4 @@ Chaque succès complété vous récompensera en <mark style="color:yellow;">**Be
 
 La <mark style="color:yellow;">**Caisse Arlong Park**</mark> s'obtient en l'achetant au prix de <mark style="color:orange;">**1.000 Mandarines**</mark>.
 
-<table><thead><tr><th align="center" valign="middle">Récompenses</th><th align="center" valign="middle">Taux de Drop</th></tr></thead><tbody><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Fruit de l'Homme Poisson</strong></mark> <em>(Niveau 1)</em></td><td align="center" valign="middle"><strong>4%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Dent d'Arlong</strong></mark></td><td align="center" valign="middle"><strong>7%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Pioche de Bell-Mère</strong></mark></td><td align="center" valign="middle"><strong>13%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Familier Octy</strong></mark></td><td align="center" valign="middle"><strong>2%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Familier Smack</strong></mark></td><td align="center" valign="middle"><strong>5%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Fragment d'Armure des Hommes Poissons</strong></mark></td><td align="center" valign="middle"><strong>13%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Dial de vente</strong></mark></td><td align="center" valign="middle"><strong>20%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:orange;"><strong>Berry d'Argent</strong></mark> </td><td align="center" valign="middle"><strong>28%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Booster d'expérience métier</strong></mark></td><td align="center" valign="middle"><strong>9%</strong></td></tr></tbody></table>
+<table><thead><tr><th align="center" valign="middle">Récompenses</th><th align="center" valign="middle">Taux de Drop</th></tr></thead><tbody><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Fruit de l'Homme Poisson</strong></mark></td><td align="center" valign="middle"><strong>4%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Dent d'Arlong</strong></mark></td><td align="center" valign="middle"><strong>7%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Pioche de Bell-Mère</strong></mark></td><td align="center" valign="middle"><strong>13%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Familier Octy</strong></mark></td><td align="center" valign="middle"><strong>2%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Familier Smack</strong></mark></td><td align="center" valign="middle"><strong>5%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Fragment d'Armure des Hommes Poissons</strong></mark> <em>(x2)</em></td><td align="center" valign="middle"><strong>13%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:blue;"><strong>Dial de vente</strong></mark></td><td align="center" valign="middle"><strong>20%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:orange;"><strong>Berry d'Argent</strong></mark> </td><td align="center" valign="middle"><strong>28%</strong></td></tr><tr><td align="center" valign="middle"><mark style="color:green;"><strong>Booster d'expérience métier</strong></mark></td><td align="center" valign="middle"><strong>9%</strong></td></tr></tbody></table>

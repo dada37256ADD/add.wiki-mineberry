@@ -36,6 +36,8 @@
 * [💰 Les Shops](gameplay-partie-generale/les-shops.md)
 * [🎖️ Les Tags](gameplay-partie-generale/les-tags.md)
 * [📩 Les Votes](gameplay-partie-generale/les-votes.md)
+* [🎁 Les Récompenses](gameplay-partie-generale/les-recompenses.md)
+* [🥇 Les Classements](gameplay-partie-generale/les-classements.md)
 
 ## 🔮 Gameplay - Partie aventure
 
@@ -57,3 +59,6 @@
   * [🌳 Sabaody](gameplay-partie-aventure/les-iles-aventure/sabaody.md)
   * [♀️ Amazon Lily](gameplay-partie-aventure/les-iles-aventure/amazon-lily.md)
   * [⛓️ Impel Down](gameplay-partie-aventure/les-iles-aventure/impel-down.md)
+  * [🧌 Île des Hommes Poissons](gameplay-partie-aventure/les-iles-aventure/ile-des-hommes-poissons.md)
+  * [👨‍🔬 Punk Hazard](gameplay-partie-aventure/les-iles-aventure/punk-hazard.md)
+  * [🧸 Dressrosa](gameplay-partie-aventure/les-iles-aventure/dressrosa.md)

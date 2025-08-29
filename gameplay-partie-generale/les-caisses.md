@@ -8,13 +8,26 @@ Pour ajouter un <mark style="color:yellow;">**aspect aléatoire**</mark> à votr
 
 Pour <mark style="color:yellow;">**ouvrir ces caisses**</mark>, vous devrez vous rendre, <mark style="color:yellow;">**muni d'une clé**</mark>, au <mark style="color:yellow;">**`/spawn`**</mark>. Les <mark style="color:yellow;">**caisses**</mark> se trouveront alors sur <mark style="color:yellow;">**devant vous**</mark>. D'autres caisses sont également <mark style="color:yellow;">**dispatchées**</mark> sur les différentes [<mark style="color:orange;">**îles aventure**</mark>](../gameplay-partie-aventure/les-iles-aventure/) mais celles si s'ouvrent via la <mark style="color:yellow;">**monnaie de l'île aventure**</mark>.
 
-Il existe <mark style="color:yellow;">**différents moyens**</mark> d'obtenir des <mark style="color:yellow;">**clés**</mark> : en les <mark style="color:yellow;">**achetant dans la boutique**</mark> avec des <mark style="color:green;">**Gemmes**</mark>, en <mark style="color:yellow;">**votant pour le serveur**</mark>, ou encore en les <mark style="color:yellow;">**gagnant dans les events**</mark>.
+Il existe <mark style="color:yellow;">**différents moyens**</mark> d'obtenir des <mark style="color:yellow;">**clés**</mark> : en les <mark style="color:yellow;">**achetant dans la boutique**</mark> avec des <mark style="color:green;">**Gemmes**</mark> ou bien encore en <mark style="color:yellow;">**votant pour le serveur**</mark>.
 
 {% hint style="success" %}
-Vous pouvez également récupérer une <mark style="color:yellow;">**clé aléatoire**</mark> (Clé Grand Line ou Clé East Blue) via la commande <mark style="color:yellow;">**`/rewards`**</mark>, après <mark style="color:yellow;">**4 heures de jeu**</mark> dans la même journée _(réinitialisation toutes les 24h)_
+Vous pouvez également récupérer une <mark style="color:yellow;">**clé aléatoire**</mark> (Clé Grand Line/Clé East Blue/Clé Nouveau Monde) via la commande <mark style="color:yellow;">**`/rewards`**</mark>, après <mark style="color:yellow;">**4 heures de jeu**</mark> dans la même journée _(réinitialisation toutes les 24h)_
 {% endhint %}
 
-Au fil de votre aventure, vous pourrez récupérer des <mark style="color:yellow;">**fragments de clé**</mark>. Une fois <mark style="color:yellow;">**16 fragments**</mark> réunis, ils se combineront pour former une <mark style="color:yellow;">**clé fonctionnelle**</mark>.
+### <mark style="color:orange;">P</mark><mark style="color:orange;">**robabilités de gain**</mark>
+
+<mark style="color:yellow;">**Joueur classique**</mark>**&#x20;:** Clé East Blue : <mark style="color:yellow;">**100%**</mark>
+
+<mark style="color:yellow;">**Pirate**</mark>**&#x20;:** Clé East Blue : <mark style="color:yellow;">**50%**</mark>\
+&#x20;              Clé Grand Line : <mark style="color:yellow;">**50%**</mark>
+
+<mark style="color:yellow;">**Commandant**</mark>**&#x20;:** Clé East Blue : <mark style="color:yellow;">**33,34%**</mark>\
+&#x20;                              Clé Grand Line : <mark style="color:yellow;">**33,33%**</mark>\
+&#x20;                              Clé Nouveau Monde : <mark style="color:yellow;">**33,33%**</mark>
+
+{% hint style="success" %}
+Au fil de votre aventure, vous pourrez récupérer des <mark style="color:yellow;">**fragments de clé**</mark>. Une fois <mark style="color:yellow;">**16 fragments**</mark> réunis, ils se combineront pour former une <mark style="color:yellow;">**clé fonctionnelle**</mark> avec le <mark style="color:yellow;">**`/convertisseur`**</mark>.
+{% endhint %}
 
 ## <mark style="color:orange;">Système de Pity des Caisses</mark>
 
@@ -78,7 +91,7 @@ La clé de la <mark style="color:yellow;">**Caisse Vote**</mark> s'obtient en <m
 
 ## <mark style="color:orange;">Caisse Grand Line</mark>
 
-La clé de la <mark style="color:yellow;">**Caisse Grand Line**</mark> s'obtient en l'<mark style="color:yellow;">**achetant dans la**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/boutique`**</mark> au prix de <mark style="color:green;">**350 Gemmes**</mark>, ou en <mark style="color:yellow;">**participant à des events**</mark>.
+La clé de la <mark style="color:yellow;">**Caisse Grand Line**</mark> s'obtient en l'<mark style="color:yellow;">**achetant dans la**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/boutique`**</mark> au prix de <mark style="color:green;">**350 Gemmes**</mark>.
 
 |                            Récompenses                           |
 | :--------------------------------------------------------------: |
@@ -116,7 +129,7 @@ La clé de la <mark style="color:yellow;">**Caisse Grand Line**</mark> s'obtient
 
 ## <mark style="color:orange;">Caisse East Blue</mark>
 
-La clé de la <mark style="color:yellow;">**Caisse East Blue**</mark> s'obtient <mark style="color:yellow;">**en l'achetant dans la**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/boutique`**</mark> au prix de <mark style="color:green;">**350 Gemmes**</mark>, ou en <mark style="color:yellow;">**participant à des events**</mark>.
+La clé de la <mark style="color:yellow;">**Caisse East Blue**</mark> s'obtient <mark style="color:yellow;">**en l'achetant dans la**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/boutique`**</mark> au prix de <mark style="color:green;">**350 Gemmes**</mark>.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-24 à 17.30.59.png" alt=""><figcaption></figcaption></figure>
 

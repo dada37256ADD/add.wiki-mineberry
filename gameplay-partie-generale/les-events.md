@@ -33,6 +33,7 @@ Le but : sauter de plateforme en plateforme tout en évitant les chutes.
 * Des <mark style="color:yellow;">**checkpoints**</mark> sont placés à différents points du parcours pour sauvegarder votre progression.
 * Plus vous progressez, plus les sauts deviennent techniques.
 * À la fin du parcours, vous débloquerez <mark style="color:yellow;">**le Double Saut**</mark>.
+* Pour <mark style="color:yellow;">**activer**</mark> le <mark style="color:yellow;">**Double Saut**</mark>, effectuez un <mark style="color:yellow;">**saut**</mark> (Jump) puis appuyez sur <mark style="color:yellow;">**Sneak en l’air**</mark>.
 
 {% hint style="success" %}
 Une fois débloqué, le Double Jump peut être activé ou désactivé à tout moment via la commande <mark style="color:yellow;">**`/settings`**</mark> (ou directement <mark style="color:yellow;">**`/doublejump`**</mark>).

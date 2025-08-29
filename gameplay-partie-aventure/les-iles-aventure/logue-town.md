@@ -4,6 +4,8 @@ description: La ville du départ... ou de la fin !
 
 # 🏙️ Logue Town
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.47.45.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations Générales</mark>
 
 Logue Town marque une étape clé de votre progression dans MinePiece. Située à la croisée des mers, cette ville est un repaire stratégique pour la Marine. Entre ses rues animées et ses zones d’ombre, chaque pas vous rapproche d’un affrontement avec Smoker, le redouté chef de la garnison locale.
@@ -39,11 +41,12 @@ Chef de la Marine de Logue Town, Smoker est un adversaire redoutable qui ne tol�
 
 ### <mark style="color:orange;">Récompenses possibles</mark>
 
-| Récompense                                                 | Détail / Effet                         |
-| ---------------------------------------------------------- | -------------------------------------- |
-| <mark style="color:yellow;">**Essence du Fumigène**</mark> | Utilisable pour le fruit correspondant |
-| <mark style="color:yellow;">**Familier Smoker**</mark>     | 10% de chance d’obtenir                |
-| <mark style="color:yellow;">**Bonbon à la Pomme**</mark>   | Dépend du niveau du joueur             |
+| Récompense                                                 | Quantité                   |
+| ---------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Essence de Fumigène**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Familier Smoker**</mark>     | 5% de chance d’obtenir     |
+| <mark style="color:yellow;">**Bonbon à la Pomme**</mark>   | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>              | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Logue Town</mark>
 
@@ -61,7 +64,7 @@ La <mark style="color:yellow;">**Caisse Logue Town**</mark> s'obtient en l'achet
 
 |                                      Récompenses                                     | Taux de Drop |
 | :----------------------------------------------------------------------------------: | :----------: |
-|           <mark style="color:blue;">**Fruit du Soldat**</mark> _(Niveau 1)_          |    **4%**    |
+|                 <mark style="color:blue;">**Fruit du Soldat**</mark>                 |    **4%**    |
 |                <mark style="color:blue;">**Shigure de Tashigi**</mark>               |    **7%**    |
 |               <mark style="color:green;">**Sabre de la Marine**</mark>               |    **13%**   |
 |                 <mark style="color:blue;">**Familier Tashigi**</mark>                |    **2%**    |

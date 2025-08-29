@@ -4,7 +4,7 @@ description: Le royaume du sable, où secrets antiques et complots s’entremêl
 
 # 🏜️ Alabasta
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-04 à 17.40.52.png" alt=""><figcaption><p>Aperçu de l'Île Aventure Alabasta</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.54.08.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Informations Générales</mark>
 
@@ -74,11 +74,12 @@ Chef du Baroque Works et maître du désert, Crocodile est l’un des 7 Corsaire
 
 ### <mark style="color:orange;">Récompenses possibles</mark>
 
-| Récompense                                                  | Détail / Effet                         |
-| ----------------------------------------------------------- | -------------------------------------- |
-| <mark style="color:yellow;">**Familier Crocodile**</mark>   | 10% de chance d’obtenir                |
-| <mark style="color:yellow;">**Essence des Sables**</mark>   | Utilisable pour le fruit correspondant |
-| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur             |
+| Récompense                                                  | Quantité                   |
+| ----------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Familier Crocodile**</mark>   | 2% de chance d’obtenir     |
+| <mark style="color:yellow;">**Essence des Sables**</mark>   | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark> | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>               | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Royaume d’Alabasta</mark>
 
@@ -96,7 +97,7 @@ La <mark style="color:yellow;">**Caisse Alabasta**</mark> s'obtient en l'achetan
 
 |                                   Récompenses                                  | Taux de Drop |
 | :----------------------------------------------------------------------------: | :----------: |
-|           <mark style="color:blue;">**Fruit des Os**</mark> _(Niv 1)_          |    **4%**    |
+|                <mark style="color:blue;">**Fruit des Os**</mark>               |    **4%**    |
 |                <mark style="color:blue;">**Épée de Koza**</mark>               |    **7%**    |
 |              <mark style="color:green;">**Épée d’Alabasta**</mark>             |    **13%**   |
 |               <mark style="color:blue;">**Familier Vivi**</mark>               |    **2%**    |

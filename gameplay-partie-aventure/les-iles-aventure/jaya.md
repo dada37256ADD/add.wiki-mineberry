@@ -6,6 +6,8 @@ description: >-
 
 # 🌱 Jaya
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.55.10.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations générales</mark>
 
 Située au cœur des routes maritimes, cette île est un véritable champ de bataille, réputée pour ses duels violents et ses récompenses alléchantes.
@@ -38,11 +40,12 @@ Surnommé _la Hyène_, Bellamy est un combattant explosif et imprévisible. Maî
 
 ### <mark style="color:orange;">Récompenses possibles</mark>
 
-| Récompense                                                   | Détail / Effet                         |
-| ------------------------------------------------------------ | -------------------------------------- |
-| <mark style="color:yellow;">**Familier Bellamy**</mark>      | 10% de chance de l’obtenir             |
-| <mark style="color:yellow;">**Essence du Ressort**</mark>    | Utilisable pour le fruit correspondant |
-| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark>  | Dépend du niveau du joueur             |
+| Récompense                                                   | Quantité                   |
+| ------------------------------------------------------------ | -------------------------- |
+| <mark style="color:yellow;">**Familier Bellamy**</mark>      | 5% de chance de l’obtenir  |
+| <mark style="color:yellow;">**Essence du Ressort**</mark>    | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon à la Myrtille**</mark>  | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>                | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Jaya</mark>
 
@@ -58,14 +61,14 @@ Chaque succès complété vous récompensera en <mark style="color:yellow;">**Be
 
 La <mark style="color:yellow;">**Caisse Jaya**</mark> s'obtient en l'achetant au prix de <mark style="color:yellow;">**1.250 Becs**</mark>.
 
-|                                   Récompenses                                   | Taux de Drop |
-| :-----------------------------------------------------------------------------: | :----------: |
-| <mark style="color:green;">**Fruit de la Plante Carnivore**</mark> _(Niveau 1)_ |    **4%**    |
-|               <mark style="color:green;">**Épée de Masira**</mark>              |    **7%**    |
-|         <mark style="color:blue;">**Houe de Mont Blanc Cricket**</mark>         |    **13%**   |
-|         <mark style="color:blue;">**Familier Mont Blanc Norland**</mark>        |    **2%**    |
-|             <mark style="color:green;">**Familier Sarquiss**</mark>             |    **5%**    |
-|     <mark style="color:blue;">**Fragment d'Armure de Pirate**</mark> _(x2)_     |    **15%**   |
-|               <mark style="color:green;">**Dial de vente**</mark>               |    **17%**   |
-|              <mark style="color:yellow;">**Berry de Bronze**</mark>             |    **28%**   |
-|            <mark style="color:green;">**Parchemin aléatoire**</mark>            |    **9%**    |
+|                               Récompenses                               | Taux de Drop |
+| :---------------------------------------------------------------------: | :----------: |
+|    <mark style="color:green;">**Fruit de la Plante Carnivore**</mark>   |    **4%**    |
+|           <mark style="color:green;">**Épée de Masira**</mark>          |    **7%**    |
+|     <mark style="color:blue;">**Houe de Mont Blanc Cricket**</mark>     |    **13%**   |
+|     <mark style="color:blue;">**Familier Mont Blanc Norland**</mark>    |    **2%**    |
+|         <mark style="color:green;">**Familier Sarquiss**</mark>         |    **5%**    |
+| <mark style="color:blue;">**Fragment d'Armure de Pirate**</mark> _(x2)_ |    **15%**   |
+|           <mark style="color:green;">**Dial de vente**</mark>           |    **17%**   |
+|          <mark style="color:yellow;">**Berry de Bronze**</mark>         |    **28%**   |
+|        <mark style="color:green;">**Parchemin aléatoire**</mark>        |    **9%**    |

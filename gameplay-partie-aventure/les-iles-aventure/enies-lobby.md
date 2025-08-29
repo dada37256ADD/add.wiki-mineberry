@@ -6,6 +6,8 @@ description: >-
 
 # ⚖️ Enies Lobby
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.56.49.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations générales</mark>
 
 <mark style="color:yellow;">**Enies Lobby**</mark> devient accessible après <mark style="color:yellow;">**Reverse Moutain**</mark>, marquant l’entrée dans les affrontements contre le <mark style="color:yellow;">**CP9**</mark>, l’élite des assassins du Gouvernement Mondial.\
@@ -40,11 +42,12 @@ Chef redouté du <mark style="color:yellow;">**CP9**</mark>, Rob Lucci incarne l
 
 ### <mark style="color:orange;">R</mark><mark style="color:orange;">**écompenses possibles**</mark>
 
-| Récompense                                                | Détail / Effet                           |
-| --------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Familier Rob Lucci**</mark> | 10% de chance de l’obtenir               |
-| <mark style="color:yellow;">**Essence du Félin**</mark>   | Débloque ou améliore le Fruit des Ombres |
-| <mark style="color:yellow;">**Bonbon au Raisin**</mark>   | Dépend du niveau du joueur               |
+| Récompense                                                | Quantité                   |
+| --------------------------------------------------------- | -------------------------- |
+| <mark style="color:yellow;">**Familier Rob Lucci**</mark> | 5% de chance de l’obtenir  |
+| <mark style="color:yellow;">**Essence du Félin**</mark>   | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Bonbon au Raisin**</mark>   | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>             | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Enies Lobby</mark>
 
@@ -62,7 +65,7 @@ La <mark style="color:yellow;">**Caisse Enies Lobby**</mark> s'obtient en l'ache
 
 |                                   Récompenses                                    | Taux de Drop |
 | :------------------------------------------------------------------------------: | :----------: |
-|       <mark style="color:blue;">**Fruit de la Justice**</mark> _(Niveau 1)_      |    **4%**    |
+|             <mark style="color:blue;">**Fruit de la Justice**</mark>             |    **4%**    |
 |            <mark style="color:green;">**Hache des Onze Jurés**</mark>            |    **7%**    |
 |            <mark style="color:blue;">**Pioche de Baskerville**</mark>            |    **13%**   |
 |               <mark style="color:blue;">**Familier Hattori**</mark>              |    **2%**    |

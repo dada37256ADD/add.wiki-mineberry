@@ -4,6 +4,8 @@ description: Une ville colorée… infestée de clowns dangereux
 
 # 🍊 Orange Town
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-27 à 15.45.01.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:orange;">Informations Générales</mark>
 
 Bienvenue à <mark style="color:yellow;">**Orange Town**</mark>, votre deuxième escale dans le monde de MinePiece. Cette île urbaine sous l’emprise de <mark style="color:yellow;">**Baggy**</mark> vous confrontera à de nouveaux ennemis, tout en enrichissant votre aventure avec des activités agricoles, un boss imprévisible, et des récompenses uniques.
@@ -61,9 +63,10 @@ Invoquez-le via sa statue dans la zone boss une fois les ressources réunies :
 
 | Récompenses                                                        | Quantité                   |
 | ------------------------------------------------------------------ | -------------------------- |
-| <mark style="color:yellow;">**Familier Baggy**</mark>              | 7.5% de chance             |
+| <mark style="color:yellow;">**Familier Baggy**</mark>              | 5% de chance               |
 | <mark style="color:yellow;">**Essence de la Fragmentation**</mark> | Dépend du niveau du joueur |
 | <mark style="color:yellow;">**Bonbon à la Pomme**</mark>           | Dépend du niveau du joueur |
+| <mark style="color:yellow;">**Berrys**</mark>                      | Dépend du niveau du joueur |
 
 ## <mark style="color:orange;">Succès d’île – Orange Town</mark>
 
@@ -81,7 +84,7 @@ La <mark style="color:yellow;">**Caisse Ville Orange**</mark> s'obtient en l'ach
 
 |                             **Récompenses**                             | **Taux de Drop** |
 | :---------------------------------------------------------------------: | :--------------: |
-|     <mark style="color:green;">**Fruit du Lion**</mark> _(Niveau 1)_    |      **4%**      |
+|           <mark style="color:green;">**Fruit du Lion**</mark>           |      **4%**      |
 |           <mark style="color:blue;">**Fouet de Morge**</mark>           |      **7%**      |
 |            <mark style="color:blue;">**Houe de Morge**</mark>           |      **13%**     |
 |           <mark style="color:blue;">**Familier Cabaji**</mark>          |      **2%**      |
