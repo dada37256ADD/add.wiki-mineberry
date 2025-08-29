@@ -29,7 +29,7 @@
 * [🎁 Les Caisses](gameplay-partie-generale/les-caisses.md)
 * [📅 Les Events](gameplay-partie-generale/les-events.md)
 * [😈 Les Fruits du Démon](gameplay-partie-generale/les-fruits-du-demon.md)
-* [🥚 Les Pets](gameplay-partie-generale/les-pets.md)
+* [🥚 Les Familiers](gameplay-partie-generale/les-pets.md)
 * [📉 Les Statistiques](gameplay-partie-generale/les-statistiques.md)
 * [⚔️ Le Système d’Armes Évolutives](gameplay-partie-generale/le-systeme-darmes-evolutives.md)
 * [🎣 La Pêche](gameplay-partie-generale/la-peche.md)

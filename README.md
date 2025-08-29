@@ -34,11 +34,15 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
 * [<mark style="color:orange;">**Les Caisses**</mark>](gameplay-partie-generale/les-caisses.md)
 * [<mark style="color:orange;">**Les Events**</mark>](gameplay-partie-generale/les-events.md)
 * [<mark style="color:orange;">**Les Fruits du Démon**</mark>](gameplay-partie-generale/les-fruits-du-demon.md)
-* [<mark style="color:orange;">**Les Pets**</mark>](gameplay-partie-generale/les-pets.md)
+* [<mark style="color:orange;">**Les Familiers**</mark>](gameplay-partie-generale/les-pets.md)
 * [<mark style="color:orange;">**Les Statistiques**</mark>](gameplay-partie-generale/les-statistiques.md)
 * [<mark style="color:orange;">**Système d'Armes Évolutives**</mark>](gameplay-partie-generale/le-systeme-darmes-evolutives.md)
 * [<mark style="color:orange;">**La Pêche**</mark>](gameplay-partie-generale/la-peche.md)
 * [<mark style="color:orange;">**Les Shops**</mark>](gameplay-partie-generale/les-shops.md)
+* [<mark style="color:orange;">**Les Tags**</mark>](gameplay-partie-generale/les-tags.md)
+* [<mark style="color:orange;">**Les Votes**</mark>](gameplay-partie-generale/les-votes.md)
+* [<mark style="color:orange;">**Les Récompenses**</mark>](gameplay-partie-generale/les-recompenses.md)
+* [<mark style="color:orange;">**Les Classements**</mark>](gameplay-partie-generale/les-classements.md)
 
 ## [<mark style="color:orange;">GamePlay - Partie Aventure</mark>](./#gameplay-partie-aventure)
 
@@ -58,3 +62,6 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
   * [**Thriller Bark**](gameplay-partie-aventure/les-iles-aventure/thriller-bark.md)
   * [**Amazon Lily**](gameplay-partie-aventure/les-iles-aventure/amazon-lily.md)
   * [**Sabaody**](gameplay-partie-aventure/les-iles-aventure/sabaody.md)
+  * [**Île des Hommes Poissons**](gameplay-partie-aventure/les-iles-aventure/ile-des-hommes-poissons.md)
+  * [**Punk Hazard**](gameplay-partie-aventure/les-iles-aventure/punk-hazard.md)
+  * [**Dressrosa**](gameplay-partie-aventure/les-iles-aventure/punk-hazard.md)
