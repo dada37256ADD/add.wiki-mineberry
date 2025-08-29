@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant les votes
 
 # 📩 Les Votes
 
-Voter pour le serveur est un excellent moyen de **nous soutenir** tout en obtenant des récompenses exclusives.
+Voter pour le serveur est un excellent moyen de <mark style="color:yellow;">**nous soutenir**</mark> tout en obtenant des récompenses exclusives.
 
 Chaque vote vous rapporte une <mark style="color:yellow;">**Clé de vote**</mark>, utilisable à la <mark style="color:yellow;">**Caisse Vote**</mark> disponible au <mark style="color:yellow;">**`/spawn`**</mark>.
 
@@ -16,7 +16,7 @@ En cumulant vos votes, vous progressez dans un système de <mark style="color:ye
 
 ## <mark style="color:orange;">Vote Party</mark>
 
-Chaque <mark style="color:yellow;">**palier communautaire de votes**</mark> débloque une récompense pour tous les participants : <mark style="color:yellow;">**5,000 Berrys**</mark> + <mark style="color:yellow;">**2 Clé de vote**</mark>
+Chaque <mark style="color:yellow;">**palier communautaire de votes**</mark> débloque une récompense pour tous les participants connectés : <mark style="color:yellow;">**5,000 Berrys**</mark> + <mark style="color:yellow;">**2 Clé de vote**</mark>
 
 ## <mark style="color:orange;">Palier récurrent individuel</mark>
 
