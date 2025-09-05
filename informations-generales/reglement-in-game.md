@@ -7,10 +7,6 @@ description: >-
 
 # 🧷 Règlement In-Game
 
-Toute décision d’un membre du staff, basée sur un article du règlement ou non, devra être respectée.&#x20;
-
-Tout manquement au règlement est passible de sanctions suivant le niveau de non-respect de celui-ci.
-
 {% hint style="danger" %}
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
@@ -21,7 +17,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
 * Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
-* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une île, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
+* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub pour votre chaine youtube, de stream ou à but d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
 * Nous ne prenons pas en charge les transferts de compte.
 * **Le contournement de mute ou de bannissement est strictement interdite.**
   * Il est de votre responsabilité de respecter notre règlement et d’accepter les sanctions qui vous sont attribuées.\
@@ -73,9 +69,9 @@ Tout abus ou contournement de ces règles entraînera une sanction adaptée à l
     * Il est interdit de faire monter intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
     * Et bien d'autres cas.\
       Si vous avez un doute, faites un ticket !
-* Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagné ou les récompenses liées à leur mort.
 * Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
+* Afin de respecter le bon déroulement des combats avec les boss, il est interdit de faire quelconques action limitant les actions des autres joueurs sur ce boss (se mettre à l'intérieur de la hitbox, l'éloigner pour que sa vie se reset...)&#x20;
 
 #### **Action sur une île :**&#x20;
 
@@ -128,7 +124,7 @@ Cette liste n'est pas exhaustive.
 
 * Les usines dites à "0 ticks" et les machines volantes sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites.
-* Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
+* Il est interdit de farmer à l'aide ou dans un véhicule (wagons/bateau/etc).&#x20;
 * Les clocks trop rapides ou les systèmes conséquents et mal optimisés sont interdits.
   * Il est demandé par faciliter d'avoir un système on/off sur vos farm à redstone.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
@@ -170,7 +166,7 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
 * Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs…).
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner, mais il est interdit de boost son compte principal (Items / Argent / autres).
+* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK, mais il est interdit de boost son compte principal (Items / Argent / autres).
 * Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 * Il est interdit de voter avec deux comptes différents pour le serveur.
 
@@ -244,7 +240,7 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur :
 * Le screen doit être complet, date, heure, contexte, etc...
 * Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
 
-***
+
 
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
 
