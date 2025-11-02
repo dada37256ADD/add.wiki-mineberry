@@ -97,6 +97,7 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 * Il est interdit de créer des jeux de hasard/casino.
 * Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
 * La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items sans durabilité, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
+* Il est interdit de mettre en vente des têtes du /hdb accessible via le /premium
 * Il est interdit d'utiliser son fruit du démon sur d'autres joueurs en zone aventure ou dans les warps publiques
 * Les farms à wither sont interdites.
 * Le poser/casser est interdit.
