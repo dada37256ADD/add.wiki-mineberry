@@ -90,6 +90,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 Voici une liste non exhaustive des actions interdites sur le serveur :
 
 * Anti-Afk (circuit d'eau, Auto-Jump...)
+* La construction et l'utilisation de systèmes "chunk-loader" sur votre île est totalement interdite
 * Vente d'items contre de l'argent réel ou contre des gemmes.
 * Le tp-kill est interdit.
 * Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
