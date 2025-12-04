@@ -4,8 +4,8 @@
 
 ## 🧷 Informations générales
 
-* [🧷 Règlement In-Game](informations-generales/reglement-in-game.md)
 * [Contribuer](CONTRIBUTING.Md)
+* [🧷 Règlement In-Game](informations-generales/reglement-in-game.md)
 * [🤚 Règlement Discord](informations-generales/reglement-discord.md)
 * [⁉️ Tutoriels](informations-generales/tutoriels/README.md)
   * [➡️ Comment rejoindre MinePiece ?](informations-generales/tutoriels/comment-rejoindre-mineberry.md)
