@@ -126,19 +126,25 @@ Cette liste n'est pas exhaustive.
 
 ### <mark style="color:orange;">Article D : Utilisation de la Redstone</mark>
 
-* Les usines dites à "0 ticks" et les machines volantes sont interdites.
-* Les machines créant des lags, volontairement ou non, sont interdites.
-* Il est interdit de farmer à l'aide ou dans un véhicule (wagons/bateau/etc).&#x20;
+* Les clocks redstone sans intervalle de tick, qui laissent apparaître cet intervalle visuellement, sont interdites.
+* Les systèmes redstone amenant à du 0-tick, en tout genre, sont interdits.
+* Les machines créant du lag, volontairement ou non, sont interdites.
+* Il est interdit de farmer à l’aide d’un véhicule ou dans un véhicule (wagons, bateaux, etc.).
 * Les clocks trop rapides ou les systèmes conséquents et mal optimisés sont interdits.
-  * Il est demandé par faciliter d'avoir un système on/off sur vos farm à redstone.
-* Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+* Il est demandé, par souci de simplicité, d’avoir un système ON/OFF sur vos farms redstone.
+* Les clocks redstone non utilisées doivent obligatoirement être en position OFF.
+* Les trieurs d’items ne possédant pas de système permettant de détruire automatiquement les objets (par exemple avec de la lave) pourront être retirés par la modération.
+* La lave doit être placée en bout de ligne afin d’empêcher les items de tourner en rond.
 
 {% hint style="warning" %}
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
 {% endhint %}
 
 {% hint style="danger" %}
-Si votre système/machine ne respecte pas les règles du serveur il sera supprimé sans remboursement.
+Des sanctions peuvent être appliquées si ces règles ne sont pas respectées. Les sanctions possibles sont :\
+– Warn\
+– Ban temporaire\
+– Suppression de farm
 {% endhint %}
 
 ### <mark style="color:orange;">Article E : Les Mods autorisés</mark>
