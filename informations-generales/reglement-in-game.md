@@ -54,6 +54,8 @@ Cela inclut notamment le partage d’items de niveau du mois, d’argent, ou de 
 
 Il est également interdit d’utiliser une île tierce dans le but de **contourner les limites techniques** de votre propre île (ex : nombre de hoppers, limite de joueurs, shops, etc.), y compris via l’usage de double comptes.
 
+Cependant, vous avez la possibilité de créer une seconde île sur un double compte dans l'unique but de créer un **is warp** avec un gros build/shops/autre. Interdiction d'y construire du stockage, des farms, etc... Si un membre de la modération vérifie votre seconde île et que des constructions interdites sont présentes dessus, nous nous réservons le droit de supprimer totalement cette dernière.
+
 Les alliances en **PvP** ou dans les **zones d’Avants-Postes** sont également interdites, quelle que soit leur forme.
 
 Tout abus ou contournement de ces règles entraînera une sanction adaptée à la gravité de la situation.
