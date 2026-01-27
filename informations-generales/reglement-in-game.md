@@ -49,16 +49,48 @@ Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 
 ### <mark style="color:orange;">Article D : Les Alliances d'îles</mark>
 
-Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour but d’obtenir un avantage dans le **classement des îles** ou dans les **Avants-Postes**.\
-Cela inclut notamment le partage d’items de niveau du mois, d’argent, ou de toute autre ressource susceptible d’influencer le classement d’une île.
+Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour objectif ou pour effet d’obtenir un avantage dans le classement des îles.
 
-Il est également interdit d’utiliser une île tierce dans le but de **contourner les limites techniques** de votre propre île (ex : nombre de hoppers, limite de joueurs, shops, etc.), y compris via l’usage de double comptes.
+Cela inclut notamment, sans s’y limiter :
 
-Cependant, vous avez la possibilité de créer une seconde île sur un double compte dans l'unique but de créer un **is warp** avec un gros build/shops/autre. Interdiction d'y construire du stockage, des farms, etc... Si un membre de la modération vérifie votre seconde île et que des constructions interdites sont présentes dessus, nous nous réservons le droit de supprimer totalement cette dernière.
+* le partage régulier ou organisé de farms ;
+* le partage d’items de niveau du mois, d’argent ou de ressources en grande quantité ;
+* l’utilisation des infrastructures d’une autre île afin d’optimiser sa propre production ;
+* toute organisation permettant d’éviter la construction normale de farms sur son île.
 
-Les alliances en **PvP** ou dans les **zones d’Avants-Postes** sont également interdites, quelle que soit leur forme.
+***
 
-Tout abus ou contournement de ces règles entraînera une sanction adaptée à la gravité de la situation.
+#### <mark style="color:$warning;">**Farm et utilisation d’îles tierces**</mark>
+
+Chaque île est tenue de farmer exclusivement sur sa propre île. Le farm régulier ou organisé sur l’île d’un autre joueur est strictement interdit, qu’il s’agisse ou non d’une alliance déclarée.
+
+Une tolérance peut être accordée à **1 à 2 joueurs maximum**, de manière **ponctuelle**, sous la responsabilité du chef d’île, à condition que cela ne remplace pas la construction normale de farms sur l’île concernée.
+
+Tout usage abusif, massif ou permettant d’obtenir un avantage économique ou technique sera considéré comme un contournement du règlement et entraînera des sanctions.
+
+***
+
+#### <mark style="color:$warning;">**Contournement des limites**</mark>
+
+Il est strictement interdit d’utiliser une île tierce, y compris via l’usage de double comptes, dans le but de contourner les limites de sa propre île (nombre de hoppers, de joueurs, de shops, de farms, etc.).
+
+* **Cas particulier : seconde île via double compte :**&#x20;
+
+Il est autorisé de créer une seconde île sur un double compte **uniquement** dans le but de créer un **/is warp** (builds, shops, décorations, événements, etc.).
+
+Sont strictement interdits sur cette seconde île :
+
+* tout type de stockage ;
+* toute farm ou machine de production ;
+* toute utilisation permettant d’avantager directement ou indirectement l’île principale.
+
+En cas de non-respect, la modération se réserve le droit de supprimer intégralement la seconde île, sans compensation.
+
+***
+
+#### <mark style="color:$warning;">**Sanctions**</mark>
+
+Tout abus, contournement ou comportement allant à l’encontre de l’esprit de ces règles pourra entraîner une sanction adaptée à la gravité de la situation, même si celui-ci n’est pas explicitement listé ci-dessus.
 
 ## <mark style="color:orange;">Partie II : Le Gameplay</mark>
 
