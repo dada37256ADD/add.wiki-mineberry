@@ -92,6 +92,8 @@ En cas de non-respect, la modération se réserve le droit de supprimer intégra
 
 Tout abus, contournement ou comportement allant à l’encontre de l’esprit de ces règles pourra entraîner une sanction adaptée à la gravité de la situation, même si celui-ci n’est pas explicitement listé ci-dessus.
 
+
+
 ## <mark style="color:orange;">Partie II : Le Gameplay</mark>
 
 ### <mark style="color:orange;">Article A : Interactions entre joueurs</mark>
@@ -205,7 +207,38 @@ Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff.
 Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket.
 {% endhint %}
 
-### <mark style="color:orange;">Article G : Les Doubles-Comptes</mark>
+### <mark style="color:orange;">Article G : Création et partage de mods</mark>
+
+Tous les mods créés pour **Minepiece** (tels que les mods _QoL_, etc.) doivent respecter des règles spécifiques afin d’être autorisés lorsqu’ils sont partagés.
+
+Les mods **ne doivent pas** être distribués via des sites tiers, **sauf** par l’intermédiaire des plateformes approuvées suivantes :
+
+* **GitHub** (avec le code source rendu public)
+* **CurseForge**
+* **Modrinth**
+
+Les mods **ne doivent pas** :
+
+* Exiger la création d’un compte utilisateur
+* Collecter, stocker ou transmettre des informations utilisateurs sous quelque forme que ce soit
+* Collecter, stocker ou transmettre des données liées aux joueurs
+
+Les mods ne peuvent être partagés **uniquement** via des liens directs provenant des plateformes approuvées mentionnées ci-dessus (GitHub, CurseForge ou Modrinth).
+
+Les mods ne doivent **en aucun cas** offrir un avantage déloyal (voir **II -** **Article F**).
+
+> ⚠️ **Avertissement**\
+> Malgré la mise en place de ces règles, restez toujours prudents quant à ce que vous utilisez et téléchargez en ligne. Ces règles existent avant tout pour protéger nos joueurs autant que possible.
+
+Si un mod ne respecte pas ces règles et qu’il est partagé entre plusieurs joueurs, **tous les joueurs impliqués seront sévèrement sanctionnés**, et tout utilisateur utilisant ce mod se verra **interdire définitivement l’accès au serveur** tant que le mod n’aura pas été supprimé.
+
+Nous nous réservons le droit d’autoriser ou de refuser **tout mod**, sans exception.
+
+En cas de doute quant à la conformité de votre mod avec ces règles, n’hésitez pas à créer un ticket sur notre Discord : 👉 **discord.gg/minepiece**
+
+
+
+### <mark style="color:orange;">Article H : Les Doubles-Comptes</mark>
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
@@ -218,13 +251,13 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MinePiece en ticket.
 {% endhint %}
 
-### <mark style="color:orange;">Article H : L'AFK</mark>
+### <mark style="color:orange;">Article I : L'AFK</mark>
 
 * **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
 * Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 * Le farming/afk à l’aide de véhicules (bateaux, minecart, etc.) est interdit.
 
-### <mark style="color:orange;">Article I : Triche et Usebugs</mark>
+### <mark style="color:orange;">Article J : Triche et Usebugs</mark>
 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
