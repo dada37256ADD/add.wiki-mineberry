@@ -76,7 +76,7 @@ Vous pourrez donner un <mark style="color:yellow;">**style unique**</mark> à vo
 | <mark style="color:yellow;">**Numancia**</mark>        | Légendaire | Caisse Corsaire                | ✅                    | 4      |
 | <mark style="color:yellow;">**Arch Maxime**</mark>     | Légendaire | Caisse Corsaire                | ✅                    | 4      |
 | <mark style="color:yellow;">**Thriller Bark**</mark>   | Légendaire | Caisse Corsaire                | ✅                    | 4      |
-| <mark style="color:yellow;">**Bilking**</mark>         | Noël       | Caisse Corsaire                | ✅                    | 4      |
+| <mark style="color:yellow;">**Bilking**</mark>         | Noël       | Caisse Noël                | ✅                    | 4      |
 | <mark style="color:red;">**Queen Mama Chanter**</mark> | Mythique   | Caisse Corsaire                | ✅                    | 5      |
 | <mark style="color:red;">**Thousand Sunny**</mark>     | Mythique   | Caisse Corsaire                | ✅                    | 5      |
 
